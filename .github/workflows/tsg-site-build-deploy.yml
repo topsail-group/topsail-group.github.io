@@ -19,11 +19,11 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
       # Setup Node.js to access npm
       - uses: actions/setup-node@v3
         with:
@@ -34,5 +34,11 @@ jobs:
         run: npm install -g static-i18n
 
       # Run translations
-      - name: Run translations
+      - name: Build translations
         run: static-i18n -l en -i en -i ru -i lv www -o docs
+      
+      - name: Deploy to GH Pages 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: docs
