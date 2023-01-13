@@ -1,0 +1,207 @@
+{
+    "lang":"lv",
+    "navbar": {
+      "Home": "Sākums",
+      "Current": "(pašreizējais)",
+      "Services": "Pakalpojumi",
+      "About": "Par mums",
+      "TermsConditions": "Lietošanas noteikumi",
+      "PrivacyPolicy": "Privātuma politika",
+      "Contact": "Kontakti ",
+      "Career": "Karjera"
+    },
+    "header": {
+      "Title": "<span class=\"turquoise\">Business Intelligence </span> uzņēmuma uzlabošana, izmantojot datus",
+      "Subtitle": "Pārveidojiet datus par praktiski izmantojamiem ieskatiem, kas veicina biznesa lēmumu pieņemšanu, lai gūtu vēl lielākus panākumus."
+    },
+    "wanted": {
+      "Title": "Mēs meklējam jaunus kolēģus!"
+    },
+    "services": {
+      "Title": "Business Intelligence Pakalpojumi",
+      "Subtitle": "Mēs strādājam ar jums, lai pārvērstu jūsu datus taustāmā uztverē, dodot jums vairāk laika pie stūres. Mēs tevi <strong>saprotam</strong> un runājam vienu valoda",
+      "Development": {
+        "Title": "Attīstība ",
+        "Subtitle": "Izveidot jaunu vai uzlabot to, kas jums ir.<br/> Mūsu izstrādes grupa strādās kopā ar jums, lai izstrādātu un ieviestu <strong>jūsu</strong> vajadzībām atbilstošus BI risinājumus."
+      },
+      "Consultancy": {
+        "Title": "Konsultācija",
+        "Subtitle": "Pastāstiet mums, ko vēlaties zināt.<br/> Mūsu pieredzējušie konsultanti darbosies kā tehnoloģiju tilts jūsu biznesa industrijai. "
+      },
+      "Reporting": {
+        "Title": "BI Analīze un Atskaites",
+        "Subtitle": "Lai jūsu dati runā ar jums.<br/> Analīzes rezultātu vizuāls attēlojums - diagrammas, grafiki un histogrammas, lai viegli izprastu datus."
+      }
+    },
+    "Trust": "Uzticas",
+    "basic2": {
+      "Title": "Datu Kvalitāte un Datu Analīze",
+      "op1": "Datu sagatavošana",
+      "op2": "Datizrace",
+      "op3": "Aprakstošā un preventīvā analīze",
+      "op4": "Datu vizualizācija un ziņošana"
+    },
+    "basic1": {
+      "Title": "Tehniskie Risinājumi",
+      "Subtitle": "Mēs Veidojam, Pārvaldām un/vai Atbalstām",
+      "op1": "Data warehouse (DWH)",
+      "op2": "Master data management (MDM)",
+      "op3": "ETL/ELT (Extract, Transform, Load data)",
+      "op4": "Datu integrācija"
+    },
+    "basic2Modal": {
+      "card1": {
+        "Title": "Datu Tīrīšana",
+        "Text": "Datu kvalitāte ir būtiska, lai lietotu mašīnmācību modeļus ar mērķi atrisināt ar uzņēmējdarbību saistītus jautājumus un apmācīt AI modeļus. Tomēr analītika un datu zinātne ne tikai pieprasa datu kvalitāti. Tie var arī ievērojami uzlabot jūsu datu kvalitāti. Trūkstošā vērtību aprēķināšana un sarežģītu ārējo vērtību noteikšana, iespējams, ir divas labākās zināmās analīzes iespējas datu kvalitātē, bet tās nekādā ziņā nav vienīgās."
+      },
+      "card2": {
+        "Title": "Datu Analīze",
+        "Text": "Izmantojot mūsu datu zinātniekus, jūs iespējosiet gan kvantitatīvo, gan kvalitatīvo datu analīzi, lai sniegtu vērtīgu ieskatu jūsu komandai, kad un kā tā ir nepieciešama. <br> Mēs veicam: <ul class=\"p-large\"><li>Statistiskā Analīze</li><li>Diagnostikas Analīze</li><li>Prognozējoša Pārbaude</li><li>Preskriptīvā Analīze</li></ul>"
+      },
+      "card3": {
+        "Title": "Datu vizualizācija",
+        "Text": "Analītisks ziņojums ir biznesa pārskata veids, kas izmanto kvalitatīvus un kvantitatīvus uzņēmuma datus, lai analizētu un novērtētu biznesa stratēģiju vai procesu, vienlaikus dodot iespēju darbiniekiem pieņemt uz datiem balstītus lēmumus, pamatojoties uz pierādījumiem un analīzi. Lai gan analītiskā ziņošana ir balstīta uz statistiku, vēsturiskiem datiem un var sniegt prognozējošu analīzi par konkrētu jautājumu, tās izmantošana ir izplatīta arī, analizējot pašreizējos datus daudzās nozarēs."
+      }
+    },
+    "basic1Modal": {
+      "p1": {
+        "Title": "Data warehouses (DWH)",
+        "Text": "DWH tehnoloģijas galvenais mērķis ir datu vākšana, integrēšana, tīrīšana un uzglabāšana datu bāzes sistēmā saskaņotā veidā. Ja DWH dati pastāv, tam nav nozīmes, lietotājs var izmantot datu vērtību vienā vai vairākos šodien pieejamos stilos: <ul class=\"p-large\"> <li>Uzņēmumu ziņošana – klasisks tabulārs, drukājams pārskats, kas izveidots pēc pieprasījuma vai sagatavots pirms pieprasījuma.</li> <li>Tiešsaistes analītiskās apstrādes analīze – ātra pārlūkošana un vaicājumi, izmantojot lielos daudzumus iepriekš izskaitļoto apkopoto datu, kas organizēti tabulas modelī.</li><li>Ad Hoc Query Analysis — rakstot datu bāzes vaicājumus, lietotājs var izpētīt datus tādā veidā, kas nav paredzēts pirms atskaišu un datu modeļu izveides.</li><li>Statistiskā analīze un datu ieguve – izmantojot matemātiskos un statistiskos modeļus, kas iestrādāti datizraces instrumentos apvienojumā ar DWH datiem, lietotājs mēģina atrast nezināmas datu patternsand attiecības.</li><li>Brīdināšana un atskaišu sniegšana — sistēmas spēja informēt lietotāju par to, ka pieprasītie dati kļūst pieejami vai ir noticis nozīmīgs notikums.</li><li>Uzņēmumu darbības vadība – darbības rādītāju uzraudzība, tie rādītāji, kas parāda organizācijas sniegumu (vai veselību) pagātnē, tagadnē un to, cik tālu organizācija ir no saviem nākotnes mērķiem.</li></ul>"
+      },
+      "p2": {
+        "Title": "Master data management (MDM)",
+        "Text": "MDM ir pamatprocess, kas tiek izmantots, lai atbalstītu jūsu biznesa iniciatīvas, identificējot, saistot un sindicējot informāciju starp produktiem, klientiem, veikaliem/atrašanās vietām, darbiniekiem, piegādātājiem, digitālajiem aktīviem un daudz ko citu. MDM savieno, uztur un koplieto datus no visām jūsu sistēmām, tostarp ERP, CRM, e-komercijas un citām. Tā ļauj izveidot 360 ° informācijas skatu. Jūs uzzināsit visu, sākot no klientu pirkšanas vēstures līdz produktu pieejamībai un piegādātāju mijiedarbībai. MDM ļauj: <ul class=\"p-large\"> <li>Koncentrējiet savu produktu, pakalpojumu un biznesa darbu uz darbībām, kas palielina pārdošanas apjomus.</li><li>Sniedz ļoti personisku pakalpojumu un iesaistes pieredzi.</li><li>Atcelt prioritātes nerentablām darbībām, kas izlaiž laiku un resursus.</li></ul>"
+      }
+    },
+    "Skills": "Mūsu Prasmes",
+    "About": {
+      "p1": {
+        "Title": "Par mums",
+        "Text1": "Topsail Group ir mazs BI konsultāciju uzņēmums ar lielu attieksmi. Mūsu klienti ir lieli starptautiski uzņēmumi, kas galvenokārt darbojas Eiropas tirgū. Mūsu mērķis ir radīt Business Intelligence risinājumus, kas maksimāli palielinātu klientu biznesa potenciāla izmantošanu.",
+        "Text2": "Mums ir prasmīgu, sertificētu un augsti motivētu profesionāļu komanda, ar \"var darīt\" attieksmi. Mūsu galvenais mērķis ir palīdzēt mūsu klientiem to nemitīgajos panākumos."
+      },
+      "p2": {
+        "Title": "Pieeja",
+        "Text": "Biznesa izlūkdienestā darbība ir tikpat svarīga kā reakcija. Tāpēc mēs ne tikai piedāvājam BI risinājumus. Mēs jautājam. Mēs izaicinām. Mums ir prototips. Mēs nodrošinām kvalitāti un augstus standartus."
+      },
+      "p3": {
+        "Title": "Kāpēc \"TopSail\"?",
+        "Text": "Vienmēr ir bijis svarīgi izmantot ikvienu impulsu, lai nodrošinātu, ka jūs varat iet ātrāk un turēties uz priekšu. \"topbura\" ir maza bura masta augšpusē, kas palīdz pat lielākajiem kuģiem iegūt lielāku ātrumu."
+      }
+    },
+    "Contact": {
+      "Title": "Kontaktinformācija",
+      "Subtitle": "Nevilcinieties sazināties ar mums"
+    },
+    "footer": {
+      "column1": {
+        "Title": "TopSail Group",
+        "Text": "Mēs esam mazs BI konsultāciju uzņēmums ar lielu attieksmi. Mūsu mērķis ir radīt Business Intelligence risinājumus, kas maksimāli palielinātu klientu biznesa potenciāla izmantošanu."
+      },
+      "column2": {
+        "Title": "Svarīgas saites",
+        "Content": "<ul class=\"list-unstyled li-space-lg\"> <li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Mūsu biznesa partneri <a target=\"_blank\" class=\"turquoise\" href=\"https://www.fpa-nl.com/\">FPA</a></div></li><li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Iepazīstieties ar mūsu <a class=\"turquoise\" href=\"opportunities.html\">Darba iespējas</a></div></li><li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Lasīt mūsu <a class=\"turquoise\" href=\"terms-conditions.html\">Noteikumi un nosacījumi</a>, <a class=\"turquoise\" href=\"privacy-policy.html\">Privātuma politika</a></div></li></ul>"
+      },
+      "column3": {
+        "Title": "Sociālie"
+      }
+    },
+    "Copyright": {
+      "Name": "Copyright",
+      "Right": "All rights reserved "
+    },
+    "btn": {
+      "Discover": "ATKLĀT",
+      "More": "VAIRĀK ",
+      "More2": "LASĪT VAIRĀK"
+    },
+    "Opportunities": {
+      "breadcrumbs": {
+        "home": "Sākums",
+        "cur": "Darba iespējas"
+      },
+      "Title": "Darba iespējas",
+      "Contact": "Lūdzu, nosūtiet savu CV uz",
+      "jobs": {
+        "job1": {
+          "Title": "Senior BI Izstrādātājs/Analītiķi ",
+          "Desc": "Strādājot ar analītiskām lietojumprogrammām, piemēram, SSRS, SSA, Power BI, Oracle BI, JŪS esat pieredzējis, augsti kvalificēts profesionālis ar labu fonu. Jūs spējat izprast un ieviest sarežģītus analītiskos risinājumus — tas ietver spēju izprast uzņēmuma līmeņa arhitektūras dizainu, domāt par iespējamo tās paplašināšanu un spēt noteikt iespējamos uzlabošanas punktus. Jūsu tehnisko prasmju līmenis ļauj redzēt aiz datu līnijām. Tev ir griba mācīties, būt radošam un augt - to mēs gaidām.",
+          "More": {
+            "Expirience": {
+              "Title": "Nepieciešamā pieredze/prasmes:",
+              "List": "<li class = \"oblig\">5 vai vairāk gadu pieredze BI Industry</li><li class = \"oblig\">Papildu SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Laba pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par TO izstrādes procesiem un metodiku</li><li class = \"oblig\">Zināšanas par Microsoft Azure</li><li class = \"oblig\">Uz klientu orientētas, analītiskas prasmes, enerģiskas un uz rezultātiem orientētas</li><li class = \"oblig\">Komunikācija par labu līmeni vai nu angļu, krievu vai latviešu</li><li class = \"nonoblig\">Zināšanas par statistisko analīzi un modelēšanu ir pluss</li><li class = \"nonoblig\">SQL veiktspējas regulēšanas pieredze ir pluss</li><li class = \"nonoblig\">Fons programmēšanā ir liels pluss</li><li class = \"nonoblig\">Team lead experience is a plus, but not required</li>"
+            },
+            "Mission": {
+              "Title": "Jūsu misija:",
+              "Subtitle": "(ja izvēlaties to pieņemt)",
+              "Text": "Piedalīties uz biznesa informāciju orientētu DWHs izstrādē lieliem, labi zināmiem ES uzņēmumiem, kas darbojas ar vairākām filiālēm Eiropas tirgū. Jūs sastaptos ar izkaisīto datu bīstamību, apšaubītu prasības un izpētītu mantoto risinājumu dziļumu, ko neviens neatceras. <br> Jūsu primārais mērķis būtu jauns vai ievērojami uzlabots, augstas kvalitātes datu glabātava, kas nodrošinātu lieliskas analīzes iespējas un skaidrus, tomēr svarīgus KPI un pasākumus gala lietotājiem."
+            },
+            "Offer": {
+              "Title": "Mēs piedāvājam:",
+              "List": "<li>Alga sākot no 2500€ brutto</li><li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Challenging projects</li><li>Patīkamas prēmijas</li><li>Cienīt (dažiem cilvēkiem, kas ir svarīgāki ©)</li>"
+            }
+          }
+        },
+        "job2": {
+          "Title": "Middle BI izstrādātājs/analizētāji",
+          "Desc": "BI izstrādātāja galvenais uzdevums ir pieņemt projektu un tehniskās specifikācijas un izstrādāt efektīvus un kvalitatīvus tehniskos risinājumus, kas atbilst uzņēmējdarbības prasībām. BI izstrādātāja tehniskā joma ietver loģisko un fizisko datu modelēšanu, datu piegādes paraugpraksi, rīkus un tehnoloģijas, drošību datu sniegšanas vidē, datu piegādes (lietojumprogrammu) izstrādi, veiktspējas regulēšanu un administrēšanu.",
+          "More": {
+            "Expirience": {
+              "Title": "Nepieciešamā pieredze/prasmes:",
+              "List": "<li class = \"oblig\">3 vai vairāk gadu pieredze BI Industry</li><li class = \"oblig\">Labs SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par informācijas tehnoloģiju izstrādes procesiem un metodēm</li><li class = \"oblig\">Komunikācija par labu līmeni vai nu angļu, krievu vai latviešu</li><li class= \"oblig\">Radošs un analītisks domātājs ar spēcīgām problēmu risināšanas prasmēm.</li><li class= \"oblig\">Vēlme apgūt, izpētīt un apgūt jaunās prasmes</li>"
+            },
+            "Offer": {
+                "Title": "Mēs piedāvājam:",
+                "List": "<li>Alga sākot no 2000€ brutto</li><li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Challenging projects</li><li>Patīkamas prēmijas</li><li>Cienīt (dažiem cilvēkiem, kas ir svarīgāki ©)</li>"
+            }
+          }
+        },
+        "job3": {
+          "Title": "Biznesa informācijas stažieris",
+          "Desc": "Vai vēlaties kļūt par biznesa informācijas izstrādātāju? TopSail grupā jums ir iespēja! Apgūstiet prasmes, kas nodrošinātu jums milzīgas nesēja iespējas modernajā pasaulē. Biznesa inteliģence, Datu zinātne, Mašīnu apguve un daudzas foršas un interesantas tehnoloģijas mūsdienās ir milzīgajā pieprasījumā, un aicinām jūs pievienoties šim cienījamajam klubam.",
+          "More": {
+            "Expirience": {
+              "Title": "Sākt ar",
+              "Intro": "Būtu lieliski, ja jums būtu šāda meistarība:",
+              "List": "<li class = \"oblig\">Saprātīgs pamatojums informācijas tehnoloģiju jomā</li><li class = \"oblig\">Pamatizpratne par programmatūras izstrādes rutīnām</li><li class = \"oblig\">Pamatzināšanas par SQL</li><li class = \"oblig\">Dažas analītiskās un problēmu risināšanas prasmes</li><li class = \"oblig\">Komunikācija par labu līmeni vai nu angļu, krievu vai latviešu</li><li class = \"oblig\">Vēlme apgūt, izpētīt un apgūt jaunās prasmes</li><li class= \"oblig\">Humora izjūta ;)</li>",
+              "Outro": "Reiz tika teikts - tūkstoš jūdžu brauciens sākas ar pirmo soli. Mēs TopSail grupā vēlētos sniegt jums ieteikumus un pieredzi šajā ceļojumā. Kad jums būs bijis kāds pamattreniņš, jūs pievienosieties mūsu komandai foršos projektos. <br> <br> Feels kā tu esi diezgan gatavs šim foršajam profesionālajam piedzīvojumam?"
+            },
+            "Offer": {
+                "Title": "Mēs piedāvājam:",
+                "List": "<li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Challenging projects</li><li>Patīkamas prēmijas</li><li>Cienīt (dažiem cilvēkiem, kas ir svarīgāki ©)</li>"
+            }
+          }
+        }
+      }
+    },
+    "Privacy":{
+      "Title":"Privātuma politika",
+      "breadcrumbs": {
+        "home": "Sākums",
+        "cur": "Privātuma politika"
+      },
+      "Content":{
+        "Title":"Privātie dati, kurus mēs saņemam un apkopojam",
+        "Text":"TopSail Group arī automātiski apkopo un saņem noteiktu informāciju no datora vai mobilās ierīces, ieskaitot darbības, ko veicat mūsu tīmekļa vietnē, platformās un lietotnēs, izmantotās aparatūras un programmatūras veidu (piemēram, operētājsistēma vai pārlūkprogramma), kā arī informāciju, kas iegūta no sīkfailiem. Piemēram, ikreiz, apmeklējot vietni vai citādi izmantojot pakalpojumus, mēs automātiski apkopojam jūsu IP adresi, pārlūka un ierīces tipu, piekļuves laikus, Web lapu, no kuras esat ieradies, reģionus, no kuriem pārvietojaties, un tīmekļa lapu (-as), kurai piekļūstat (ja nepieciešams)."
+      }
+    },
+    "Terms":{
+      "Title":"Noteikumi un Nosacījumi",
+      "breadcrumbs": {
+        "home": "Sākums",
+        "cur": "Noteikumi un Nosacījumi"
+      },
+      "Content":{
+        "topic1":{
+          "Title":"Atbildības ierobežojumi",
+          "Text1":"TopSail Group arī automātiski apkopo un saņem noteiktu informāciju no datora vai mobilās ierīces, ieskaitot darbības, ko veicat mūsu tīmekļa vietnē, platformās un lietotnēs, izmantotās aparatūras un programmatūras veidu (piemēram, operētājsistēma vai pārlūkprogramma), kā arī informāciju, kas iegūta no sīkfailiem. Piemēram, ikreiz, apmeklējot vietni vai citādi izmantojot pakalpojumus, mēs automātiski apkopojam jūsu IP adresi, pārlūka un ierīces tipu, piekļuves laikus, Web lapu, no kuras esat ieradies, reģionus, no kuriem pārvietojaties, un tīmekļa lapu (- as), kurai piekļūstat (ja nepieciešams)."
+        },"topic2":{
+          "Title":"Noteikumi",
+          "Text":"Nekādā gadījumā TopSail Grupa nav atbildīga par tiešiem, netiešiem, īpašiem, nejaušiem vai izrietošiem kaitējumiem, tostarp, bet ne tikai, par datu vai peļņas zaudējumiem, kas rodas no materiālu izmantošanas vai lietošanas nespējas šajā objektā, pat ja TopSail grupai vai pilnvarotam pārstāvim ir paziņots par šādu zaudējumu iespējamību. Ja, izmantojot materiālus no šīs vietas, rodas vajadzība pēc aprīkojuma vai datu apkopes, remonta vai labošanas, jūs uzņematies jebkādas izmaksas."
+        },"topic3":{
+          "Title":"Dizainera dalība un lietošanas veids",
+          "Text":"Izmantojot jebkuru no šiem pakalpojumiem vai iesniedzot vai vācot personisku informāciju, izmantojot pakalpojumus, jūs piekrītat savas personas informācijas apkopošanai, pārsūtīšanai, izpaušanai un lietošanai tādā veidā, kā norādīts šajā konfidencialitātes politikā. Ja nepiekrītat personas informācijas izmantošanai šādos veidos, pārtrauciet pakalpojumu izmantošanu."
+        }
+      }
+    }
+  }
