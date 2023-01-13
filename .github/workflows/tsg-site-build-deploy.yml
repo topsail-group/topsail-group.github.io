@@ -46,7 +46,7 @@ jobs:
       - name: Install Dependencies and build translations
         run: |
           npm install -g static-i18n
-          static-i18n -l en -i en -i ru -i lv www -o ./docs
+          static-i18n -l en -i en -i ru -i lv www -o ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
