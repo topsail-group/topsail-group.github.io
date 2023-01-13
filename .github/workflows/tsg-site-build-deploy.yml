@@ -24,6 +24,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout 🛎️
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          submodules: recursive
+          ssh-strict: true
+          clean: true
+          fetch-depth: 1
       # Setup Node.js to access npm
       - uses: actions/setup-node@v3
         with:
@@ -38,7 +44,8 @@ jobs:
         run: static-i18n -l en -i en -i ru -i lv www -o docs
       
       - name: Deploy to GH Pages 🚀
-        uses: peaceiris/actions-gh-pages@v3
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: docs
+          path: docs
+          name: github-pages
+          retention-days: 1
