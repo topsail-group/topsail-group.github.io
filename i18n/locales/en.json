@@ -1,0 +1,213 @@
+{
+  "lang":"en",
+  "navbar": {
+    "Home": "Home",
+    "Current": "(current)",
+    "Services": "Services",
+    "About": "About",
+    "TermsConditions": "Terms Conditions",
+    "PrivacyPolicy": "Privacy Policy",
+    "Contact": "Contact",
+    "Career": "Career"
+  },
+  "header": {
+    "Title": "<span class=\"turquoise\">Business Intelligence </span> Improve your business with data",
+    "Subtitle": "Transform data into actionable insights that drive your business decisions to achieve even greater success."
+  },
+  "wanted": {
+    "Title": "We are looking for new colleagues!"
+  },
+  "services": {
+    "Title": "Business Intelligence Services",
+    "Subtitle": "We work with you to convert your data into tangible insights, giving you more time at the wheel. We <strong>understand</strong> you and speak the same language",
+    "Development": {
+      "Title": "Development",
+      "Subtitle": "Create new or improve what you have.<br />Our development team will work with you to design and implement BI solutions that fits <strong>your</strong> requirements."
+    },
+    "Consultancy": {
+      "Title": "Consultancy",
+      "Subtitle": "Tell us what you want to know.<br />Our experienced consultants will act as a technology bridge for your business industry. "
+    },
+    "Reporting": {
+      "Title": "BI Analysis & Reporting",
+      "Subtitle": "Let your data talk to you. <br />Visual representation of analysis results - charts, graphs, and histograms to easily understand data."
+    }
+  },
+  "Trust": "Trusted By",
+  "basic2": {
+    "Title": "Data Quality & Data Analytics",
+    "op1": "Data preparation",
+    "op2": "Data mining",
+    "op3": "Descriptive and Predictive analytics",
+    "op4": "Data visualization and Reporting"
+  },
+  "basic1": {
+    "Title": "Technical Solutions",
+    "Subtitle": "We Create, Manage and/or Support",
+    "op1": "Data warehouse (DWH)",
+    "op2": "Master data management (MDM)",
+    "op3": "ETL/ELT (Extract, Transform, Load data) piplines",
+    "op4": "Data integration"
+  },
+  "basic2Modal": {
+    "card1": {
+      "Title": "Data cleaning",
+      "Text": "Data quality is essential for applying machine learning models to solve business questions and training AI models. However, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
+    },
+    "card2": {
+      "Title": "Data analysis",
+      "Text": "With our data scientists on board, you’ll enable both quantitative and qualitative data analysis to bring valuable insights to your team when and as they need it. <br>We perform: <ul class=\"p-large\"><li>Statistical Analysis</li><li>Diagnostic Analysis</li><li>Predictive Analysis</li><li>Prescriptive Analysis </li></ul>"
+    },
+    "card3": {
+      "Title": "Data visualization",
+      "Text": "An analytical report is a type of a business report that uses qualitative and quantitative company data to analyze and evaluate a business strategy or process, while empowering employees to make data-driven decisions based on evidence and analytics. While analytical reporting is based on statistics, historical data and can deliver predictive analysis of a specific issue, its usage is also spread in analyzing current data in a wide range of industries."
+    }
+  },
+  "basic1Modal": {
+    "p1": {
+      "Title": "Data warehouses (DWH)",
+      "Text": "The prime goal of DWH technology is to collect, integrate, clean and store data in consistent manner to the database system. Once data exists in DWH, it makes no difference, the user can leverage the value of the data in one or more styles available today: <ul class=\"p-large\"> <li>Enterprise reporting –the classical tabular, printable report, generated on demand or prepared before being requested.</li> <li>Online analytical processing analysis –the fast browsing and querying through the large quantities of the pre-computed aggregated data organized in a tabular model. </li><li>Ad Hoc Query Analysis –by writing database queries a user can explore the data in a way not foreseen before creation of reports and data models.</li><li>Statistical Analysis and Data Mining –using mathematical and statistical models built into data mining tools combined with data in DWH, the user tries to find unknown data patternsand relationships.</li><li>Alerting and Report delivery –the ability of the system to inform the user that requested data becomes available or that there is significant event occurred. </li><li>Corporate Performance Management –monitoring the performance indicators, those that show organization performance (or health) in the past, in the present and how far the organization is from its future targets.</li></ul>"
+    },
+    "p2": {
+      "Title": "Master data management (MDM)",
+      "Text": "MDM is the core process used to support your business initiatives through identification, linking and syndication of information across products, customers, stores/locations, employees, suppliers, digital assets and more. MDM connects, masters and shares data from all your systems, including ERP, CRM, ecommerce and more. It allows you to create a 360° view of your information. You’ll learn everything from the buying history of your customers to product availability and supplier interaction. MDM allows you to: <ul class=\"p-large\"> <li>Focus your product, service and business efforts on the activities that increase sales. </li><li>Deliver a highly personal service and engagement experience.</li><li>De-prioritize unprofitable activities that drain time and resources.</li></ul>"
+    }
+  },
+  "Skills": "Our Skills",
+  "About": {
+    "p1": {
+      "Title": "About",
+      "Text1": "TopSail Group is small BI consultancy company with a big attitude. Our customers are large international companies, that operate mostly on the European market. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential.",
+      "Text2": "We have a team of skilled, certified and highly motivated professionals, with \"can do\" attitude. Our main goal is to help our customers in their constant success."
+    },
+    "p2": {
+      "Title": "Approach",
+      "Text": "In Business Intelligence, the action is as much important as reaction. Therefore, we not only supply BI solutions. We ask. We challenge. We prototype. We ensure quality and high standards."
+    },
+    "p3": {
+      "Title": "Why \"TopSail\"?",
+      "Text": "It has always been important to utilize every momentum to ensure you can go faster, and stay ahead. The \"topsail\" is a small sail on the top of the mast, that helps even the biggest ships gain extra speed."
+    }
+  },
+  "Contact": {
+    "Title": "Contact Information",
+    "Subtitle": "Don't hesitate to contact us"
+  },
+  "footer": {
+    "column1": {
+      "Title": "TopSail Group",
+      "Text": "We are small BI consultancy company with a big attitude. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential."
+    },
+    "column2": {
+      "Title": "Important Links",
+      "Content": "<ul class=\"list-unstyled li-space-lg\"> <li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Our business partners <a target=\"_blank\" class=\"turquoise\" href=\"https://www.fpa-nl.com/\">FPA</a></div></li><li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Check out our <a class=\"turquoise\" href=\"opportunities.html\">Job opportunities </a></div></li><li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Read our <a class=\"turquoise\" href=\"terms-conditions.html\">Terms & Conditions</a>, <a class=\"turquoise\" href=\"privacy-policy.html\">Privacy Policy</a></div></li></ul>"
+    },
+    "column3": {
+      "Title": "Social Media"
+    }
+  },
+  "Copyright": {
+    "Name": "Copyright",
+    "Right": "All rights reserved "
+  },
+  "btn": {
+    "Discover": "DISCOVER",
+    "More": "MORE",
+    "More2": "READ MORE"
+  },
+  "Opportunities": {
+    "breadcrumbs": {
+      "home": "Home",
+      "cur": "Job opportunities"
+    },
+    "Title": "Job Opportunities",
+    "Contact": "Please send your CV to",
+    "jobs": {
+      "job1": {
+        "Title": "Senior BI Developer/Analysts",
+        "Desc": "You are experienced, high skilled professional with good background in working with Analytical Applications, such as Microsoft BI stack, Power BI, Oracle BI. You are able to understand and implement complex analytical solutions – this includes ability to understand design of enterprise level architecture, think ahead for the possible extension of it and be able to spot possible points of improvement. Your level of technical skills enables you to see behind the lines of data. You have a will to learn, to be creative and to grow - this is what we expect.",
+        "More": {
+          "Expirience": {
+            "Title": "Required Experience/Skills:",
+            "List": "<li class = \"oblig\">5 or more years of experience in BI Industry</li><li class = \"oblig\">Advanced level of SQL</li><li class = \"oblig\">Knowledge of DWH architecture and ETL process</li><li class = \"oblig\">Good experience with analysis tools like Power BI, or Microsoft BI Stack, or Oracle BI</li><li class = \"oblig\">Knowledge of IT development processes and methodologies</li><li class = \"oblig\">Knowledge of Microsoft Azure</li><li class = \"oblig\">Customer focused, analytical skills, energetic and result driven</li><li class = \"oblig\">Communication on good level of one of English, Russian, Latvian</li><li class = \"nonoblig\">Knowledge of statistical analysis and modelling is a plus</li><li class = \"nonoblig\">Experience with SQL performance tuning is a plus</li><li class = \"nonoblig\">Background in programming is a big plus</li><li class = \"nonoblig\">Team lead experience is a plus, but not required</li>"
+          },
+          "Mission": {
+            "Title": "Your mission:",
+            "Subtitle": "(should you choose to accept it)",
+            "Text": "Participate in the development of Business Intelligence oriented DWHs for large, well-known EU companies, operating with multiple branches on the European market. You would face the dangers of scattered data, question the requirements, and explore the depths of legacy solutions that no one can remember.<br>Your primary target would be new or significantly improved, high quality data warehouse, that would provide great analysis possibilities and clear, yet important KPIs and measures to end users."
+          },
+          "Offer": {
+            "Title": "We offer:",
+            "List": "<li>Salary starting from 2500 € brutto</li><li>Nice working environment</li><li>Friendly colleagues</li><li>Competitive salary</li><li>Challenging projects</li><li>Nice bonuses</li><li>Respect (to some people that is more important ©)</li>"
+          }
+        }
+      },
+      "job2": {
+        "Title": "Middle BI Developer/Analysts",
+        "Desc": "The primary role of the BI developer is to take the design and technical specifications and develop effective and high quality technical solutions that meet the business requirements. The technical domain of the BI Developer includes logical and physical data modeling, data delivery best practices, tools and technologies, security in the data delivery environment, data delivery (application) development, performance tuning, and administration.",
+        "More": {
+          "Expirience": {
+            "Title": "Required Experience/Skills:",
+            "List": "<li class = \"oblig\">3 or more years of experience in BI Industry</li><li class = \"oblig\">Good level of SQL</li><li class = \"oblig\">Knowledge of DWH architecture and ETL process</li><li class = \"oblig\">Experience with analysis tools like Power BI, or Microsoft BI Stack, or Oracle BI</li><li class = \"oblig\">Knowledge of IT development processes and methodologies</li><li class = \"oblig\">Communication on good level of one of English, Russian, Latvian</li><li class= \"oblig\">Creative and analytical thinker with strong problem-solving skills.</li><li class= \"oblig\">A will to learn, explore and acquire the new skills</li>"
+          },
+          "Offer": {
+            "Title": "We offer:",
+            "List": "<li>Salary starting from 2000 € brutto</li><li>Nice working environment</li><li>Friendly colleagues</li><li>Competitive salary</li><li>Challenging projects</li><li>Nice bonuses</li><li>Respect (to some people that is more important ©)</li>"
+          }
+        }
+      },
+      "job3": {
+        "Title": "Business Intelligence Trainee",
+        "Desc": "Would you like to become the Business Intelligence Developer? There is an opportunity for you at TopSail Group! Acquire skills that would provide you with huge carrier opportunities in the modern world. Business Intelligence, Data Science, Machine learning and many cool and interesting technologies are in the great demand these days, and we invite you to join this respected club.",
+        "More": {
+          "Expirience": {
+            "Title": "To start with",
+            "Intro": "It would be great if you would have the following skillset:",
+            "List": "<li class = \"oblig\">A reasonable background in IT</li><li class = \"oblig\">Some basic understanding of software development routines</li><li class = \"oblig\">Basic knowledge of SQL</li><li class = \"oblig\">Some analytical and problem solving skills</li><li class = \"oblig\">Communication on good level of English and Russian</li><li class = \"oblig\">A will to learn, explore and acquire the new skills</li><li class= \"oblig\">A sense of humor ;)</li>",
+            "Outro": "It was once said - A journey of a thousand miles begins with a first step. We at the TopSail Group would like to offer you our guidance and experience along this journey. Once you have had some basic training, you will join our team in cool projects.<br><br> Feel like you are quite ready for this cool professional adventure?"
+          },
+          "Offer": {
+            "Title": "We offer:",
+            "List": "<li>Nice working environment</li><li>Friendly colleagues</li><li>Competitive salary</li><li>Challenging projects</li><li>Nice bonuses</li><li>Respect (to some people that is more important ©)</li>"
+          }
+        }
+      }
+    }
+  },
+  "Privacy":{
+    "Title":"Privacy Policy",
+    "breadcrumbs": {
+      "home": "Home",
+      "cur": "Privacy Policy"
+    },
+    "Content":{
+      "Title":"Private Data We Receive And Collect",
+      "Text":"TopSail Group also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies. For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable)."
+    }
+  },
+  "Terms":{
+    "Title":"Privacy Policy",
+    "breadcrumbs": {
+      "home": "Home",
+      "cur": "Terms & Conditions"
+    },
+    "Content":{
+      "topic1":{
+        "Title":"Limitations Of Liability",
+        "Text1":"TopSail Group also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies. For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable).",
+        "Text2":"When you first register for a TopSail Group account, and when you use the Services, we collect some <a class=\"turquoise\" href=\"#your-link\">Personal Information</a> about you such as:",
+        "List":{
+          "li1":"The geographic area where you use your computer and mobile devices",
+          "li2":"Your full name, username, and email address and other contact details",
+          "li3":"Other information submitted by you or your organizational representatives via various methods"
+        }
+      },"topic2":{
+        "Title":"Terms And Conditions",
+        "Text":"Under no circumstances shall TopSail Group be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, even if TopSail Group or an authorized representative has been advised of the possibility of such damages. If your use of materials from this site results in the need for servicing, repair or correction of equipment or data, you assume any costs thereof."
+      },"topic3":{
+        "Title":"Designer Membership And How It Applies",
+        "Text":"By using any of the Services, or submitting or collecting any Personal Information via the Services, you consent to the collection, transfer, storage disclosure, and use of your Personal Information in the manner set out in this Privacy Policy. If you do not consent to the use of your Personal Information in these ways, please stop using the Services."
+      }
+    }
+  }
+}
