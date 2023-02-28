@@ -30,7 +30,7 @@
     <meta property="og:type" content="website" />
 
     <!-- Website Title -->
-    <title>TopSail Group - BI Solutions</title>
+    <title>TopSail</title>
 
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,700,700i&amp;subset=latin-ext"
@@ -42,6 +42,7 @@
     <link href="css/wanted.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/0194320d92.js" crossorigin="anonymous"></script>
     <link href="css/webchat.css" rel="stylesheet">
+    <link href="css/topsail.css" rel="stylesheet">
     <!-- Favicon  -->
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
@@ -51,6 +52,60 @@
     <link rel="stylesheet" href="css/bootstrap-select.min.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet" />
 
+    <!-- Accordion animation correction  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script>
+      $(function () {
+          $('.accordion').on('shown.bs.collapse', function (e) {
+              var offset = e.target.closest('.accordion-item').getBoundingClientRect();
+              if(offset) { 
+                  $('html,body').animate({
+                      scrollTop: offset.top + window.scrollY - 60
+                  }, 'fast'); 
+              }
+          }); 
+      });
+    </script>
+
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-sm navbar-light navbar-custom fixed-top py-0">
+        <!-- Text Logo - Use this if you don't have a graphic logo -->
+        <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">TopSail Group</a>-->
+        <!-- Image Logo -->
+
+        <div id="navbar-brand hstack no-gutters mr-auto">
+            <a id="logo-left" class="my-0" href="#About"><img src="img/logo-left.png" alt="TopSail Group"></a>
+            <a id="logo-middle" class="my-0" href="#About"><img src="img/logo-middle.png"></a>
+            <a id="logo-right" class="my-0" href="#About"><img src="img/logo-right.png"></a>
+        </div>
+
+        <!-- Mobile Menu Toggle Button -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-awesome fas fa-bars"></span>
+            <span class="navbar-toggler-awesome fas fa-times"></span>
+        </button>
+        <!-- end of mobile menu toggle button -->
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav ml-auto">
+
+                <li class="nav-item"><a class="nav-link page-scroll" href="#BI"       data-t>nav.BI</a></li>
+                <li class="nav-item"><a class="nav-link page-scroll" href="#Benefits" data-t>nav.Benefits</a></li>
+                <li class="nav-item"><a class="nav-link page-scroll" href="#Services" data-t>nav.Services</a></li>
+                <li class="nav-item"><a class="nav-link page-scroll" href="#Contacts" data-t>nav.Contacts</a></li>
+                <li>
+                    <select id="languageSelector" class="selectpicker" data-width="fit">
+                          <option value="1" data-content="<span class='flag-icon flag-icon-gb'></span> en">eng</option>
+                          <option value="2" data-content="<span class='flag-icon flag-icon-ru'></span> ru">rus</option>
+                          <!--<option value="3" data-content="<span class='flag-icon flag-icon-lv'></span> lv">lv</option>-->
+                    </select>
+                </li>
+            </ul>
+            
+    </nav> <!-- end of navbar -->
+    <!-- end of navigation -->
 
 </head>
 
@@ -67,205 +122,499 @@
     <!-- end of preloader -->
 
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
-        <!-- Text Logo - Use this if you don't have a graphic logo -->
-        <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">TopSail Group</a>-->
-        <!-- Image Logo -->
-        <img src="images/logo.png" alt="alternative">
-        <!-- Mobile Menu Toggle Button -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-awesome fas fa-bars"></span>
-            <span class="navbar-toggler-awesome fas fa-times"></span>
-        </button>
-        <!-- end of mobile menu toggle button -->
+    <header id="BI" class="header dark-section fixed-bg" style="background-image: url('img/sphere.jpg');">
+        <div class="container d-flex" style="min-height: calc(50vh - 28px);">
+		    <h1 style="display: inline-block;" class="h bg-black-shadow px-3 my-0 text-white d-flex align-items-center" data-t>Business<br>Intelligence</h1>
+        </div>
+    </header>
 
-        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item" style="justify-content: center;">
-                    <a class="nav-link page-scroll" href="#header"><span data-t>navbar.Home</span><span class="sr-only"
-                            data-t>navbar.Current</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="#services" data-t>navbar.Services</a>
-                </li>
+    <section class="container light-section d-flex" style="min-height: calc(50vh - 28px);">
+        <div class="m-auto">
+            <div class="text-left mx-auto">
+                <h2>Improve your business with data</h2>
+		        <div class="slogan-list">
+                    Get all from your data
+                    <br>Analyze your way to success
+                    <br>Connect your team
+                    <br>Convince your investors
+                    <br>Make it simple
+                </div>
+            </div>
+        </div>
+        
+        
 
-                <!-- Dropdown Menu -->
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button"
-                        aria-haspopup="true" aria-expanded="false" data-t>navbar.About</a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="terms-conditions.html"><span class="item-text"
-                                data-t>navbar.TermsConditions</span></a>
-                        <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text"
-                                data-t>navbar.PrivacyPolicy</span></a>
-                    </div>
-                </li>
-                <!-- end of dropdown menu -->
-                <li class="nav-item ">
-                    <a class="nav-link page-scroll" href="#contact" data-t>navbar.Contact</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="opportunities.html" data-t>navbar.Career</a>
-                </li>
-                <li>
-                    <select id="languageSelector" class="selectpicker" data-width="fit">
-                          <option value="1" data-content="<span class='flag-icon flag-icon-gb'></span> en">en</option>
-                          <option value="2" data-content="<span class='flag-icon flag-icon-ru'></span> ru">ru</option>
-                          <!--<option value="3" data-content="<span class='flag-icon flag-icon-lv'></span> lv">lv</option>-->
-                    </select>
-                </li>
-            </ul>
+    </section>
+    <section class="container light-section">
+
+        <div class="sub-section" id="Intro">
+
+        </div>
+
+        <div class="row">
+	    	<div class="col-12 col-md-8 col-lg-9" data-t>
+                <img src="img/escalator-small.png" class="d-block d-sm-none  d-md-block d-lg-none  img-fluid mx-auto" data-attr-t alt-t="BI.altEscalator">
+	    	    <img src="img/escalator-large.png" class="d-none  d-sm-block d-md-none  d-lg-block img-fluid mx-auto" data-attr-t alt-t="BI.altEscalator">
+            </div>
+            <div class="col-12 col-md-4 col-lg-3" data-t>
+                <h2 class="h" data-t>BI.h</h2>	
+                <p class="text-justify">Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency.<br><br>Having BI is like having eyes to navigate through uncertainty.</p>
+            </div>
+	    	
+        </div>
+
+        <div class="sub-section" id="Use">
+            <h2 class="h" data-t>Use.h</h2>
+            <p data-t>Use.p</p>
+
+            <table class="table text-break">
+	    		<thead><tr><th scope="col" data-t>Use.thIssue</th><th class="d-none d-sm-table-cell" scope="col" data-t>Use.thReason</th><th scope="col" data-t>Use.thSolution</th></tr></thead>
+	    		<tbody>
+	    			<tr><td data-t>Use.tdICosts</td><td class="d-none d-sm-table-cell" data-t>Use.tdRCosts</td><td data-t>Use.tdSCosts</td></tr>
+	    			<tr><td data-t>Use.tdISpeed</td><td class="d-none d-sm-table-cell" data-t>Use.tdRSpeed</td><td data-t>Use.tdSSpeed</td></tr>
+	    			<tr><td data-t>Use.tdIReliability</td><td class="d-none d-sm-table-cell" data-t>Use.tdRReliability</td><td data-t>Use.tdSReliability</td></tr>
+	    			<tr><td data-t>Use.tdIQuality</td><td class="d-none d-sm-table-cell" data-t>Use.tdRQuality</td><td data-t>Use.tdSQuality</td></tr>
+	    			<tr><td data-t>Use.tdICompetitors</td><td class="d-none d-sm-table-cell" data-t>Use.tdRCompetitors</td><td data-t>Use.tdSCompetitors</td></tr>
+	    			<tr><td data-t>Use.tdIGoals=</td><td class="d-none d-sm-table-cell" data-t>Use.tdRGoals</td><td data-t>Use.tdSGoals</td></tr>
+	    			<tr><td data-t>Use.tdISecurity=<td class="d-none d-sm-table-cell" data-t>Use.tdRSecurity</td><td data-t>Use.tdSSecurity</td></tr>
+	    		</tbody>
+	    	</table>
+        </div>
+
+        <div class="sub-section" id="Benefits">
+            <h2 class="h" data-t>Benefits.h</h2>
+
+            <div id="accordion" class="accordion">
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingOne">
+                      <button data-t class="accordion-button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Benefits.hRevenue
+                      </button>
+                    </h3>
+                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    <div data-t class="accordion-body">Benefits.tRevenue</div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingTwo">
+                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        Benefits.hPlanning
+                      </button>
+                    </h3>
+                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                    <div data-t class="accordion-body">Benefits.tPlanning</div>
+                  </div>
+                </div>
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="headingThree">
+                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Benefits.hConsolidation
+                      </button>
+                    </h3>
+                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div data-t class="accordion-body">Benefits.tConsolidation</div>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="Services" class="dark-section bg-image fixed-bg"
+			
+			style="background-image: url('img/sphere.jpg');"
+		>
+		<div class="bg-dark-blue-shadow mx-auto rounded text-center" style="max-width: 450px;">
+			<h2 class="h" data-t>Services.h</h2>
+			<p data-t>Services.p</p>
+		</div>
+        
+		<div class="container px-4">
+		  <div class="row gap">
+			<div class="col-12 col-sm-6 col-md-4 bordered">
+				<div class="card h-100 w-100 align-iteml-center ">
+									<img src="img/ico1.png" class="icon card-img-top">
+									<div class="card-body">
+										<h5 class="card-title" data-t>Services.hDevelopement</h5>
+										<p class="card-text" data-t>Services.pDevelopement</p>
+									</div>
+									
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-md-4 bordered">
+				<div class="card h-100 w-100 align-iteml-center">
+									<img src="img/ico2.png" class="icon card-img-top">
+									<div class="card-body">
+										<h5 class="card-title" data-t>Services.hConsultancy</h5>
+										<p class="card-text" data-t>Services.pConsultancy</p>
+									</div>
+									
+				</div>
+			</div>
+
+			<div class="col-12 col-sm-6 col-md-4 bordered">
+				<div class="card h-100 w-100 align-iteml-center">
+									<img src="img/ico3.png" class="icon card-img-top">
+									<div class="card-body">
+										<h5 class="card-title" data-t>Services.hReporting</h5>
+										<p class="card-text" data-t>Services.pReporting</p>
+									</div>
+									
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-md-4 bordered">
+				<div class="card h-100 w-100 align-iteml-center">
+									<img src="img/ico4.png" class="icon card-img-top">
+									<div class="card-body">
+										<h5 class="card-title" data-t>Services.hCleaning</h5>
+										<p class="card-text" data-t>Services.pCleaning</p>
+									</div>
+									
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-md-4 bordered">
+				<div class="card h-100 w-100 align-iteml-center">
+									<img src="img/ico5.png" class="icon card-img-top">
+									<div class="card-body">
+										<h5 class="card-title" data-t>Services.hAnalysis</h5>
+										<p class="card-text" data-t>Services.pAnalysis</p>
+									</div>
+									
+				</div>
+			</div>
+			<div class="col-12 col-sm-6 col-md-4 bordered">
+				<div class="card h-100 w-100 align-iteml-center">
+									<img src="img/ico6.png" class="icon card-img-top">
+									<div class="card-body">
+										<h5 class="card-title" data-t>Services.hVisualization</h5>
+										<p class="card-text" data-t>Services.pVisualization</p>
+									</div>					
+				</div>
+			</div>
+		  </div>
+		</div>
+	</section>
+
+    <section class="container light-section">
+
+        <div class="sub-section" id="Customers">
+            <h2 data-t>Customers.h</h2>
+
+            <!-- Image Slider -->
+            <div class="slider-container d-sm-none">
+                <div class="swiper-container image-slider">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-4.png"
+                                    alt="TREVIAN">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-2.png"
+                                    alt="PRIVA">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-3.png"
+                                    alt="LIFTINSTITUUT">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-1.png"
+                                    alt="DB+">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-5.png"
+                                    alt="SUNWEB GROUP">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-6.png"
+                                    alt="UNLIMITED FOOTWEAR GROUP">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-7.png"
+                                    alt="MANPOWER GROUP">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-8.png"
+                                    alt="HOMEFASHION GROUP">
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="image-container">
+                                <img class="img-responsive" src="img/customers/customer-logo-9.png"
+                                    alt="HILLSTAR">
+                            </div>
+                        </div>
+                    </div> <!-- end of swiper-wrapper -->
+                </div> <!-- end of swiper container -->
+            </div> <!-- end of slider-container -->
             
-    </nav> <!-- end of navbar -->
-    <!-- end of navigation -->
+			<div class="d-none d-sm-block container px-4">
+				<div class="row gap">
+					<div class="col-4">	<img src="img/customers/customer-logo-5.png" class="customer-logo" alt="SUNWEB GROUP">		        </div>
+					<div class="col-4">	<img src="img/customers/customer-logo-2.png" class="customer-logo" alt="PRIVA">				        </div>
+					<div class="col-4">	<img src="img/customers/customer-logo-7.png" class="customer-logo" alt="MANPOWER GROUP">	        </div>
 
+					<div class="col-4">	<img src="img/customers/customer-logo-1.png" class="customer-logo" alt="DB+">				        </div>
+                    <div class="col-4">	<img src="img/customers/customer-logo-4.png" class="customer-logo" alt="TREVIAN">			        </div>
+                    <div class="col-4">	<img src="img/customers/customer-logo-8.png" class="customer-logo" alt="HOMEFASHION GROUP">	        </div>
 
-    <!-- Header -->
-    <header id="header" class="header">
-        <div class="header-content">
-            <div class="container">
+					<div class="col-4">	<img src="img/customers/customer-logo-3.png" class="customer-logo" alt="LIFTINSTITUUT">		        </div>
+                    <div class="col-4">	<img src="img/customers/customer-logo-6.png" class="customer-logo" alt="UNLIMITED FOOTWEAR GROUP">	</div>
+					<div class="col-4">	<img src="img/customers/customer-logo-9.png" class="customer-logo" alt="HILLSTAR">		            </div>
+				</div>
+			</div>
+
+        </div>
+
+        <div class="sub-section" id="About">
+            	
+			<div class="container">
+                <div class="row gap">
+                    <div class="col-12">
+                        <h2 data-t>About.h</h2>
+			            <p data-t>About.p</p>
+                    </div>
+
+                </div>
+				<div class="row gap">
+					<div class="col-12 col-md-4">	
+						<div class="vstack">
+							<h2 data-t>Approach.h</h2>
+							<p class="text-justify" data-t>Approach.p</p>
+						</div>
+					</div>
+					<div class="col-12 col-md-4 d-flex">
+						<img src="img/sail.png" class="mx-auto d-block align-self-center" style="max-width: 220px; width: 100%; height: auto;">
+					</div>
+					<div class="col-12 col-md-4">
+						<div class="vstack">
+							<h2 data-t>NameMeaning.h</h2>
+							<p class="text-justify" data-t>NameMeaning.p</p>
+						</div>
+					</div>
+
+				</div>
+			</div>
+        </div>
+
+        <div class="sub-section" id="Contact">
+            <div class="container mx-auto text-center">
+                <h2 data-t>Contact.h</h2>
+                <p>Contact.p</p>
+
                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="text-container">
-                            <h1 data-t=>header.Title</h1>
-                            <p class="p-large" data-t>header.Subtitle</p>
-                            <a class="btn-solid-lg page-scroll" href="#services" data-t>btn.Discover</a>
-                        </div> <!-- end of text-container -->
-                    </div> <!-- end of col -->
-                    <div class="col-lg-6">
-                        <div class="image-container">
-                            <img class="img-fluid" src="images/header-teamwork.svg" alt="alternative">
-                        </div> <!-- end of image-container -->
-                    </div> <!-- end of col -->
-
-                </div> <!-- end of row -->
+                    <div class="col-12 col-sm-6  col-md-4"><i class="fas fa-phone"></i>
+                        <a class="turquoise" href="tel:+37129257033">+371 29 257 033</a></div>
+                    <div class="col-12 col-sm-6  col-md-4"><i class="fas fa-envelope"></i>
+                        <a class="turquoise" href="mailto:topsail@topsailgroup.eu">topsail@topsailgroup.eu</a></div>
+                    <div class="col-12 col-sm-12 col-md-4"><i class="fas fa-map-marker-alt"></i>
+                        <a href="https://goo.gl/maps/D6PedQnX7ZWzL3oy7" data-t>Contact.pAddress</a></div>
+                </div>
+                <!--end of row -->
             </div> <!-- end of container -->
-        </div> <!-- end of header-content -->
-    </header> <!-- end of header -->
-    <!-- end of header -->
+
+            <!-- 
+			<form id="myForm" method="post" action="form-to-email.php">
+				<div class="mb-3">
+				<input type="email" id="email" class="form-control" id="exampleFormControlInput1" placeholder="e-mail" style="max-width: 300px;">
+				</div>
+				<div class="mb-3">
+				<textarea id="message" class="form-control" id="exampleFormControlTextarea1" placeholder="message" rows="7"></textarea>
+				</div>
+				<div class="d-grid gap-2 d-md-flex justify-content-md-end">
+				  <input type="submit" id="submit" value="Send" class="btn btn-outline-primary"/>
+				</div>
+			</form>
+			
+			-->
+
+        </div>
+        <!-- end of contact -->
+    </section>
+
+    <footer class="footer bg-image d-flex fixed-bg text-center text-md-left"
+			
+			style="
+			background-image: url('img/footer.jpg');
+			"
+		>	
+		<div class="container text-white bg-dark-blue-shadow p-3 mx-auto">
+			<div class="row gap">
+
+				<div class="col-12 col-md-4">	
+					<h3 data-t>Footer.hTopSail</h3>
+					<p data-t>Footer.pTopSail</p>
+				</div>
+				<div class="col-12 col-md-4">
+					<h3 data-t>Footer.hLinks</h3>
+					<p><span data-t>Footer.wFPA</span> <a class="link-light" href="https://www.fpa-nl.com/" data-t>Footer.lFPA</a>
+					<br><span data-t>Footer.wJobs</span> <a class="link-light" href="https://topsailgroup.eu/opportunities.html" data-t>Footer.lJobs</a>
+					<br><span data-t>Footer.wTerms</span> <a class="link-light" href="https://topsailgroup.eu/terml-conditions.html" data-t>Footer.lTerms</a>, <a class="link-light" href="https://topsailgroup.eu/privacy-policy.html" data-t>Footer.lPrivacy</a></p>
+				</div>
+				<div class="col-12 col-md-4">
+					<h3 data-t>Footer.hMedia</h3>
+                    <span class="fa-stack">
+                        <a href="https://www.linkedin.com/company/topsail-group">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-linkedin-in fa-stack-1x"></i>
+                        </a>
+                    </span>
+                    <span class="fa-stack">
+                        <a href="https://www.facebook.com/TopSailGroup/">
+                            <i class="fas fa-circle fa-stack-2x"></i>
+                            <i class="fab fa-facebook fa-stack-1x"></i>
+                        </a>
+                    </span>
+				</div>
+			</div>
+
+            <!-- Copyright -->
+            <div class="row">
+
+                <div class="col-lg-12 copyright">
+                    <p class="p-small" id="copyright"><span data-t>Footer.wCopyright</span> ©
+                        <script>document.write(new Date().getFullYear())</script> <a
+                            href="https://topsailgroup.eu">TopSail Group</a> - <span data-t>All rights reserved</span>
+                    </p>
+                </div> <!-- end of col -->
+
+            </div>
+            <!-- end of copyright -->
+		</div>
+
+
+        
+	</footer>
+
+
+    <!-- Scripts -->
     
-    <!-- Services -->
-    <div id="services" class="cards-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 data-t>services.Title</h2>
-                    <p class="p-heading p-large" data-t>services.Subtitle</p>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="card-image" src="images/services-icon-1-cogs.svg" alt="alternative">
-                        <div class="card-body">
-                            <h4 class="card-title" data-t>services.Development.Title</h4>
-                            <p data-t>services.Development.Subtitle</p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
+    <button class="open-button"  onclick="openForm()"><i class="fas fa-comments fa-2x"></i></button>
+    <div class="chat-popup"  id="chatbot">
+        <div class="chat-container">
+            <iframe src="https://powerva.microsoft.com/webchat/bots/178ba4c2-8fbb-47aa-94db-9d4b38a75cfd" frameborder="0" style="width: 100%; height: 500px;"></iframe>
+            <button type="button" class="btn cancel" onclick="closeForm()"><i class="far fa-times-circle fa-2x"></i></button>
+        </div>
+    </div>
 
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="card-image" src="images/services-icon-3-collab.svg" alt="alternative">
-                        <div class="card-body">
-                            <h4 class="card-title" data-t>services.Consultancy.Title</h4>
-                            <p data-t>services.Consultancy.Subtitle</p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
+    <script>
+        function openForm() {
+            document.getElementById("chatbot").style.display = "block";
+        }
+        function closeForm() {
+            document.getElementById("chatbot").style.display = "none";
+        } 
+    </script>
+- 
+    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
+    <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
+    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
+    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+    <script src="js/jquery.magnific-popup.js"></script> <!-- Magnific Popup for lightboxes -->
+    <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
+    <script src="js/bootstrap-select.min.js"></script> <!-- Latest compiled and minified JavaScript -->
 
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="card-image" src="images/services-icon-2-bar.svg" alt="alternative">
-                        <div class="card-body">
-                            <h4 class="card-title" data-t>services.Reporting.Title</h4>
-                            <p data-t>services.Reporting.Subtitle</p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
+    <script src="js/scripts.js"></script> <!-- Custom scripts -->
+    <script src="js/language-selector.js"></script> <!-- Custom scripts -->    
+</body>
 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of cards-1 -->
-    <!-- end of services -->
+</html>
 
-    <!-- Customers -->
+
+
+
+
+
+
+   
+
+    <!-- Customers 
     <div class="slider-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <h5 data-t>Trust</h5>
-                    <!-- Image Slider -->
+                    <!-- Image Slider ->
                     <div class="slider-container">
                         <div class="swiper-container image-slider">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-4.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-4.png"
                                             alt="trevian">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-2.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-2.png"
                                             alt="priva">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-3.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-3.png"
                                             alt="liftinstituut">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-1.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-1.png"
                                             alt="db+">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-5.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-5.png"
                                             alt="sunweb group">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-6.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-6.png"
                                             alt="unlimited footwear group">
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
                                     <div class="image-container">
-                                        <img class="img-responsive" src="images/customers/customer-logo-7.png"
+                                        <img class="img-responsive" src="img/customers/customer-logo-7.png"
                                             alt="manpowergroup">
                                     </div>
                                 </div>
-                            </div> <!-- end of swiper-wrapper -->
-                        </div> <!-- end of swiper container -->
-                    </div> <!-- end of slider-container -->
-                    <!-- end of image slider -->
+                            </div> <!-- end of swiper-wrapper ->
+                        </div> <!-- end of swiper container ->
+                    </div> <!-- end of slider-container ->
+                    <!-- end of image slider ->
 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of slider-1 -->
-    <!-- end of customers -->
+                </div> <!-- end of col ->
+            </div> <!-- end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of slider-1 ->
+    <!-- end of customers ->
 
-    <!-- Details 2 -->
+    <!-- Details 2 ->
     <div class="basic-2">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="image-container">
                         <img class="img-fluid detail-image" src="images/detail-2.png" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
+                    </div> <!-- end of image-container ->
+                </div> <!-- end of col ->
                 <div class="col-lg-6">
                     <h2 data-t>basic2.Title</h2>
 
@@ -289,15 +638,15 @@
                             </li>
                         </ul>
                         <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-2" data-t>btn.More</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-2 -->
-    <!-- end of details 2 -->
+                    </div> <!-- end of text-container ->
+                </div> <!-- end of col ->
+            </div> <!-- end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of basic-2 ->
+    <!-- end of details 2 ->
 
-    <!-- Details 1 -->
-    <div class="basic-1">
+    <!-- Details 1 ->
+    <div class="basic-1 d-none">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -323,8 +672,8 @@
                             </li>
                         </ul>
                         <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1" data-t>btn.More</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                    </div> <!-- end of text-container ->
+                </div> <!-- end of col ->
                 <div class="col-lg-6">
                     <div id="carouselExampleIndicators" data-interval="false" class="carousel slide"
                         data-ride="carousel">
@@ -359,13 +708,13 @@
                         </div>
                     </div>
 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of details 1 -->
+                </div> <!-- end of col ->
+            </div> <!-- end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of basic-1 ->
+    <!-- end of details 1 ->
 
-    <!-- Modal -->
+    <!-- Modal ->
     <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -376,7 +725,7 @@
                 </div>
                 <div class="modal-body">
 
-                    <!-- Carousel -->
+                    <!-- Carousel ->
                     <div id="carouselExample" class="carousel slide" data-interval="false" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExample" data-slide-to="0" class="active"></li>
@@ -409,8 +758,8 @@
         </div>
     </div>
 
-    <!-- Details Lightboxes -->
-    <!-- Details Lightbox 2 -->
+    <!-- Details Lightboxes ->
+    <!-- Details Lightbox 2 ->
     <div id="details-lightbox-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
         <div class="container">
             <div class="lightbox-header">
@@ -438,12 +787,12 @@
                         <p class="p-large-justify" data-t>basic2Modal.card3.Text</p>
                     </div>
                 </div>
-            </div><!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of lightbox-basic -->
-    <!-- end of details lightbox 2 -->
+            </div><!-- end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of lightbox-basic ->
+    <!-- end of details lightbox 2 ->
 
-    <!-- Details Lightbox 1 -->
+    <!-- Details Lightbox 1 ->
     <div id="details-lightbox-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
         <div class="container">
             <div class="lightbox-header">
@@ -459,14 +808,14 @@
                         <h3 data-t>basic1Modal.p2.Title</h3>
                         <p class="p-large-justify" data-t>basic1Modal.p2.Text</p>
                     </div>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of lightbox-basic -->
-    <!-- end of details lightbox 1 -->
-    <!-- end of details lightboxes -->
+                </div> <!-- end of col ->
+            </div> <!-- end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of lightbox-basic ->
+    <!-- end of details lightbox 1 ->
+    <!-- end of details lightboxes ->
 
-    <!-- Technologies -->
+    <!-- Technologies ->
     <div id="technologies">
         <div class="container">
             <h2 data-t>Skills</h2>
@@ -476,17 +825,17 @@
             </div>
         </div>
     </div>
-    <!-- end of Technologies -->
+    <!-- end of Technologies ->
 
-    <!-- About -->
+    <!-- About ->
     <div id="about" class="basic-4">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-6">
                     <div class="image-container">
                         <img class="img-fluid" src="images/testimonials-2-men-talking.svg" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
+                    </div> <!-- end of image-container ->
+                </div> <!-- end of col ->
                 <div class="col-lg-6 align-self-start">
                     <div class="text-container">
                         <h2 data-t>About.p1.Title</h2>
@@ -496,15 +845,15 @@
                         <p class="p-large-justify" data-t>About.p2.Text</p>
                         <h3 data-t>About.p3.Title</h3>
                         <p class="p-large-justify" data-t>About.p3.Text</p>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
+                    </div> <!-- end of text-container ->
+                </div> <!-- end of col ->
+            </div> <!-- end of row ->
 
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
-    <!-- end of about -->
+        </div> <!-- end of container ->
+    </div> <!-- end of basic-4 ->
+    <!-- end of about ->
 
-    <!-- Contact -->
+    <!-- Contact ->
     <div id="contact" class="form-2">
         <div class="container">
             <div class="row">
@@ -518,14 +867,14 @@
                                 href="mailto:topsail@topsailgroup.eu">topsail@topsailgroup.eu</a></li>
                         <li><i class="fas fa-map-marker-alt"></i>Dārzciems Latgale Suburb, Riga, LV-1073 </li>
                     </ul>
-                </div> <!-- end of col -->
+                </div> <!-- end of col ->
             </div>
-            <!--end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of form-2 -->
-    <!-- end of contact -->
+            <!--end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of form-2 ->
+    <!-- end of contact ->
 
-    <!-- Footer -->
+    <!-- Footer ->
     <div class="footer">
         <div class="container">
             <div class="row">
@@ -534,13 +883,13 @@
                         <h4 data-t>footer.column1.Title</h4>
                         <p data-t>footer.column1.Text</p>
                     </div>
-                </div> <!-- end of col -->
+                </div> <!-- end of col ->
                 <div class="col-md-4">
                     <div class="footer-col middle">
                         <h4 data-t>footer.column2.Title</h4>
                         <div data-t>footer.column2.Content</div>
                     </div>
-                </div> <!-- end of col -->
+                </div> <!-- end of col ->
                 <div class="col-md-4">
                     <div class="footer-col last">
                         <h4 data-t>footer.column3.Title</h4>
@@ -557,14 +906,14 @@
                             </a>
                         </span>
                     </div>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of footer -->
-    <!-- end of footer -->
+                </div> <!-- end of col ->
+            </div> <!-- end of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of footer ->
+    <!-- end of footer ->
 
 
-    <!-- Copyright -->
+    <!-- Copyright ->
     <div class="copyright">
         <div class="container">
             <div class="row">
@@ -573,41 +922,12 @@
                         <script>document.write(new Date().getFullYear())</script> <a
                             href="https://topsailgroup.eu">TopSail Group</a> - <span data-t>All rights reserved</span>
                     </p>
-                </div> <!-- end of col -->
-            </div> <!-- enf of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of copyright -->
-    <!-- end of copyright -->
-    <!-- Scripts -->
+                </div> <!-- end of col ->
+            </div> <!-- enf of row ->
+        </div> <!-- end of container ->
+    </div> <!-- end of copyright ->
+    <!-- end of copyright ->
     
-    <button class="open-button"  onclick="openForm()"><i class="fas fa-comments fa-2x"></i></button>
-    <div class="chat-popup"  id="chatbot">
-        <div class="chat-container">
-            <iframe src="https://powerva.microsoft.com/webchat/bots/178ba4c2-8fbb-47aa-94db-9d4b38a75cfd" frameborder="0" style="width: 100%; height: 500px;"></iframe>
-            <button type="button" class="btn cancel" onclick="closeForm()"><i class="far fa-times-circle fa-2x"></i></button>
-        </div>
-    </div>
 
-    <script>
-        function openForm() {
-            document.getElementById("chatbot").style.display = "block";
-        }
-        function closeForm() {
-            document.getElementById("chatbot").style.display = "none";
-        } 
-    </script>
-- 
-    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
-    <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
-    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
-    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
-    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
-    <script src="js/jquery.magnific-popup.js"></script> <!-- Magnific Popup for lightboxes -->
-    <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
-    <script src="js/bootstrap-select.min.js"></script> <!-- Latest compiled and minified JavaScript -->
+-->
 
-    <script src="js/scripts.js"></script> <!-- Custom scripts -->
-    <script src="js/language-selector.js"></script> <!-- Custom scripts -->    
-</body>
-
-</html>
