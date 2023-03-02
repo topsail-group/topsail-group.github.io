@@ -20,14 +20,21 @@
   }
 
   ,"Header": {
-     "h":"Business<br>Intelligence<br>Improve your<br>business with data"
+     "h":"Business<br>Intelligence"
   }
 
   ,"BI": {
      "h":"What is Business Intelligence?"
-    ,"p": "Having BI is like having eyes to navigate through uncertainty.<br>Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency."
-    ,"altEscalator": "Analytic Value Escalator. BI consists of 4 stages.<br>Descriptive Analitics - What happened?<br>Diagnostic Analytics - Why did it happen?<br>Predictive Analytics - What will happen?<br>Prescriptive Analytics - How can we make it happen?Each stage is more difficult to implement, but brings more value."
+    ,"p": "Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency.<br><br><i>Having BI is like having eyes to navigate through uncertainty.</i>"
   }
+  ,"Slogans": {
+    "h":"What is it for?"
+   ,"pSuccess": "Analyze your way to success"
+   ,"pTeam": "Connect your team"
+   ,"pInvestors": "Convince your investors"
+   ,"pSimple": "Make it simple"
+   ,"altEscalator": "Analytic Value Escalator. BI consists of 4 stages.<br>Descriptive Analitics - What happened?<br>Diagnostic Analytics - Why did it happen?<br>Predictive Analytics - What will happen?<br>Prescriptive Analytics - How can we make it happen?Each stage is more difficult to implement, but brings more value."
+ }
   ,"Use": {
      "h":"When companies use Business Intelligence?"
     ,"p": "Most often companies realize a need for BI encountering some of the common issues. BI helps to identify hidden root problems behind such issues and provides a set of corresponding solutions."
