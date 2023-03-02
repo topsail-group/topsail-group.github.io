@@ -34,7 +34,7 @@
    ,"pInvestors": "Convince your investors"
    ,"pSimple": "Make it simple"
    ,"altEscalator": "Analytic Value Escalator. BI consists of 4 stages.<br>Descriptive Analitics - What happened?<br>Diagnostic Analytics - Why did it happen?<br>Predictive Analytics - What will happen?<br>Prescriptive Analytics - How can we make it happen?Each stage is more difficult to implement, but brings more value."
- }
+  }
   ,"Use": {
      "h":"When companies use Business Intelligence?"
     ,"p": "Most often companies realize a need for BI encountering some of the common issues. BI helps to identify hidden root problems behind such issues and provides a set of corresponding solutions."
@@ -109,7 +109,7 @@
   ,"Contacts": {
      "h":"Get in touch"
     ,"p": "Don't hesitate to cantact us"
-    ,"pAddress": "60-318 Darzciema Street, Riga, LV-1073, Latvia"
+    ,"pAddress": "60-318 Darzciema Street, Riga,&nbsp;LV-1073,&nbsp;Latvia"
   }
   ,"Footer": {
      "hTopSail": "TopSail Group"
