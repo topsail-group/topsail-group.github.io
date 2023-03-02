@@ -109,7 +109,7 @@
 
 </head>
 
-<body data-spy="scroll" data-target=".fixed-top">
+<body id="BI" data-spy="scroll" data-target=".fixed-top">
 
     <!-- Preloader -->
     <div class="spinner-wrapper">
@@ -122,31 +122,33 @@
     <!-- end of preloader -->
 
 
-    <header id="Home" class="header dark-section fixed-bg" style="background-image: url('img/sphere.jpg');">
+    <header class="header fixed-bg" style="background-image: url('img/sphere.jpg');">
         <div class="container d-flex" style="min-height: calc(50vh - 28px);">
 		    <h1 style="display: inline-block;" class="h bg-black-shadow px-3 my-0 text-white d-flex align-items-center" data-t>Business<br>Intelligence</h1>
         </div>
     </header>
 
-    <section id="BI" class="container light-section d-flex" style="min-height: calc(50vh - 28px);">
-        <div class="row my-auto">
-            <div class="col-12"><h2 class="h" data-t>What is Business Intelligence?</h2></div>
-            <div class="col-3"></div>
-            <div class="col-6">
-                <p data-t>Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency.<br><br>Having BI is like having eyes to navigate through uncertainty.</p>
-            </div>
-            <div class="col-3"></div>
-        </div>
-            
-    </section>
-    <section class="container light-section">
+    
+    <section class="container light-section pt-0">
 
-        <div class="sub-section" id="BI"></div>
+        <div class="container light-section d-flex" style="min-height: calc(50vh - 28px);">
+            <div class="row my-auto py-4">
+                <div class="col-12"><h2 class="h" data-t>What is Business Intelligence?</h2></div>
+                <div class="d-none d-sm-block col-sm-1 col-md-2 col-lg-3"></div>
+                <div class="col-12 col-sm-10 col-md-8 col-lg-6">
+                    <p class="text-justify" data-t>Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency.<br><br><i>Having BI is like having eyes to navigate through uncertainty.</i></p>
+                </div>
+                <div class="d-none d-sm-block col-sm-1 col-md-2 col-lg-3"></div>
+            </div>
+                
+        </div>
+
+        
             <div class="row">
                 <div class="col-12 col-md-4" data-t>
                     <div class="text-left mx-auto">
                         <h2>What is it for?</h2>
-                        <ul class="slogan-list">
+                        <ul>
                             <li>Analyze your way to success</li>
                             <li>Connect your team</li>
                             <li>Convince your investors</li>
@@ -161,7 +163,7 @@
 
             </div>
         
-        </div>
+        
 
         
             
@@ -224,7 +226,7 @@
     </section>
 
 
-    <section id="Services" class="dark-section bg-image fixed-bg"
+    <section id="Services" class="sub-section dark-section bg-image fixed-bg"
 			
 			style="background-image: url('img/sphere.jpg');"
 		>
@@ -450,7 +452,7 @@
         <!-- end of contact -->
     </section>
 
-    <footer class="footer bg-image d-flex fixed-bg text-center text-md-left"
+    <footer class="footer dark-section bg-image d-flex fixed-bg text-center text-md-left p-0"
 			
 			style="
 			background-image: url('img/footer.jpg');
@@ -523,7 +525,7 @@
             document.getElementById("chatbot").style.display = "none";
         } 
     </script>
-- 
+
     <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
     <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
     <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
