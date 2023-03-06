@@ -91,15 +91,16 @@
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul class="navbar-nav ml-auto">
 
-                <li class="nav-item"><a class="nav-link page-scroll" href="#BI"       data-t>nav.BI</a></li>
+                <li class="nav-item"><a class="nav-link page-scroll" href="#Home"       data-t>nav.Home</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Benefits" data-t>nav.Benefits</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Services" data-t>nav.Services</a></li>
+                <li class="nav-item"><a class="nav-link page-scroll" href="#About" data-t>nav.About</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Contacts" data-t>nav.Contacts</a></li>
                 <li>
                     <select id="languageSelector" class="selectpicker" data-width="fit">
                           <option value="1" data-content="<span class='flag-icon flag-icon-gb'></span> en">eng</option>
                           <option value="2" data-content="<span class='flag-icon flag-icon-ru'></span> ru">rus</option>
-                          <!--<option value="3" data-content="<span class='flag-icon flag-icon-lv'></span> lv">lv</option>-->
+                          <option value="3" data-content="<span class='flag-icon flag-icon-lv'></span> lv">lv</option>
                     </select>
                 </li>
             </ul>
@@ -109,7 +110,7 @@
 
 </head>
 
-<body data-spy="scroll" data-target=".fixed-top">
+<body id="Home" data-spy="scroll" data-target=".fixed-top">
 
     <!-- Preloader -->
     <div class="spinner-wrapper">
@@ -122,51 +123,53 @@
     <!-- end of preloader -->
 
 
-    <header id="BI" class="header dark-section fixed-bg" style="background-image: url('img/sphere.jpg');">
+    <header class="header fixed-bg" style="background-image: url('img/sphere.jpg');">
         <div class="container d-flex" style="min-height: calc(50vh - 28px);">
-		    <h1 style="display: inline-block;" class="h bg-black-shadow px-3 my-0 text-white d-flex align-items-center" data-t>Business<br>Intelligence</h1>
+		    <h1 style="display: inline-block;" class="h bg-black-shadow px-3 my-0 text-white d-flex align-items-center" data-t>Header.h</h1>
         </div>
     </header>
 
-    <section class="container light-section d-flex" style="min-height: calc(50vh - 28px);">
-        <div class="m-auto">
-            <div class="text-left mx-auto">
-                <h2>Improve your business with data</h2>
-		        <div class="slogan-list">
-                    Get all from your data
-                    <br>Analyze your way to success
-                    <br>Connect your team
-                    <br>Convince your investors
-                    <br>Make it simple
+    
+    <section id="BI" class="container light-section pt-0">
+
+        <div class="container light-section d-flex" style="min-height: calc(50vh - 28px);">
+            <div class="row my-auto py-4">
+                <div class="col-12"><h2 class="h" data-t>BI.h</h2></div>
+                <div class="d-none d-sm-block col-sm-1 col-md-2 col-lg-3"></div>
+                <div class="col-12 col-sm-10 col-md-8 col-lg-6">
+                    <p class="text-justify" data-t>BI.p</p>
+                </div>
+                <div class="d-none d-sm-block col-sm-1 col-md-2 col-lg-3"></div>
+            </div>
+                
+        </div>
+
+        
+        <div id="Slogans" class="row">
+            <div class="col-12 col-md-4">
+                <div class="text-left mx-auto">
+                    <h2 data-t>Slogans.h</h2>
+                    <ul>
+                        <li data-t>Slogans.pSuccess</li>
+                        <li data-t>Slogans.pTeam</li>
+                        <li data-t>Slogans.pInvestors</li>
+                        <li data-t>Slogans.pSimple</li>
+                    </ul>
                 </div>
             </div>
+            <div class="col-12 col-md-8">
+                <img data-attr-t data-attr-t-interpolate src-t="img/escalator-small-{{lang}}.png" class="d-block d-sm-none  d-md-block d-lg-none  img-fluid mx-auto" data-attr-t alt-t="Slogans.altEscalator">
+                <img data-attr-t data-attr-t-interpolate src-t="img/escalator-large-{{lang}}.png" class="d-none  d-sm-block d-md-none  d-lg-block img-fluid mx-auto" data-attr-t alt-t="Slogans.altEscalator">
+            </div>
+
         </div>
         
+
         
-
-    </section>
-    <section class="container light-section">
-
-        <div class="sub-section" id="Intro">
-
-        </div>
-
-        <div class="row">
-	    	<div class="col-12 col-md-8 col-lg-9" data-t>
-                <img src="img/escalator-small.png" class="d-block d-sm-none  d-md-block d-lg-none  img-fluid mx-auto" data-attr-t alt-t="BI.altEscalator">
-	    	    <img src="img/escalator-large.png" class="d-none  d-sm-block d-md-none  d-lg-block img-fluid mx-auto" data-attr-t alt-t="BI.altEscalator">
-            </div>
-            <div class="col-12 col-md-4 col-lg-3" data-t>
-                <h2 class="h" data-t>BI.h</h2>	
-                <p class="text-justify">Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency.<br><br>Having BI is like having eyes to navigate through uncertainty.</p>
-            </div>
-	    	
-        </div>
-
         <div class="sub-section" id="Use">
-            <h2 class="h" data-t>Use.h</h2>
-            <p data-t>Use.p</p>
 
+        <h2 class="h" data-t>Use.h</h2>	
+                        <p class="text-justify" data-t>Use.p</p>
             <table class="table text-break">
 	    		<thead><tr><th scope="col" data-t>Use.thIssue</th><th class="d-none d-sm-table-cell" scope="col" data-t>Use.thReason</th><th scope="col" data-t>Use.thSolution</th></tr></thead>
 	    		<tbody>
@@ -175,21 +178,20 @@
 	    			<tr><td data-t>Use.tdIReliability</td><td class="d-none d-sm-table-cell" data-t>Use.tdRReliability</td><td data-t>Use.tdSReliability</td></tr>
 	    			<tr><td data-t>Use.tdIQuality</td><td class="d-none d-sm-table-cell" data-t>Use.tdRQuality</td><td data-t>Use.tdSQuality</td></tr>
 	    			<tr><td data-t>Use.tdICompetitors</td><td class="d-none d-sm-table-cell" data-t>Use.tdRCompetitors</td><td data-t>Use.tdSCompetitors</td></tr>
-	    			<tr><td data-t>Use.tdIGoals=</td><td class="d-none d-sm-table-cell" data-t>Use.tdRGoals</td><td data-t>Use.tdSGoals</td></tr>
-	    			<tr><td data-t>Use.tdISecurity=<td class="d-none d-sm-table-cell" data-t>Use.tdRSecurity</td><td data-t>Use.tdSSecurity</td></tr>
+	    			<tr><td data-t>Use.tdIGoals</td><td class="d-none d-sm-table-cell" data-t>Use.tdRGoals</td><td data-t>Use.tdSGoals</td></tr>
+	    			<tr><td data-t>Use.tdISecurity</td><td class="d-none d-sm-table-cell" data-t>Use.tdRSecurity</td><td data-t>Use.tdSSecurity</td></tr>
 	    		</tbody>
 	    	</table>
         </div>
 
-        <div class="sub-section" id="Benefits">
+        <div id="Benefits" class="sub-section">
+
             <h2 class="h" data-t>Benefits.h</h2>
 
             <div id="accordion" class="accordion">
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="headingOne">
-                      <button data-t class="accordion-button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Benefits.hRevenue
-                      </button>
+                      <button data-t class="accordion-button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Benefits.hRevenue</button>
                     </h3>
                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
                     <div data-t class="accordion-body">Benefits.tRevenue</div>
@@ -197,9 +199,7 @@
                 </div>
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="headingTwo">
-                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Benefits.hPlanning
-                      </button>
+                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Benefits.hPlanning</button>
                     </h3>
                   <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                     <div data-t class="accordion-body">Benefits.tPlanning</div>
@@ -207,9 +207,7 @@
                 </div>
                 <div class="accordion-item">
                     <h3 class="accordion-header" id="headingThree">
-                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                        Benefits.hConsolidation
-                      </button>
+                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Benefits.hConsolidation</button>
                     </h3>
                   <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                     <div data-t class="accordion-body">Benefits.tConsolidation</div>
@@ -220,7 +218,7 @@
     </section>
 
 
-    <section id="Services" class="dark-section bg-image fixed-bg"
+    <section id="Services" class="sub-section dark-section bg-image fixed-bg"
 			
 			style="background-image: url('img/sphere.jpg');"
 		>
@@ -414,7 +412,7 @@
         <div class="sub-section" id="Contacts">
             <div class="container mx-auto text-center">
                 <h2 data-t>Contacts.h</h2>
-                <p>Contacts.p</p>
+                <p data-t>Contacts.p</p>
 
                 <div class="row">
                     <div class="col-12 col-sm-6  col-md-4"><i class="fas fa-phone"></i>
@@ -446,7 +444,7 @@
         <!-- end of contact -->
     </section>
 
-    <footer class="footer bg-image d-flex fixed-bg text-center text-md-left"
+    <footer class="footer dark-section bg-image d-flex fixed-bg text-center text-md-left p-0"
 			
 			style="
 			background-image: url('img/footer.jpg');
@@ -519,7 +517,7 @@
             document.getElementById("chatbot").style.display = "none";
         } 
     </script>
-- 
+
     <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
     <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
     <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->

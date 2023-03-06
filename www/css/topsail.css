@@ -1,19 +1,25 @@
 @import "bootstrap.min.css";
 
-@media (max-width: 390px) or ( (min-width: 575px) and (max-width: 1000px) ) {
+@media (max-width: 490px) or ( (min-width: 575px) and (max-width: 1100px) ) {
     #logo-right {
         display: none;
     }
 }
 
-@media (max-width: 290px) or ( (min-width: 575px) and (max-width: 900px) ) {
+@media (max-width: 390px) or ( (min-width: 575px) and (max-width: 1000px) ) {
     #logo-middle {
         display: none;
     }
 }
 
+@media  (min-width: 575px) and (max-width: 800px) {
+    #logo-left {
+        display: none;
+    }
+}
+
 body {
-    padding-top: 53px;
+	padding-top: 53px;
 }
 
 section {
@@ -22,6 +28,18 @@ section {
 
 .sub-section {
 	padding: calc(0.6875rem + 0.75vw);
+
+  /*fix for fixed-top navbar navigation*/  
+  border-top: 53px solid transparent;
+  margin-top: -53px;
+
+}
+
+.dark-section {
+  /*fix for fixed-top navbar navigation*/
+  margin-top: 53px;
+  padding-bottom: calc(0.6875rem + 0.75vw + 53px);
+
 }
 
 .light-section {
@@ -54,10 +72,6 @@ h5 {
 
 h6 {
     font-size:1rem;
-}
-
-.slogan-list {
-    font-size:1.5rem;
 }
 
 .white-section {
