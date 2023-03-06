@@ -12,9 +12,10 @@
   }
 
   ,"nav": {
-     "BI": "BI"
+     "Home": "Home"
     ,"Benefits": "Benefits"
     ,"Services": "Services"
+    ,"About": "About"
     ,"Contacts": "Contacts"
   }
 

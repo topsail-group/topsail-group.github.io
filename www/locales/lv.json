@@ -12,9 +12,10 @@
   }
 
   ,"nav": {
-     "BI": "BI"
+     "Home": "Galvenā"
     ,"Benefits": "Ieguvumi"
     ,"Services": "Pakalpojumi"
+    ,"About": "Par mums"
     ,"Contacts": "Kontakti"
   }
 
