@@ -48,6 +48,17 @@ jobs:
           npm install -g static-i18n
           static-i18n -l en -i en -i ru -i lv www -o ./docs
 
+      - name: Copy Folders
+        run: |
+          mkdir ./docs/img
+          cp -r ./www/img ./docs
+          mkdir ./docs/js
+          cp -r ./www/js ./docs
+          mkdir ./docs/css
+          cp -r ./www/css ./docs
+          mkdir ./docs/webfonts
+          cp -r ./www/webfonts ./docs
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
