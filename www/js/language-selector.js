@@ -22,11 +22,13 @@ $(function() {
             switch (selectedValue) {
                 case '3':
                     var page = url.pop();
+                    var lang = url.pop();
                     var new_url = (url.join('/')).concat('/lv/').concat(page);
                     console.log(new_url);
                   break;
                 case '2':
                     var page = url.pop();
+                    var lang = url.pop();
                     var new_url = (url.join('/')).concat('/ru/').concat(page);
                     console.log(new_url);
                   break;
