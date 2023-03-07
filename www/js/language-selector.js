@@ -18,17 +18,20 @@ $(function() {
             return;
         }else{
             var url = window.location.href.split('/');
-            var language = url[url.length - 2];
             switch (selectedValue) {
                 case '3':
                     var page = url.pop();
-                    var lang = url.pop();
+                    if(previousValue != 1){
+                      url.pop();
+                    }                    
                     var new_url = (url.join('/')).concat('/lv/').concat(page);
                     console.log(new_url);
                   break;
                 case '2':
                     var page = url.pop();
-                    var lang = url.pop();
+                    if(previousValue != 1){
+                      url.pop();
+                    }  
                     var new_url = (url.join('/')).concat('/ru/').concat(page);
                     console.log(new_url);
                   break;
