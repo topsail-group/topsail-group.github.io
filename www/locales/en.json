@@ -17,68 +17,53 @@
     ,"Services": "Services"
     ,"About": "About"
     ,"Contacts": "Contacts"
+    ,"Visualization": "Visualization"
+    ,"Report": "Reports"
+    ,"Analysis": "Analysis"
+    ,"Solutions": "Solutions"
+    ,"Cleaning": "Cleaning"
+    ,"Consultancy": "Consultancy"
+    ,"Architecture": "Architecture"
+    ,"Scripts": "Scripts"
   }
 
   ,"Header": {
-     "h":"Business<br>Intelligence"
+     "h":"TopSail Group<br>The Business<br>Intelligence<br>Company"
   }
 
   ,"BI": {
-     "h":"What is Business Intelligence?"
-    ,"p": "Business Intelligence (BI) is a set of IT tools and techniques used by medium and large companies to monitor their business processes. Once established, BI infrastructure serves for many years, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency.<br><br><i>Having BI is like having eyes to navigate through uncertainty.</i>"
+     "h":"Business Intelligence Definition"
+    ,"p": "Business Intelligence (BI) is a set of IT tools and techniques that can be used for various purposes - to monitor business processes and KPIs, provide more insights, compare actuals and forecasts and even provide suggestions of business actions. Once established, BI infrastructure serves for <i>many years</i>, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency."
   }
   ,"Slogans": {
-    "h":"What is it for?"
-   ,"hAnalyticsTypes":"The flavours of Analytics​"
-   ,"pSuccess": "Analyze your way to success"
-   ,"pTeam": "Connect your team"
-   ,"pInvestors": "Convince your investors"
-   ,"pSimple": "Make it simple"
-   ,"altEscalator": "Analytic Value Escalator. BI consists of 4 stages.<br>Descriptive Analitics - What happened?<br>Diagnostic Analytics - Why did it happen?<br>Predictive Analytics - What will happen?<br>Prescriptive Analytics - How can we make it happen?Each stage is more difficult to implement, but brings more value."
+    "h":"The flavours of Analytics"
+    ,"pAnalyticalType1": "<b>Descriptive analytics</b> is used to analyze past data sets for patterns and trends, helping businesses answer questions such as how much they sold and if they hit specific goals. "
+    ,"pAnalyticalType2": "<b>Diagnostic analytics</b> helps explain why things happened the way they did, going beyond what happened to why it happened. This type of analytics identifies trends or patterns in the past and then explains why they occurred the way they did."
+    ,"pAnalyticalType3": "<b>Predictive analytics</b> aims to predict likely outcomes and make educated forecasts using historical data, using probabilities for predictions instead of simply interpreting existing facts."
+    ,"pAnalyticalType4": "<b>Prescriptive analytics</b> uses data from various sources, including statistics, machine learning, and data mining, to identify possible future outcomes and show the best option. It provides actionable insights instead of raw data, enabling businesses to understand why certain outcomes will happen and predicting the effect of future decisions."
   }
-  ,"Use": {
-     "h":"When companies use Business Intelligence?"
-    ,"p": "Most often companies realize a need for BI encountering some of the common issues. BI helps to identify hidden root problems behind such issues and provides a set of corresponding solutions."
-    
-    ,"thIssue": "Common issue"
-    ,"tdICosts": "How to lower our production costs?"
-    ,"tdISpeed": "How to accelerate our business process?"
-    ,"tdIReliability": "Can we make our business process reliable?"
-    ,"tdIQuality": "How to increase our product quality?"
-    ,"tdICompetitors": "Why do customers prefer our competitors?"
-    ,"tdIGoals": "How can we reach our long-term goals?"
-    ,"tdISecurity": "How to improve our data security?"
 
-    ,"thReason": "Potential reason"
-    ,"tdRCosts": "Untracked or non-obvious expenses"
-    ,"tdRSpeed": "Bottlenecks"
-    ,"tdRReliability": "Breaking production / delivery chains"
-    ,"tdRQuality": "Poor internal communication"
-    ,"tdRCompetitors": "Lack of market comprehension"
-    ,"tdRGoals": "Inconsistent reactions to market changes"
-    ,"tdRSecurity": "Divergent policies at multiple sources"
-
-    ,"thSolution": "BI solution"
-    ,"tdSCosts": "Multidimensional data analysis"
-    ,"tdSSpeed": "Near to real-time business process tracking"
-    ,"tdSReliability": "Automated risk detection"
-    ,"tdSQuality": "Easy-to-made interactive visual reports"
-    ,"tdSCompetitors": "Multiple-source data integration"
-    ,"tdSGoals": "Trend analysis with time intelligence functions"
-    ,"tdSSecurity": "Centralized data storage and access control"
-  }
   ,"Benefits": {
-    "h":"How BI benefits companies?"
-    ,"hRevenue": "Expertise enhancement →&nbsp;Revenue&nbsp;growth"
-    ,"hPlanning": "Quick measures →&nbsp;Good&nbsp;planning"
-    ,"hConsolidation": "Easy sharing →&nbsp;Consolidation"
-    ,"tRevenue": "<p>The main advantage of Business Intelligence is that your employees will become more valuable assets to the company. Wasting less time on getting all crucial data together from different sources and worrying about the risk of making a mistake along the process, they will spend more time analyzing the information from top to bottom and communicating the result to their managers.</p><p>Integrated data model and intuitive easy-to-use interface requiring no special skills will drastically ease research of complex interconnections inside your business, revealing ineffective or missing processes, causes of potential bottlenecks, hidden risks and opportunities of your company. Your employees will solve business issues instead of technical issues, becoming profound experts of your business domain. And your management will obtain a constant supply chain of valuable insights via clear and meaningful business reports.</p>"
-    ,"tPlanning": "<p>Most companies measure their Key Performance Indicators, but most of them stop right there. While these metrics are important, they are often measured at the end of the year or quarter and are reactive in nature.</p><p>Opposed to this Business Intelligence tools allow you to monitor your state of affairs in real-time, gathering data from different sources and providing a high-resolution view of each individual business process via various intuitive visual components. Tracking changes on the flight will allow your company to dynamically respond to the changing environment.</p><p>At the same time, thanks to built-in relations of your data model, getting new measures and indexes via intuitive drag-n-drop interface will not require any specialized skills or additional technical support. Once BI infrastructure is there, the time between recognition of “we need to measure X” and getting the result may be reduced to several clicks. This will boost your business capability to discover ongoing trends in your business area by the first signs.</p>"
-    ,"tConsolidation": "<p>Efficient communication is a crucial point to any company’s long-term survival. Whether you are exchanging information with your colleagues from neighboring departments or answering to a board and investors about your startup needs and potential, BI tools will allow you to create a quick dashboard report, highlighting your key points through various visuals.</p><p>Cross platform solution will enable access to all information 24/7 from any device, including your mobile phone. Sophisticated performance enhancement techniques underneath BI instruments will ensure you responsive interactive interface despite enormous amounts of data presented in your reports. At the same time centralized data storage will ease implementing uniform security policy.</p><p>Conflicting stakeholder expectations as well as poor communication are often root causes of many problems occurring in a project. Expressive and easy-to-made BI reports may become the common ground for mutual understanding, accelerating exchange of meaningful ideas.</p>"
-  }
+    "h":"Business Intelligence Benefits"
+    ,"hBenefit1": "Data-driven business decisions"
+    ,"pBenefit1": "A strong BI strategy can deliver accurate data faster to business users to help them make better business decisions."
+    ,"hBenefit2": "Faster analysis and intuitive dashboards"
+    ,"pBenefit2": "BI improves reporting efficiency by condensing reports into dashboards that are easy for non-technical users to analyze."
+    ,"hBenefit3": "Increased competitive advantage"
+    ,"pBenefit3": "A solid BI strategy can help businesses monitor their changing market and anticipate customer needs."
+    ,"hBenefit4": "Improved customer experience"
+    ,"pBenefit4": "Ready access to data can help those responsible for customer satisfaction improve the quality of service."
+    ,"hBenefit5": "Improved employee satisfaction"
+    ,"pBenefit5": "Providing business users access to data without having to contact analysts or IT can reduce friction, increase productivity, and facilitate faster results."
+    ,"hBenefit6": "Trusted and governed data"
+    ,"pBenefit6": "Modern BI platforms can combine internal databases with external data sources into a single data warehouse, allowing access the same data at one time."
+    
+   
+    }
   ,"Services": {
      "h":"Our services"
     ,"p": "If you need a BI solution designed specially for your company, check our services"
+    ,"wDemos": "See demos"
     ,"hDevelopement": "Developement"
     ,"pDevelopement": "Create new or improve<br>what you have"
     ,"hConsultancy": "Consultancy"
@@ -93,18 +78,18 @@
     ,"pVisualization": "Let your data<br>talk to you"
   }
   ,"Customers": {
-     "h":"Who trusts us?"
+     "h":"Our customers"
   }
   ,"About": {
-     "h":"Who are we?"
+     "h":"Who are we"
     ,"p": "TopSail Group is small BI consultancy company with a big attitude. Our customers are large international companies, that operate mostly on the European market. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential.We have a team of skilled, certified and highly motivated professionals, with \"can do\" attitude. Our main goal is to help our customers in their constant success."
   }
   ,"Approach": {
-     "h":"How do we work?"
+     "h":"The way we work"
     ,"p": "In Business Intelligence, the action is as much important as reaction. Therefore, we not only supply BI solutions. We ask. We challenge. We prototype. We ensure quality and high standards."
   }
   ,"NameMeaning": {
-     "h":"Why TopSail?"
+     "h":"Fun fact"
     ,"p": "It has always been important to utilize every momentum to ensure you can go faster, and stay ahead. The \"topsail\" is a small sail on the top of the mast, that helps even the biggest ships gain extra speed."
   }
   ,"Contacts": {
@@ -122,6 +107,167 @@
     ,"hMedia": "Social Media"
     ,"wCopyright": "Copyright"
   }
+  ,"btn": {
+    "Discover": "DISCOVER",
+    "More": "MORE",
+    "More2": "READ MORE"
+  }
+  ,"Opportunities": {
+    "breadcrumbs": {
+      "home": "Home",
+      "cur": "Job opportunities"
+    },
+    "Title": "Job Opportunities",
+    "Contact": "Please send your CV to",
+    "jobs": {
+      "job1": {
+        "Title": "Senior BI Developer/Analyst",
+        "Desc": "You are experienced, high skilled professional with good background in working with Analytical Applications, such as SSRS, SSAS, Power BI, Oracle BI. You are able to understand and implement complex analytical solutions – this includes ability to understand design of enterprise level architecture, think ahead for the possible extension of it and be able to spot possible points of improvement. Your level of technical skills enables you to see behind the lines of data. You have a will to learn, to be creative and to grow - this is what we expect.",
+        "More": {
+          "Expirience": {
+            "Title": "Required Experience/Skills:",
+            "List": "<li class = \"oblig\">5 or more years of experience in BI Industry</li><li class = \"oblig\">Advanced level of SQL</li><li class = \"oblig\">Knowledge of DWH architecture and ETL process</li><li class = \"oblig\">Good experience with analysis or reporting tools like Power BI, SSRS or Oracle BI</li><li class = \"oblig\">Knowledge of IT development processes and methodologies</li><li class = \"oblig\">Knowledge of Microsoft Azure</li><li class = \"oblig\">Customer focused, analytical skills, energetic and result driven</li><li class = \"oblig\">Communication on good level of either English, Russian or Latvian</li><li class = \"nonoblig\">Knowledge of statistical analysis and modelling is a plus</li><li class = \"nonoblig\">Experience with SQL performance tuning is a plus</li><li class = \"nonoblig\">Background in programming is a big plus</li><li class = \"nonoblig\">Team lead experience is a plus, but not required</li>"
+          },
+          "Mission": {
+            "Title": "Your mission:",
+            "Subtitle": "(should you choose to accept it)",
+            "Text": "Participate in the development of Business Intelligence oriented DWHs for large, well-known EU companies, operating with multiple branches on the European market. You would face the dangers of scattered data, question the requirements, and explore the depths of legacy solutions that no one can remember.<br>Your primary target would be new or significantly improved, high quality data warehouse, that would provide great analysis possibilities and clear, yet important KPIs and measures to end users."
+          },
+          "Offer": {
+            "Title": "We offer:",
+            "List": "<li>Salary starting from 2500 € brutto</li><li>Nice working environment</li><li>Friendly colleagues</li><li>Challenging projects</li><li>Nice bonuses</li><li>Respect (to some people that is more important ©)</li>"
+          }
+        }
+      },
+      "job2": {
+        "Title": "Middle BI Developer/Analyst",
+        "Desc": "The primary role of the BI developer is to take the design and technical specifications and develop effective and high quality technical solutions that meet the business requirements. The technical domain of the BI Developer includes logical and physical data modeling, data delivery best practices, tools and technologies, security in the data delivery environment, data delivery (application) development, performance tuning, and administration.",
+        "More": {
+          "Expirience": {
+            "Title": "Required Experience/Skills:",
+            "List": "<li class = \"oblig\">3 or more years of experience in BI Industry</li><li class = \"oblig\">Good level of SQL</li><li class = \"oblig\">Knowledge of DWH architecture and ETL process</li><li class = \"oblig\">Experience with analysis or reporting tools like Power BI, SSRS or Oracle BI</li><li class = \"oblig\">Knowledge of IT development processes and methodologies</li><li class = \"oblig\">Communication on good level of either English, Russian or Latvian</li><li class= \"oblig\">Creative and analytical thinker with strong problem-solving skills.</li><li class= \"oblig\">A will to learn, explore and acquire the new skills</li>"
+          },
+          "Offer": {
+            "Title": "We offer:",
+            "List": "<li>Salary starting from 2000 € brutto</li><li>Nice working environment</li><li>Friendly colleagues</li><li>Challenging projects</li><li>Nice bonuses</li><li>Respect (to some people that is more important ©)</li>"
+          }
+        }
+      },
+      "job3": {
+        "Title": "Business Intelligence Trainee",
+        "Desc": "Would you like to become the Business Intelligence Developer? There is an opportunity for you at TopSail Group! Acquire skills that would provide you with huge carrier opportunities in the modern world. Business Intelligence, Data Science, Machine learning and many cool and interesting technologies are in the great demand these days, and we invite you to join this respected club.",
+        "More": {
+          "Expirience": {
+            "Title": "To start with",
+            "Intro": "It would be great if you would have the following skillset:",
+            "List": "<li class = \"oblig\">A reasonable background in IT</li><li class = \"oblig\">Some basic understanding of software development routines</li><li class = \"oblig\">Basic knowledge of SQL</li><li class = \"oblig\">Some analytical and problem solving skills</li><li class = \"oblig\">Communication on good level of either English, Russian or Latvian</li><li class = \"oblig\">A will to learn, explore and acquire the new skills</li><li class= \"oblig\">A sense of humor ;)</li>",
+            "Outro": "It was once said - A journey of a thousand miles begins with a first step. We at the TopSail Group would like to offer you our guidance and experience along this journey. Once you have had some basic training, you will join our team in cool projects.<br><br> Feel like you are quite ready for this cool professional adventure?"
+          },
+          "Offer": {
+            "Title": "We offer:",
+            "List": "<li>Nice working environment</li><li>Friendly colleagues</li><li>Competitive salary</li><li>Challenging projects</li><li>Nice bonuses</li><li>Respect (to some people that is more important ©)</li>"
+          }
+        }
+      }
+    }
+  },
+  "Privacy":{
+    "Title":"Privacy Policy",
+    "breadcrumbs": {
+      "home": "Home",
+      "cur": "Privacy Policy"
+    },
+    "Content":{
+      "Title":"Private Data We Receive And Collect",
+      "Text":"TopSail Group also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies. For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable)."
+    }
+  },
+  "Terms":{
+    "Title":"Terms & Conditions",
+    "breadcrumbs": {
+      "home": "Home",
+      "cur": "Terms & Conditions"
+    },
+    "Content":{
+      "topic1":{
+        "Title":"Limitations Of Liability",
+        "Text1":"TopSail Group also automatically collects and receives certain information from your computer or mobile device, including the activities you perform on our Website, the Platforms, and the Applications, the type of hardware and software you are using (for example, your operating system or browser), and information obtained from cookies. For example, each time you visit the Website or otherwise use the Services, we automatically collect your IP address, browser and device type, access times, the web page from which you came, the regions from which you navigate the web page, and the web page(s) you access (as applicable)."
+      },"topic2":{
+        "Title":"Terms And Conditions",
+        "Text":"Under no circumstances shall TopSail Group be liable for any direct, indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, even if TopSail Group or an authorized representative has been advised of the possibility of such damages. If your use of materials from this site results in the need for servicing, repair or correction of equipment or data, you assume any costs thereof."
+      },"topic3":{
+        "Title":"Designer Membership And How It Applies",
+        "Text":"By using any of the Services, or submitting or collecting any Personal Information via the Services, you consent to the collection, transfer, storage disclosure, and use of your Personal Information in the manner set out in this Privacy Policy. If you do not consent to the use of your Personal Information in these ways, please stop using the Services."
+      }
+    }
+  }
 
+  ,"Visualization": {
+    "h":"Visualization"
+   ,"p": "BI tools that we currently use provide almost 500 certified customizable charts to depict your data in an easy-to-understand manner. Each view is interactive and allows you to slice your data by year / product type / department / whatever you in a single click."
+   ,"hChart1":"Usage"
+   ,"hChart2":"Design"
+  }
+
+  ,"Scripts": {
+    "h":"Script Examples"
+   ,"hTab1":"Parse retailer items with python"
+   ,"hTab2":"Script 2"
+  }
+
+ ,"Report": {
+  "h":"Report Demos"
+ ,"p1": "Different Analytics types report demo"
+ ,"p2": "Basket Analysis"
+ ,"p3": "Tabular Model Analysis"
+}
+
+,"Analysis": {
+  "h":"Data Analysis"
+ ,"pAnalyticalReporting": "An analytical report is a type of a business report that uses qualitative and quantitative company data to analyze and evaluate a business strategy or process, while empowering employees to make data-driven decisions based on evidence and analytics. While analytical reporting is based on statistics, historical data and can deliver predictive analysis of a specific issue, its usage is also spread in analyzing current data in a wide range of industries."
+ ,"pQuantitativeNQualitative": "With our data scientists on board, you’ll enable both quantitative and qualitative data analysis to bring valuable insights to your team when and as they need it."
+ ,"pWePerform": "We perform:"
+ ,"wStatistical": "Statistical Analysis "
+ ,"wDiagnostic": "Diagnostic Analysis "
+ ,"wPredictive": "Predictive Analysis "
+ ,"wPrescriptive": "Prescriptive Analysis"
+}
+
+,"Solutions": {
+  "h":"Technical Solutions"
+ ,"p": "We Create, Manage and/or Support"
+ ,"wWarehouse":"Data warehouse (DWH)"
+ ,"wDataManagement":"Master data management (MDM)"
+ ,"wPipelines":"ETL/ELT (Extract, Transform, Load data) piplines"
+ ,"wIntegration":"Data integration"
+ ,"p1": "Google Analytics"
+ ,"p2": "SSIS pipeline"
+ ,"p3": "ETL: Infromatica mapping"
+}
+
+,"Cleaning": {
+  "h":"Data Cleaning"
+ ,"p": "Data quality is essential for applying machine learning models to solve business questions and training AI models. However, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
+}
+
+,"Architecture": {
+  "h":"Architecture"
+ ,"hFigure1": "Azure Data Warehouse"
+ ,"hFigure2": "Power BI Architecture"
+ ,"hFigure3": "Synapse-based design"
+ ,"hDWH": "Data warehouses (DWH)"
+ ,"pDWH": "The prime goal of DWH technology is to collect, integrate, clean and store data in consistent manner."
+}
+
+,"Consultancy": {
+  "h":"Consultancy"
+ ,"pStayInvolved": "Defining your needs is the first step into Business Intelligence. We encourage our customers to be involved into solution design and we maintain active communication during the whole developement process to remain aligned with your individual requirements."
+ ,"pWeWillGuideYou": "Nevertheless, if you struggle to define your company's needs, our team of experts is ready to guide you through the process of business analysis. This will bring you a general picture to decide your further steps."
+ ,"pContactUs": "You may contact us to get your first consultation for free."
+}
+
+,"Skills": {
+  "h":"Our Skills"
+}
 
 }

@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="tsg_prezi.svg"
-   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Desktop\bitmap.png"
+   sodipodi:docname="general.svg"
+   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group-test.github.io\www\img\escalator\escalator-large-en.png"
    inkscape:export-xdpi="195.77299"
    inkscape:export-ydpi="195.77299"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,7 +29,7 @@
      showgrid="false"
      inkscape:zoom="0.7395237"
      inkscape:cx="267.7399"
-     inkscape:cy="-423.92151"
+     inkscape:cy="874.21133"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -364,19 +364,19 @@
        y="0"><tspan
          x="-206.30762"
          y="604.49907"
-         id="tspan1271"><tspan
+         id="tspan1533"><tspan
            style="fill:#ffffff"
-           id="tspan1269">Extract, </tspan></tspan><tspan
+           id="tspan1531">Extract, </tspan></tspan><tspan
          x="-280.40918"
          y="654.49907"
-         id="tspan1275"><tspan
+         id="tspan1537"><tspan
            style="fill:#ffffff"
-           id="tspan1273">Transform, and </tspan></tspan><tspan
+           id="tspan1535">Transform, and </tspan></tspan><tspan
          x="-252.22559"
          y="704.49907"
-         id="tspan1279"><tspan
+         id="tspan1541"><tspan
            style="fill:#ffffff"
-           id="tspan1277">Loadprocess</tspan></tspan></text>
+           id="tspan1539">Loadprocess</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m -102.88125,109.02842 49.692549,34.47398"
@@ -747,26 +747,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-303.87253"
-       y="489.03723"
+       x="-304.94583"
+       y="494.40387"
        id="text11589"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan11587"
          style="font-size:7.05556px;stroke-width:0.264583"
-         x="-303.87253"
-         y="489.03723">VALUE</tspan></text>
+         x="-304.94583"
+         y="494.40387">VALUE</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="628.89417"
-       y="384.00208"
+       x="611.00543"
+       y="374.34216"
        id="text12495"><tspan
          sodipodi:role="line"
          id="tspan12493"
          style="font-size:7.05556px;stroke-width:0.264583"
-         x="628.89417"
-         y="384.00208">DIFFICULTY</tspan></text>
+         x="611.00543"
+         y="374.34216">DIFFICULTY</tspan></text>
     <g
        id="g63216"
        transform="translate(-60.106256,8.2288321)">

@@ -21,10 +21,9 @@
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content="TopSail Group" /> <!-- website name -->
     <meta property="og:site" content="topsailgroup.eu" /> <!-- website link -->
-    <meta property="og:title" content="TopSail Group - BI Solutions" /> <!-- title shown in the actual shared post -->
-    <meta property="og:description"
-        content="We create the Business Intelligence solutions that maximize the use of customers' business potential." />
-    <!-- description shown in the actual shared post -->
+    <meta property="og:title" content="TopSail Group - Business Intelligence (BI) Solutions"> <!-- title shown in the actual shared post -->
+    <meta property="og:description" content="We create the Business Intelligence solutions that maximize the use of customers' business potential.">
+   <!-- description shown in the actual shared post -->
     <meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
     <meta property="og:url" content="topsailgroup.eu" /> <!-- where do you want your post to link to -->
     <meta property="og:type" content="website" />
@@ -33,16 +32,19 @@
     <title>TopSail</title>
 
     <!-- Styles -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/topsail.css" rel="stylesheet">
+
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,700,700i&amp;subset=latin-ext"
         rel="stylesheet">
-    <link href="css/bootstrap.css" rel="stylesheet">
+            
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet" />    
+
     <link href="css/swiper.css" rel="stylesheet">
     <link href="css/magnific-popup.css" rel="stylesheet">
-    <link href="css/styles.css" rel="stylesheet">
-    <link href="css/wanted.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/0194320d92.js" crossorigin="anonymous"></script>
-    <link href="css/webchat.css" rel="stylesheet">
-    <link href="css/topsail.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+
     <!-- Favicon  -->
     <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
@@ -50,24 +52,9 @@
     <link rel="manifest" href="img/favicon/site.webmanifest">
     
     <link rel="stylesheet" href="css/bootstrap-select.min.css">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 
-    <!-- Accordion animation correction  -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    <script>
-      $(function () {
-          $('.accordion').on('shown.bs.collapse', function (e) {
-              var offset = e.target.closest('.accordion-item').getBoundingClientRect();
-              if(offset) { 
-                  $('html,body').animate({
-                      scrollTop: offset.top + window.scrollY - 60
-                  }, 'fast'); 
-              }
-          }); 
-      });
-    </script>
-
-    
     <!-- Navigation -->
     <nav class="navbar navbar-expand-sm navbar-light navbar-custom fixed-top py-0">
         <!-- Text Logo - Use this if you don't have a graphic logo -->
@@ -76,7 +63,6 @@
 
         <div id="navbar-brand hstack no-gutters mr-auto">
             <a id="logo-left" class="my-0" href="#Home"><img src="img/logo/logo-left.png" alt="TopSail Group"></a>
-            <a id="logo-middle" class="my-0" href="#Home"><img src="img/logo/logo-middle.png"></a>
             <a id="logo-right" class="my-0" href="#Home"><img src="img/logo/logo-right.png"></a>
         </div>
 
@@ -89,20 +75,20 @@
         <!-- end of mobile menu toggle button -->
 
         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto bg-white">
 
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Home"       data-t>nav.Home</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Benefits" data-t>nav.Benefits</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Services" data-t>nav.Services</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#About" data-t>nav.About</a></li>
                 <li class="nav-item"><a class="nav-link page-scroll" href="#Contacts" data-t>nav.Contacts</a></li>
-                <li>
+                <!-- <li>
                     <select id="languageSelector" class="selectpicker" data-width="fit">
                           <option value="1" data-content="<span class='flag-icon flag-icon-gb'></span> en">eng</option>
                           <option value="2" data-content="<span class='flag-icon flag-icon-ru'></span> ru">rus</option>
                           <option value="3" data-content="<span class='flag-icon flag-icon-lv'></span> lv">lv</option>
                     </select>
-                </li>
+                </li>-->
             </ul>
             
     </nav> <!-- end of navbar -->
@@ -125,7 +111,14 @@
 
     <header class="header fixed-bg" style="background-image: url('img/bg/sphere.jpg');">
         <div class="container d-flex" style="min-height: calc(50vh - 28px);">
-		    <h1 style="display: inline-block;" class="h bg-black-shadow px-3 my-0 text-white d-flex align-items-center" data-t>Header.h</h1>
+		    <div id="header-shadow" class="bg-black-shadow px-3 my-0 text-white d-flex align-items-center">
+                <div class="w-100">
+                    <h1 data-t>Header.h</h1>
+                    <a class="btn btn-light" href="services.html" role="button" data-t>Services.wDemos</a>
+                </div>
+            </div>
+            
+            
         </div>
     </header>
 
@@ -137,115 +130,154 @@
                 <div class="col-12"><h2 class="h" data-t>BI.h</h2></div>
                 <div class="d-none d-sm-block col-sm-1 col-md-2 col-lg-3"></div>
                 <div class="col-12 col-sm-10 col-md-8 col-lg-6">
-                    <p class="text-justify" data-t>BI.p</p>
+                    <p class="p-large-justify" data-t>BI.p</p>
+                    
                 </div>
                 <div class="d-none d-sm-block col-sm-1 col-md-2 col-lg-3"></div>
             </div>
                 
         </div>
-
-        
-        <div id="Slogans" class="row">
-            <div class="col-12 col-md-4">
-                <div class="text-left mx-auto">
-                    <h2 data-t>Slogans.h</h2>
-                    <ul>
-                        <li data-t>Slogans.pSuccess</li>
-                        <li data-t>Slogans.pTeam</li>
-                        <li data-t>Slogans.pInvestors</li>
-                        <li data-t>Slogans.pSimple</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-12 col-md-8">
-                <h2 data-t>Slogans.hAnalyticsTypes</h2>
-                <img data-attr-t data-attr-t-interpolate src-t="img/escalator/escalator-small-{{lang}}.png" src="img/escalator/escalator-small-en.png" class="d-block d-sm-none  d-md-block d-lg-none  img-fluid mx-auto" data-attr-t alt-t="Slogans.altEscalator">
-                <img data-attr-t data-attr-t-interpolate src-t="img/escalator/escalator-large-{{lang}}.png" src="img/escalator/escalator-large-en.png" class="d-none  d-sm-block d-md-none  d-lg-block img-fluid mx-auto" data-attr-t alt-t="Slogans.altEscalator">
-            </div>
-
-        </div>
-        
-
-        
-        <div class="sub-section" id="Use">
-
-        <h2 class="h" data-t>Use.h</h2>	
-                        <p class="text-justify" data-t>Use.p</p>
-            <table class="table text-break">
-	    		<thead><tr><th scope="col" data-t>Use.thIssue</th><th class="d-none d-sm-table-cell" scope="col" data-t>Use.thReason</th><th scope="col" data-t>Use.thSolution</th></tr></thead>
-	    		<tbody>
-	    			<tr><td data-t>Use.tdICosts</td><td class="d-none d-sm-table-cell" data-t>Use.tdRCosts</td><td data-t>Use.tdSCosts</td></tr>
-	    			<tr><td data-t>Use.tdISpeed</td><td class="d-none d-sm-table-cell" data-t>Use.tdRSpeed</td><td data-t>Use.tdSSpeed</td></tr>
-	    			<tr><td data-t>Use.tdIReliability</td><td class="d-none d-sm-table-cell" data-t>Use.tdRReliability</td><td data-t>Use.tdSReliability</td></tr>
-	    			<tr><td data-t>Use.tdIQuality</td><td class="d-none d-sm-table-cell" data-t>Use.tdRQuality</td><td data-t>Use.tdSQuality</td></tr>
-	    			<tr><td data-t>Use.tdICompetitors</td><td class="d-none d-sm-table-cell" data-t>Use.tdRCompetitors</td><td data-t>Use.tdSCompetitors</td></tr>
-	    			<tr><td data-t>Use.tdIGoals</td><td class="d-none d-sm-table-cell" data-t>Use.tdRGoals</td><td data-t>Use.tdSGoals</td></tr>
-	    			<tr><td data-t>Use.tdISecurity</td><td class="d-none d-sm-table-cell" data-t>Use.tdRSecurity</td><td data-t>Use.tdSSecurity</td></tr>
-	    		</tbody>
-	    	</table>
-        </div>
-
-        <div id="Benefits" class="sub-section">
-
+          <div id="Benefits" class="sub-section">
             <h2 class="h" data-t>Benefits.h</h2>
-
-            <div id="accordion" class="accordion">
-                <div class="accordion-item">
-                    <h3 class="accordion-header" id="headingOne">
-                      <button data-t class="accordion-button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Benefits.hRevenue</button>
-                    </h3>
-                  <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                    <div class="accordion-body">
-                        <div class="container-fluid">
-                            <div class="row">
-                                <img class="col-12 col-md-1 img-figure order-1 order-md-3" src="img/figures/benefit-revenue.jpg"></img>
-                                <p class="col-12 col-md-11 order-2" data-t>Business Intelligence makes employees more valuable assets by providing an integrated data model and easy-to-use interface. This saves time collecting data and allows for analysis to identify inefficiencies, bottlenecks, and opportunities. Valuable insights are then communicated to managers through clear reports, making employees experts in their business domain and providing management with a constant stream of insights.</p>
-                            </div>
+            <div class="row">
+                <div class="col-md-4">
+                  <div class="thumbnail">
+                    <h3 data-t class="header" align="center">Benefits.hBenefit1</h3>
+                      <img src="img/benefits/benefit1.png" alt="Lights" style="width:100%">
+                      <div class="caption">
+                        <p data-t class="p-benefit p-large-justify">Benefits.pBenefit1</p>
+                      </div>
+                  </div> 
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <h3 data-t class="header" align="center">Benefits.hBenefit2</h3>
+                        <img src="img/benefits/benefit2.png" alt="Lights" style="width:100%">
+                        <div class="caption">
+                          <p data-t class="p-benefit p-large-justify">Benefits.pBenefit2</p>
                         </div>
-                        
-                    </div>
-                  </div>
+                    </div> 
                 </div>
-                <div class="accordion-item">
-                    <h3 class="accordion-header" id="headingTwo">
-                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Benefits.hPlanning</button>
-                    </h3>
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                    <div class="accordion-body">
-                        <p><img class="img-figure" src="img/figures/benefit-planning.jpg"></img>
-                        <span data-t>Benefits.tPlanning</span></p>
-                    </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <h3 data-t class="header" align="center">Benefits.hBenefit3</h3>
+
+                        <img src="img/benefits/benefit3.png" alt="Lights" style="width:100%">
+                        <div class="caption">
+                          <p data-t class="p-benefit p-large-justify">Benefits.pBenefit3</p>
+                        </div>
+                    </div> 
                   </div>
-                </div>
-                <div class="accordion-item">
-                    <h3 class="accordion-header" id="headingThree">
-                      <button data-t class="accordion-button collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Benefits.hConsolidation</button>
-                    </h3>
-                  <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                    <div class="accordion-body">
-                        <p><img class="img-figure" src="img/figures/benefit-consolidation.jpg"></img>
-                        <span data-t>Benefits.tConsolidation</span></p>
-                    </div>
-                  </div>
-                </div>
+                  
             </div>
-        </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <h3 data-t class="header" align="center">Benefits.hBenefit4</h3>
+
+                        <img src="img/benefits/benefit4.png" alt="Lights" style="width:100%">
+                        <div class="caption">
+                          <p data-t class="p-benefit p-large-justify">Benefits.pBenefit4</p>
+                        </div>
+                    </div> 
+                  </div>
+                  <div class="col-md-4">
+                    <div class="thumbnail">
+                        <h3 data-t class="header" align="center">Benefits.hBenefit5</h3>
+
+                        <img src="img/benefits/benefit5.png" alt="Lights" style="width:100%">
+                        <div class="caption">
+                          <p data-t class="p-benefit p-large-justify">Benefits.pBenefit5</p>
+                        </div>
+                    </div> 
+                  </div>
+                  <div class="col-md-4">
+                    <div class="thumbnail">
+                        <h3 data-t class="header" align="center">Benefits.hBenefit6</h3>
+                        <img src="img/benefits/benefit6.png" alt="Lights" style="width:100%">
+                        <div class="caption">
+                          <p data-t class="p-benefit p-large-justify">Benefits.pBenefit6</p>
+                        </div>
+                    </div> 
+                  </div>
+            </div>
+        
+       
     </section>
 
+    <section id="Slogans"  class="container light-section pt-0">        
+        <div class="row">
+            <div class="col-12"  align="center">
+                <h2 data-t>Slogans.h</h2>
+                <img
+                data-attr-t 
+                data-attr-t-interpolate
+                src-t="img/escalator/escalator-small-{{lang}}.png" 
+                src="img/escalator/escalator-small-en.png" 
+                class="figure d-block d-lg-none img-fluid" 
+                alt-t="{{Slogans.altEscalator}}">
+
+                <img
+                style="max-width:60%;" 
+                data-attr-t data-attr-t-interpolate 
+                src-t="img/escalator/escalator-large-{{lang}}.png" 
+                src="img/escalator/escalator-large-en.png"
+                 class="figure d-none d-lg-block img-fluid" 
+                 alt-t="{{Slogans.altEscalator}}">
+            </div>
+            
+        </div>
+        <div class="sub-section">
+            <div class="row analytics-type-row align-items-center">
+               <div class="col-md-2"  align="center">
+                   <img class="img-analytics" src="img/analytics_types/analyticaltype1.png"/>
+               </div>
+               <div class="col-md-10">
+                   <p data-t class="p-large-justify">Slogans.pAnalyticalType1</p>
+               </div>
+            </div>
+            <div class="row analytics-type-row align-items-center">
+               <div class="col-md-2"  align="center">
+                   <img class="img-analytics" src="img/analytics_types/analyticaltype2.png"/>
+               </div>
+               <div class="col-md-10">
+                   <p data-t class="p-large-justify">Slogans.pAnalyticalType2</p>
+               </div>
+            </div>   
+            <div class="row analytics-type-row align-items-center">
+               <div class="col-md-2"  align="center">
+                   <img class="img-analytics" src="img/analytics_types/analyticaltype3.png"/>
+               </div>
+               <div class="col-md-10">
+                   <p data-t class="p-large-justify">Slogans.pAnalyticalType3</p>
+               </div>
+            </div>   
+            <div class="row analytics-type-row align-items-center">
+               <div class="col-md-2"  align="center">
+                   <img class="img-analytics" src="img/analytics_types/analyticaltype4.png"/>
+               </div>
+               <div class="col-md-10">
+                   <p data-t class="p-large-justify">Slogans.pAnalyticalType4</p>
+               </div>
+            </div>
+        </div>           
+    </section>
+          
 
     <section id="Services" class="sub-section dark-section bg-image fixed-bg"
-			
 			style="background-image: url('img/bg/sphere.jpg');"
 		>
 		<div class="bg-dark-blue-shadow mx-auto rounded text-center" style="max-width: 450px;">
 			<h2 class="h" data-t>Services.h</h2>
 			<p data-t>Services.p</p>
+            <a href="services.html" class="btn btn-light" role="button" data-t>Services.wDemos</a>
+
 		</div>
         
-		<div class="container px-4">
+		<div class="container px-4 text-dark">
 		  <div class="row gap">
-			<div class="col-12 col-sm-6 col-md-4 bordered">
-				<div class="card h-100 w-100 align-iteml-center ">
+			<div class="col-12 col-sm-6 col-md-4">
+				<div class="card h-100 w-100  ">
 									<img src="img/services/ico1.png" class="icon card-img-top">
 									<div class="card-body">
 										<h5 class="card-title" data-t>Services.hDevelopement</h5>
@@ -254,8 +286,8 @@
 									
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-4 bordered">
-				<div class="card h-100 w-100 align-iteml-center">
+			<div class="col-12 col-sm-6 col-md-4">
+				<div class="card h-100 w-100 ">
 									<img src="img/services/ico2.png" class="icon card-img-top">
 									<div class="card-body">
 										<h5 class="card-title" data-t>Services.hConsultancy</h5>
@@ -265,8 +297,8 @@
 				</div>
 			</div>
 
-			<div class="col-12 col-sm-6 col-md-4 bordered">
-				<div class="card h-100 w-100 align-iteml-center">
+			<div class="col-12 col-sm-6 col-md-4">
+				<div class="card h-100 w-100 ">
 									<img src="img/services/ico3.png" class="icon card-img-top">
 									<div class="card-body">
 										<h5 class="card-title" data-t>Services.hReporting</h5>
@@ -275,8 +307,8 @@
 									
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-4 bordered">
-				<div class="card h-100 w-100 align-iteml-center">
+			<div class="col-12 col-sm-6 col-md-4">
+				<div class="card h-100 w-100 ">
 									<img src="img/services/ico4.png" class="icon card-img-top">
 									<div class="card-body">
 										<h5 class="card-title" data-t>Services.hCleaning</h5>
@@ -285,8 +317,8 @@
 									
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-4 bordered">
-				<div class="card h-100 w-100 align-iteml-center">
+			<div class="col-12 col-sm-6 col-md-4">
+				<div class="card h-100 w-100 ">
 									<img src="img/services/ico5.png" class="icon card-img-top">
 									<div class="card-body">
 										<h5 class="card-title" data-t>Services.hAnalysis</h5>
@@ -295,8 +327,8 @@
 									
 				</div>
 			</div>
-			<div class="col-12 col-sm-6 col-md-4 bordered">
-				<div class="card h-100 w-100 align-iteml-center">
+			<div class="col-12 col-sm-6 col-md-4">
+				<div class="card h-100 w-100 ">
 									<img src="img/services/ico6.png" class="icon card-img-top">
 									<div class="card-body">
 										<h5 class="card-title" data-t>Services.hVisualization</h5>
@@ -309,10 +341,8 @@
 	</section>
 
     <section class="container light-section">
-
         <div class="sub-section" id="Customers">
             <h2 data-t>Customers.h</h2>
-
             <!-- Image Slider -->
             <div class="slider-container d-sm-none">
                 <div class="swiper-container image-slider">
@@ -377,46 +407,46 @@
             
 			<div class="d-none d-sm-block container px-4">
 				<div class="row gap">
-					<div class="col-4">	<img src="img/customers/customer-logo-5.png" class="customer-logo" alt="SUNWEB GROUP">		        </div>
-					<div class="col-4">	<img src="img/customers/customer-logo-2.png" class="customer-logo" alt="PRIVA">				        </div>
-					<div class="col-4">	<img src="img/customers/customer-logo-7.png" class="customer-logo" alt="MANPOWER GROUP">	        </div>
+					<div class="col-4" align="center">	<img src="img/customers/customer-logo-5.png" class="img-fluid customer-logo" alt="SUNWEB GROUP">		        </div>
+					<div class="col-4" align="center">	<img src="img/customers/customer-logo-2.png" class="img-fluid customer-logo" alt="PRIVA">				        </div>
+					<div class="col-4" align="center">	<img src="img/customers/customer-logo-7.png" class="img-fluid customer-logo" alt="MANPOWER GROUP">	        </div>
 
-					<div class="col-4">	<img src="img/customers/customer-logo-1.png" class="customer-logo" alt="DB+">				        </div>
-                    <div class="col-4">	<img src="img/customers/customer-logo-4.png" class="customer-logo" alt="TREVIAN">			        </div>
-                    <div class="col-4">	<img src="img/customers/customer-logo-8.png" class="customer-logo" alt="HOMEFASHION GROUP">	        </div>
+					<div class="col-4" align="center">	<img src="img/customers/customer-logo-1.png" class="img-fluid customer-logo" alt="DB+">				        </div>
+                    <div class="col-4" align="center">	<img src="img/customers/customer-logo-4.png" class="img-fluid customer-logo" alt="TREVIAN">			        </div>
+                    <div class="col-4" align="center">	<img src="img/customers/customer-logo-8.png" class="img-fluid customer-logo" alt="HOMEFASHION GROUP">	        </div>
 
-					<div class="col-4">	<img src="img/customers/customer-logo-3.png" class="customer-logo" alt="LIFTINSTITUUT">		        </div>
-                    <div class="col-4">	<img src="img/customers/customer-logo-6.png" class="customer-logo" alt="UNLIMITED FOOTWEAR GROUP">	</div>
-					<div class="col-4">	<img src="img/customers/customer-logo-9.png" class="customer-logo" alt="HILLSTAR">		            </div>
+					<div class="col-4" align="center">	<img src="img/customers/customer-logo-3.png" class="img-fluid customer-logo" alt="LIFTINSTITUUT">		        </div>
+                    <div class="col-4" align="center">	<img src="img/customers/customer-logo-6.png" class="img-fluid customer-logo" alt="UNLIMITED FOOTWEAR GROUP">	</div>
+					<div class="col-4" align="center">	<img src="img/customers/customer-logo-9.png" class="img-fluid customer-logo" alt="HILLSTAR">		            </div>
 				</div>
 			</div>
 
-        </div>
+    </div>
 
         <div class="sub-section" id="About">
             	
 			<div class="container">
                 <div class="row gap">
-                    <div class="col-12">
+                    <div class="col-md-6">
                         <h2 data-t>About.h</h2>
-			            <p data-t>About.p</p>
+			            <p class="p-large-justify" data-t>About.p</p>
                     </div>
-
+                    <div class="col-md-6" align="center" >
+                        <img src="img/logo/sail.png" class="img-fluid thumbnail" style="max-width:70%;">
+                    </div>
+                   
                 </div>
 				<div class="row gap">
-					<div class="col-12 col-md-4">	
+					<div class="col-12 col-md-6">	
 						<div class="vstack">
 							<h2 data-t>Approach.h</h2>
-							<p class="text-justify" data-t>Approach.p</p>
+							<p class="p-large-justify" data-t>Approach.p</p>
 						</div>
 					</div>
-					<div class="col-12 col-md-4 d-flex">
-						<img src="img/logo/sail.png" class="mx-auto d-block align-self-center" style="max-width: 220px; width: 100%; height: auto;">
-					</div>
-					<div class="col-12 col-md-4">
+					<div class="col-12 col-md-6">
 						<div class="vstack">
 							<h2 data-t>NameMeaning.h</h2>
-							<p class="text-justify" data-t>NameMeaning.p</p>
+							<p class="p-large-justify" data-t>NameMeaning.p</p>
 						</div>
 					</div>
 
@@ -440,21 +470,6 @@
                 <!--end of row -->
             </div> <!-- end of container -->
 
-            <!-- 
-			<form id="myForm" method="post" action="form-to-email.php">
-				<div class="mb-3">
-				<input type="email" id="email" class="form-control" id="exampleFormControlInput1" placeholder="e-mail" style="max-width: 300px;">
-				</div>
-				<div class="mb-3">
-				<textarea id="message" class="form-control" id="exampleFormControlTextarea1" placeholder="message" rows="7"></textarea>
-				</div>
-				<div class="d-grid gap-2 d-md-flex justify-content-md-end">
-				  <input type="submit" id="submit" value="Send" class="btn btn-outline-primary"/>
-				</div>
-			</form>
-			
-			-->
-
         </div>
         <!-- end of contact -->
     </section>
@@ -474,20 +489,23 @@
 				</div>
 				<div class="col-12 col-md-4">
 					<h3 data-t>Footer.hLinks</h3>
-					<p><span data-t>Footer.wFPA</span> <a class="link-light" href="https://www.fpa-nl.com/" data-t>Footer.lFPA</a>
-					<br><span data-t>Footer.wJobs</span> <a class="link-light" href="https://topsailgroup.eu/opportunities.html" data-t>Footer.lJobs</a>
-					<br><span data-t>Footer.wTerms</span> <a class="link-light" href="https://topsailgroup.eu/terml-conditions.html" data-t>Footer.lTerms</a>, <a class="link-light" href="https://topsailgroup.eu/privacy-policy.html" data-t>Footer.lPrivacy</a></p>
+					<p><span data-t>Footer.wFPA</span> <a target="_blank" class="link-light" href="https://www.fpa-nl.com/" data-t>Footer.lFPA</a>
+					<br><span data-t>Footer.wJobs</span> <a class="link-light" href="opportunities.html" data-t>Footer.lJobs</a>
+					<br><span data-t>Footer.wTerms</span> <a class="link-light" href="terms-conditions.html" data-t>Footer.lTerms</a>,
+                     <a class="link-light" href="privacy-policy.html" data-t>Footer.lPrivacy</a></p>
 				</div>
 				<div class="col-12 col-md-4">
 					<h3 data-t>Footer.hMedia</h3>
                     <span class="fa-stack">
-                        <a href="https://www.linkedin.com/company/topsail-group">
+                        <a href="https://www.linkedin.com/company/topsail-group"
+                        target="_blank">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-linkedin-in fa-stack-1x"></i>
                         </a>
                     </span>
                     <span class="fa-stack">
-                        <a href="https://www.facebook.com/TopSailGroup/">
+                        <a href="https://www.facebook.com/TopSailGroup/"
+                        target="_blank">
                             <i class="fas fa-circle fa-stack-2x"></i>
                             <i class="fab fa-facebook fa-stack-1x"></i>
                         </a>
@@ -513,26 +531,6 @@
         
 	</footer>
 
-
-    <!-- Scripts -->
-<!--     
-    <button class="open-button"  onclick="openForm()"><i class="fas fa-comments fa-2x"></i></button>
-    <div class="chat-popup"  id="chatbot">
-        <div class="chat-container">
-            <iframe src="https://powerva.microsoft.com/webchat/bots/178ba4c2-8fbb-47aa-94db-9d4b38a75cfd" frameborder="0" style="width: 100%; height: 500px;"></iframe>
-            <button type="button" class="btn cancel" onclick="closeForm()"><i class="far fa-times-circle fa-2x"></i></button>
-        </div>
-    </div>
-
-    <script>
-        function openForm() {
-            document.getElementById("chatbot").style.display = "block";
-        }
-        function closeForm() {
-            document.getElementById("chatbot").style.display = "none";
-        } 
-    </script> -->
-
     <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
     <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
     <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
@@ -543,7 +541,8 @@
     <script src="js/bootstrap-select.min.js"></script> <!-- Latest compiled and minified JavaScript -->
 
     <script src="js/scripts.js"></script> <!-- Custom scripts -->
-    <script src="js/language-selector.js"></script> <!-- Custom scripts -->    
+    <script src="js/language-selector.js"></script> <!-- Custom scripts -->   
+    <!--<script>$(document).ready(function(){$(".figure").click(function(){this.requestFullscreen()})});</script> turned off because doesn't support zooming-->
 </body>
 
 </html>

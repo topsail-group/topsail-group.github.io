@@ -99,11 +99,6 @@ Colors:
 	background-color: #f7f7f773;
 }
 
-.swiper-slide img{
-	filter: grayscale(0%);
-	height: 1.5rem;
-	width: auto;
-}
 .img-tech{
 	width: 10rem;
 }
@@ -157,15 +152,14 @@ body, p {
 .indent {
 	padding-left: 1.25rem;
 }
-
+/* 
 a {
-	color: #626262;
-	text-decoration: underline;
-}
+	text-decoration: underline; 
+}*/
 
 a:hover {
-	color: #626262;
-	text-decoration: underline;
+	color: white;
+	/* text-decoration: underline; */
 }
 
 a.turquoise {
@@ -697,8 +691,8 @@ input[type='checkbox'] {
 	transition: all 0.2s ease;
 }
 
-.navbar-custom .nav-item .nav-link:hover,
-.navbar-custom .nav-item .nav-link.active {
+.nav-link:hover,
+.nav-link.active {
 	color: #4889E8;
 }
 
@@ -963,7 +957,7 @@ input[type='checkbox'] {
 /**********************************/
 .lightbox-header{
 	height: 8em;
-	background-image: url("../images/lightbox-header.svg");
+	background-image: url("../img/lightbox-header.svg");
 	background-repeat: no-repeat;
 	background-position: top;
 	background-size: cover;
@@ -1412,7 +1406,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #4889E8 url("../images/up-arrow.png") no-repeat center 47%;
+	background: #4889E8 url("../img/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
@@ -1606,13 +1600,13 @@ a:hover.back-to-top {
 
 	.navbar-custom .nav-item .nav-link {
 		padding: 0.25rem 0.75rem 0.25rem 0.75rem;
-		color: #fff;
+		color: #393939;
 		opacity: 0.8;
 	}
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #fff;
+		color: #4889E8;
 		opacity: 1;
 	}
 
@@ -1709,7 +1703,6 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		background: url('../images/header-background.svg') center center no-repeat;
 		background-size: cover; 
 	}
 
@@ -1849,7 +1842,7 @@ a:hover.back-to-top {
 	/* end of general styles */
 	/*about background
 	.basic-4 {
-		background: url('../images/about-background.svg') top left no-repeat;
+		background: url('../img/about-background.svg') top left no-repeat;
 		background-size: cover; 
 	}*/
 	/* Header */
