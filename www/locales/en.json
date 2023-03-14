@@ -1,121 +1,126 @@
 {
-  "lang":"en",
-  "navbar": {
-    "Home": "Home",
-    "Current": "(current)",
-    "Services": "Services",
-    "About": "About",
-    "TermsConditions": "Terms Conditions",
-    "PrivacyPolicy": "Privacy Policy",
-    "Contact": "Contact",
-    "Career": "Career"
-  },
-  "header": {
-    "Title": "<span class=\"turquoise\">Business Intelligence </span> Improve your business with data",
-    "Subtitle": "Transform data into actionable insights that drive your business decisions to achieve even greater success."
-  },
-  "wanted": {
-    "Title": "We are looking for new colleagues!"
-  },
-  "services": {
-    "Title": "Business Intelligence Services",
-    "Subtitle": "We work with you to convert your data into tangible insights, giving you more time at the wheel. We <strong>understand</strong> you and speak the same language",
-    "Development": {
-      "Title": "Development",
-      "Subtitle": "Create new or improve what you have.<br />Our development team will work with you to design and implement BI solutions that fits <strong>your</strong> requirements."
-    },
-    "Consultancy": {
-      "Title": "Consultancy",
-      "Subtitle": "Tell us what you want to know.<br />Our experienced consultants will act as a technology bridge for your business industry. "
-    },
-    "Reporting": {
-      "Title": "BI Analysis & Reporting",
-      "Subtitle": "Let your data talk to you. <br />Visual representation of analysis results - charts, graphs, and histograms to easily understand data."
+  "lang":"en"
+
+  ,"_comment": {
+     "1": "Prefixes"
+    ,"2": "(h)eader - <h2> content"
+    ,"3": "(p)aragraph - <p> content"
+    ,"4": "(l)ink - <a href> content"
+    ,"5": "(t)ext - several <p>"
+    ,"6": "(w)ords - part of <p> content"
+    ,"7": "alt - value alt attribute"
+  }
+
+  ,"meta": {
+     "index": "Automate your business report creation and monitor your company's growth 24/7 via the modern BI technology."
+    ,"services": "Try out online Power BI demo reports and automate your Data Warehouse Management. Customized Business Intelligence solutions for your specific domain."
+    ,"opportunities": "TopSail Group is a small friendly team of BI experts, located in Riga, Latvia. We have many years of experience working for large European customers. Join us, we have cookies ;)"
+    ,"privacy-policy": "Privacy Policy - TopSail Group"
+    ,"terms-conditions": "Terms Conditions - TopSail Group"
+  }
+
+  ,"nav": {
+     "Home": "Home"
+    ,"Benefits": "Benefits"
+    ,"Services": "Services"
+    ,"About": "About"
+    ,"Contacts": "Contacts"
+    ,"Visualization": "Visualization"
+    ,"Report": "Reports"
+    ,"Analysis": "Analysis"
+    ,"Solutions": "Solutions"
+    ,"Cleaning": "Cleaning"
+    ,"Consultancy": "Consultancy"
+    ,"Architecture": "Architecture"
+    ,"Scripts": "Scripts"
+  }
+
+  ,"Header": {
+     "h":"<b>TopSail Group</b><br>The Business<br>Intelligence<br>Company"
+  }
+
+  ,"BI": {
+     "h":"Business Intelligence Definition"
+    ,"p": "Business Intelligence (BI) is a set of IT tools and techniques that can be used for various purposes - to monitor business processes and KPIs, provide more insights, compare actuals and forecasts and even provide suggestions of business actions. Once established, BI infrastructure serves for <i>many years</i>, helping to make informed decisions, build long-term strategy, minimize redundant expenses, increase management efficiency."
+  }
+  ,"Slogans": {
+    "h":"The flavours of Analytics"
+    ,"pAnalyticalType1": "<b>Descriptive analytics</b> is used to analyze past data sets for patterns and trends, helping businesses answer questions such as how much they sold and if they hit specific goals. "
+    ,"pAnalyticalType2": "<b>Diagnostic analytics</b> helps explain why things happened the way they did, going beyond what happened to why it happened. This type of analytics identifies trends or patterns in the past and then explains why they occurred the way they did."
+    ,"pAnalyticalType3": "<b>Predictive analytics</b> aims to predict likely outcomes and make educated forecasts using historical data, using probabilities for predictions instead of simply interpreting existing facts."
+    ,"pAnalyticalType4": "<b>Prescriptive analytics</b> uses data from various sources, including statistics, machine learning, and data mining, to identify possible future outcomes and show the best option. It provides actionable insights instead of raw data, enabling businesses to understand why certain outcomes will happen and predicting the effect of future decisions."
+  }
+
+  ,"Benefits": {
+    "h":"Business Intelligence Benefits"
+    ,"hBenefit1": "Data-driven business decisions"
+    ,"pBenefit1": "A strong BI strategy can deliver accurate data faster to business users to help them make better business decisions."
+    ,"hBenefit2": "Faster analysis and intuitive dashboards"
+    ,"pBenefit2": "BI improves reporting efficiency by condensing reports into dashboards that are easy for non-technical users to analyze."
+    ,"hBenefit3": "Increased competitive advantage"
+    ,"pBenefit3": "A solid BI strategy can help businesses monitor their changing market and anticipate customer needs."
+    ,"hBenefit4": "Improved customer experience"
+    ,"pBenefit4": "Ready access to data can help those responsible for customer satisfaction improve the quality of service."
+    ,"hBenefit5": "Improved employee satisfaction"
+    ,"pBenefit5": "Providing business users access to data without having to contact analysts or IT can reduce friction, increase productivity, and facilitate faster results."
+    ,"hBenefit6": "Trusted and governed data"
+    ,"pBenefit6": "Modern BI platforms can combine internal databases with external data sources into a single data warehouse, allowing access the same data at one time."
+    
+   
     }
-  },
-  "Trust": "Trusted By",
-  "basic2": {
-    "Title": "Data Quality & Data Analytics",
-    "op1": "Data preparation",
-    "op2": "Data mining",
-    "op3": "Descriptive and Predictive analytics",
-    "op4": "Data visualization and Reporting"
-  },
-  "basic1": {
-    "Title": "Technical Solutions",
-    "Subtitle": "We Create, Manage and/or Support",
-    "op1": "Data warehouse (DWH)",
-    "op2": "Master data management (MDM)",
-    "op3": "ETL/ELT (Extract, Transform, Load data) piplines",
-    "op4": "Data integration"
-  },
-  "basic2Modal": {
-    "card1": {
-      "Title": "Data cleaning",
-      "Text": "Data quality is essential for applying machine learning models to solve business questions and training AI models. However, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
-    },
-    "card2": {
-      "Title": "Data analysis",
-      "Text": "With our data scientists on board, you’ll enable both quantitative and qualitative data analysis to bring valuable insights to your team when and as they need it. <br>We perform: <ul class=\"p-large\"><li>Statistical Analysis</li><li>Diagnostic Analysis</li><li>Predictive Analysis</li><li>Prescriptive Analysis </li></ul>"
-    },
-    "card3": {
-      "Title": "Data visualization",
-      "Text": "An analytical report is a type of a business report that uses qualitative and quantitative company data to analyze and evaluate a business strategy or process, while empowering employees to make data-driven decisions based on evidence and analytics. While analytical reporting is based on statistics, historical data and can deliver predictive analysis of a specific issue, its usage is also spread in analyzing current data in a wide range of industries."
-    }
-  },
-  "basic1Modal": {
-    "p1": {
-      "Title": "Data warehouses (DWH)",
-      "Text": "The prime goal of DWH technology is to collect, integrate, clean and store data in consistent manner to the database system. Once data exists in DWH, it makes no difference, the user can leverage the value of the data in one or more styles available today: <ul class=\"p-large\"> <li>Enterprise reporting –the classical tabular, printable report, generated on demand or prepared before being requested.</li> <li>Online analytical processing analysis –the fast browsing and querying through the large quantities of the pre-computed aggregated data organized in a tabular model. </li><li>Ad Hoc Query Analysis –by writing database queries a user can explore the data in a way not foreseen before creation of reports and data models.</li><li>Statistical Analysis and Data Mining –using mathematical and statistical models built into data mining tools combined with data in DWH, the user tries to find unknown data patternsand relationships.</li><li>Alerting and Report delivery –the ability of the system to inform the user that requested data becomes available or that there is significant event occurred. </li><li>Corporate Performance Management –monitoring the performance indicators, those that show organization performance (or health) in the past, in the present and how far the organization is from its future targets.</li></ul>"
-    },
-    "p2": {
-      "Title": "Master data management (MDM)",
-      "Text": "MDM is the core process used to support your business initiatives through identification, linking and syndication of information across products, customers, stores/locations, employees, suppliers, digital assets and more. MDM connects, masters and shares data from all your systems, including ERP, CRM, ecommerce and more. It allows you to create a 360° view of your information. You’ll learn everything from the buying history of your customers to product availability and supplier interaction. MDM allows you to: <ul class=\"p-large\"> <li>Focus your product, service and business efforts on the activities that increase sales. </li><li>Deliver a highly personal service and engagement experience.</li><li>De-prioritize unprofitable activities that drain time and resources.</li></ul>"
-    }
-  },
-  "Skills": "Our Skills",
-  "About": {
-    "p1": {
-      "Title": "About",
-      "Text1": "TopSail Group is small BI consultancy company with a big attitude. Our customers are large international companies, that operate mostly on the European market. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential.",
-      "Text2": "We have a team of skilled, certified and highly motivated professionals, with \"can do\" attitude. Our main goal is to help our customers in their constant success."
-    },
-    "p2": {
-      "Title": "Approach",
-      "Text": "In Business Intelligence, the action is as much important as reaction. Therefore, we not only supply BI solutions. We ask. We challenge. We prototype. We ensure quality and high standards."
-    },
-    "p3": {
-      "Title": "Why \"TopSail\"?",
-      "Text": "It has always been important to utilize every momentum to ensure you can go faster, and stay ahead. The \"topsail\" is a small sail on the top of the mast, that helps even the biggest ships gain extra speed."
-    }
-  },
-  "Contact": {
-    "Title": "Contact Information",
-    "Subtitle": "Don't hesitate to contact us"
-  },
-  "footer": {
-    "column1": {
-      "Title": "TopSail Group",
-      "Text": "We are small BI consultancy company with a big attitude. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential."
-    },
-    "column2": {
-      "Title": "Important Links",
-      "Content": "<ul class=\"list-unstyled li-space-lg\"> <li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Our business partners <a target=\"_blank\" class=\"turquoise\" href=\"https://www.fpa-nl.com/\">FPA</a></div></li><li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Check out our <a class=\"turquoise\" href=\"opportunities.html\">Job opportunities </a></div></li><li class=\"media\"><i class=\"fas fa-square\"></i><div class=\"media-body\">Read our <a class=\"turquoise\" href=\"terms-conditions.html\">Terms & Conditions</a>, <a class=\"turquoise\" href=\"privacy-policy.html\">Privacy Policy</a></div></li></ul>"
-    },
-    "column3": {
-      "Title": "Social Media"
-    }
-  },
-  "Copyright": {
-    "Name": "Copyright",
-    "Right": "All rights reserved "
-  },
-  "btn": {
+  ,"Services": {
+     "h":"Our services"
+    ,"p": "If you need a BI solution designed specially for your company, check our services"
+    ,"wDemos": "See demos"
+    ,"hDevelopement": "Developement"
+    ,"pDevelopement": "Create new or improve<br>what you have"
+    ,"hConsultancy": "Consultancy"
+    ,"pConsultancy": "Tell us what you<br>want to know"
+    ,"hReporting": "Reporting"
+    ,"pReporting": "Automate your<br>report creation"
+    ,"hCleaning": "Data cleaning"
+    ,"pCleaning": "Get your data<br>ready for use"
+    ,"hAnalysis": "Data analysis"
+    ,"pAnalysis": "Obtain useful insights<br>from your data"
+    ,"hVisualization": "Visualization"
+    ,"pVisualization": "Let your data<br>talk to you"
+  }
+  ,"Customers": {
+     "h":"Our customers"
+  }
+  ,"About": {
+     "h":"Who are we"
+    ,"p": "TopSail Group is small BI consultancy company with a big attitude. Our customers are large international companies, that operate mostly on the European market. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential.We have a team of skilled, certified and highly motivated professionals, with \"can do\" attitude. Our main goal is to help our customers in their constant success."
+  }
+  ,"Approach": {
+     "h":"The way we work"
+    ,"p": "In Business Intelligence, the action is as much important as reaction. Therefore, we not only supply BI solutions. We ask. We challenge. We prototype. We ensure quality and high standards."
+  }
+  ,"NameMeaning": {
+     "h":"Fun fact"
+    ,"p": "It has always been important to utilize every momentum to ensure you can go faster, and stay ahead. The \"topsail\" is a small sail on the top of the mast, that helps even the biggest ships gain extra speed."
+  }
+  ,"Contacts": {
+     "h":"Get in touch"
+    ,"p": "Don't hesitate to cantact us"
+    ,"pAddress": "60-318 Darzciema Street, Riga, LV-1073,&nbsp;Latvia"
+  }
+  ,"Footer": {
+     "hTopSail": "TopSail Group"
+    ,"pTopSail": "We are a small BI consultancy company with a big attitude. Our goal is to create the Business Intelligence solutions that maximize the use of customers' business potential."
+    ,"hLinks": "Important Links"
+    ,"wFPA": "Our business partners", "lFPA": "FPA"
+    ,"wJobs": "Check out our", "lJobs": "Job opportunities"
+    ,"wTerms": "Read our", "lTerms": "Terms &amp; Conditions", "lPrivacy": "Privacy Policy"
+    ,"hMedia": "Social Media"
+    ,"wCopyright": "Copyright"
+  }
+  ,"btn": {
     "Discover": "DISCOVER",
     "More": "MORE",
     "More2": "READ MORE"
-  },
-  "Opportunities": {
+  }
+  ,"Opportunities": {
     "breadcrumbs": {
       "home": "Home",
       "cur": "Job opportunities"
@@ -124,7 +129,7 @@
     "Contact": "Please send your CV to",
     "jobs": {
       "job1": {
-        "Title": "Senior BI Developer/Analysts",
+        "Title": "Senior BI Developer/Analyst",
         "Desc": "You are experienced, high skilled professional with good background in working with Analytical Applications, such as SSRS, SSAS, Power BI, Oracle BI. You are able to understand and implement complex analytical solutions – this includes ability to understand design of enterprise level architecture, think ahead for the possible extension of it and be able to spot possible points of improvement. Your level of technical skills enables you to see behind the lines of data. You have a will to learn, to be creative and to grow - this is what we expect.",
         "More": {
           "Expirience": {
@@ -143,7 +148,7 @@
         }
       },
       "job2": {
-        "Title": "Middle BI Developer/Analysts",
+        "Title": "Middle BI Developer/Analyst",
         "Desc": "The primary role of the BI developer is to take the design and technical specifications and develop effective and high quality technical solutions that meet the business requirements. The technical domain of the BI Developer includes logical and physical data modeling, data delivery best practices, tools and technologies, security in the data delivery environment, data delivery (application) development, performance tuning, and administration.",
         "More": {
           "Expirience": {
@@ -204,4 +209,73 @@
       }
     }
   }
+
+  ,"Visualization": {
+    "h":"Visualization"
+   ,"p": "BI tools that we currently use provide almost 500 certified customizable charts to depict your data in an easy-to-understand manner. Each view is interactive and allows you to slice your data by year / product type / department / whatever you in a single click."
+   ,"hChart1":"Usage"
+   ,"hChart2":"Design"
+  }
+
+  ,"Scripts": {
+    "h":"Script Examples"
+   ,"hTab1":"Parse retailer items with python"
+   ,"hTab2":"Script 2"
+  }
+
+ ,"Report": {
+  "h":"Report Demos"
+ ,"p1": "Different Analytics types report demo"
+ ,"p2": "Basket Analysis"
+ ,"p3": "Tabular Model Analysis"
+}
+
+,"Analysis": {
+  "h":"Data Analysis"
+ ,"pAnalyticalReporting": "An analytical report is a type of a business report that uses qualitative and quantitative company data to analyze and evaluate a business strategy or process, while empowering employees to make data-driven decisions based on evidence and analytics. While analytical reporting is based on statistics, historical data and can deliver predictive analysis of a specific issue, its usage is also spread in analyzing current data in a wide range of industries."
+ ,"pQuantitativeNQualitative": "With our data scientists on board, you’ll enable both quantitative and qualitative data analysis to bring valuable insights to your team when and as they need it."
+ ,"pWePerform": "We perform:"
+ ,"wStatistical": "Statistical Analysis "
+ ,"wDiagnostic": "Diagnostic Analysis "
+ ,"wPredictive": "Predictive Analysis "
+ ,"wPrescriptive": "Prescriptive Analysis"
+}
+
+,"Solutions": {
+  "h":"Technical Solutions"
+ ,"p": "We Create, Manage and/or Support"
+ ,"wWarehouse":"Data warehouse (DWH)"
+ ,"wDataManagement":"Master data management (MDM)"
+ ,"wPipelines":"ETL/ELT (Extract, Transform, Load data) piplines"
+ ,"wIntegration":"Data integration"
+ ,"p1": "Google Analytics"
+ ,"p2": "SSIS pipeline"
+ ,"p3": "ETL: Infromatica mapping"
+}
+
+,"Cleaning": {
+  "h":"Data Cleaning"
+ ,"p": "Data quality is essential for applying machine learning models to solve business questions and training AI models. However, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
+}
+
+,"Architecture": {
+  "h":"Architecture"
+ ,"hFigure1": "Azure Data Warehouse"
+ ,"hFigure2": "Power BI Architecture"
+ ,"hFigure3": "Synapse-based design"
+ ,"hDWH": "Data warehouses (DWH)"
+ ,"pDWH": "The prime goal of DWH technology is to collect, integrate, clean and store data in consistent manner."
+}
+
+,"Consultancy": {
+  "h":"Consultancy"
+ ,"pStayInvolved": "Defining your needs is the first step into Business Intelligence. We encourage our customers to be involved into solution design and we maintain active communication during the whole developement process to remain aligned with your individual requirements."
+ ,"pWeWillGuideYou": "Nevertheless, if you struggle to define your company's needs, our team of experts is ready to guide you through the process of business analysis. This will bring you a general picture to decide your further steps."
+ ,"pContactUs": "You may contact us to get your first consultation for free."
+}
+
+,"Skills": {
+  "h":"Our Skills"
+}
+
 }
