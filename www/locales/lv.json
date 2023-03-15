@@ -11,26 +11,43 @@
     ,"7": "alt - value alt attribute"
   }
 
+  ,"meta": {
+    "index": "Automatizējiet biznesa pārskatu izveidi un uzraugiet uzņēmuma izaugsmi 24/7, izmantojot moderno BI tehnoloģiju."
+   ,"services": "Izmēģiniet tiešsaistes Power BI demonstrācijas pārskatus un automatizējiet savu datu noliktavas pārvaldību. Pielāgoti biznesa informācijas risinājumi jūsu konkrētajam domēnam."
+   ,"opportunities": "TopSail Group ir neliela draudzīga BI ekspertu komanda, kas atrodas Rīgā, Latvijā. Mums ir daudzu gadu pieredze, strādājot pie lieliem Eiropas klientiem. Pievienojieties mums, mums ir cepumi ;)"
+   ,"privacy-policy": "Privātuma politika - TopSail Group"
+   ,"terms-conditions": "Noteikumi - TopSail Group"
+ }
+
   ,"nav": {
-     "Home": "Galvenā"
-    ,"Benefits": "Ieguvumi"
-    ,"Services": "Pakalpojumi"
-    ,"About": "Par mums"
-    ,"Contacts": "Kontakti"
-  }
+    "Home": "Galvenā"
+   ,"Benefits": "Ieguvumi"
+   ,"Services": "Pakalpojumi"
+   ,"About": "Par mums"
+   ,"Contacts": "Kontakti"
+   ,"Visualization": "Vizualizācija"
+   ,"Report": "Pārskati"
+   ,"Analysis": "Analīze"
+   ,"Solutions": "Risinājumi"
+   ,"Cleaning": "Datu tīrīšana"
+   ,"Consultancy": "Konsultācijas"
+   ,"Architecture": "Arhitektūra"
+   ,"Scripts": "Skripti"
+ }
+
 
   ,"Header": {
-     "h":"Biznesa<br>Inteliģence"
+     "h":"<b>TopSail Group</b><br>Biznesa<br>Inteliģences<br>Risinājumi"
   }
 
   ,"BI": {
-     "h":"Kas ir biznesa inteliģence?"
-    ,"p": "Biznesa inteliģence (BI) ir IT rīku un metožu kopums, ko vidējie un lielie uzņēmumi izmanto, lai uzraudzītu savus biznesa procesus. Kad BI infrastruktūra ir izveidota, tā kalpo daudzus gadus, palīdzot pieņemt pārdomātus lēmumus, veidot ilgtermiņa stratēģiju, samazināt liekos izdevumus, palielināt pārvaldības efektivitāti.<br><br><i>Uzņēmumam BI ir kā acis: tas palīdz orientēties nenoteiktībā.</i>"
+     "h":"Biznesa inteliģences definīcija"
+    ,"p": "Biznesa inteliģence (BI) ir IT rīku un paņēmienu kopums, ko var izmantot dažādiem mērķiem – lai uzraudzītu biznesa procesus un KPI, sniegtu plašāku ieskatu, salīdzinātu faktiskos faktus un prognozes un pat sniegtu ieteikumus biznesa darbībām. Kad BI infrastruktūra ir izveidota, tā kalpo <i>daudzus gadus</i>, palīdzot pieņemt pārdomātus lēmumus, veidot ilgtermiņa stratēģiju, samazināt liekos izdevumus, palielināt pārvaldības efektivitāti."
   }
   ,"Slogans": {
     "h":"Kam tas paredzēts?"
     ,"hAnalyticsTypes":"The flavours of Analytics​"
-   ,"pSuccess": "Analizējiet savu ceļu uz panākumiem"
+   ,"pSuccess": "Analītikas posmi"
    ,"pTeam": "Apvienojiet savu komandu"
    ,"pInvestors": "Pārlieciniet savus investorus"
    ,"pSimple": "Padariet to vienkāršu"
