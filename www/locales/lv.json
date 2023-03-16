@@ -11,115 +11,106 @@
     ,"7": "alt - value alt attribute"
   }
 
+  ,"meta": {
+    "index": "Automatizējiet biznesa pārskatu izveidi un uzraugiet uzņēmuma izaugsmi 24/7, izmantojot moderno BI tehnoloģiju."
+   ,"services": "Izmēģiniet tiešsaistes Power BI demonstrācijas pārskatus un automatizējiet savu datu noliktavas pārvaldību. Pielāgoti biznesa informācijas risinājumi jūsu konkrētajam domēnam."
+   ,"opportunities": "TopSail Group ir neliela draudzīga BI ekspertu komanda, kas atrodas Rīgā, Latvijā. Mums ir daudzu gadu pieredze, strādājot pie lieliem Eiropas klientiem. Pievienojieties mums, mums ir cepumi ;)"
+   ,"privacy-policy": "Privātuma politika - TopSail Group"
+   ,"terms-conditions": "Noteikumi - TopSail Group"
+ }
+
   ,"nav": {
-     "Home": "Galvenā"
-    ,"Benefits": "Ieguvumi"
-    ,"Services": "Pakalpojumi"
-    ,"About": "Par mums"
-    ,"Contacts": "Kontakti"
-  }
+    "Home": "Galvenā"
+   ,"Benefits": "Ieguvumi"
+   ,"Services": "Pakalpojumi"
+   ,"About": "Par mums"
+   ,"Contacts": "Kontakti"
+   ,"Visualization": "Vizualizācija"
+   ,"Report": "Pārskati"
+   ,"Analysis": "Analīze"
+   ,"Solutions": "Risinājumi"
+   ,"Cleaning": "Datu tīrīšana"
+   ,"Consultancy": "Konsultācijas"
+   ,"Architecture": "Arhitektūra"
+   ,"Scripts": "Skripti"
+ }
+
 
   ,"Header": {
-     "h":"Biznesa<br>Inteliģence"
+     "h":"<b>TopSail Group</b><br>Biznesa<br>Inteliģences<br>Risinājumi"
   }
 
   ,"BI": {
-     "h":"Kas ir biznesa inteliģence?"
-    ,"p": "Biznesa inteliģence (BI) ir IT rīku un metožu kopums, ko vidējie un lielie uzņēmumi izmanto, lai uzraudzītu savus biznesa procesus. Kad BI infrastruktūra ir izveidota, tā kalpo daudzus gadus, palīdzot pieņemt pārdomātus lēmumus, veidot ilgtermiņa stratēģiju, samazināt liekos izdevumus, palielināt pārvaldības efektivitāti.<br><br><i>Uzņēmumam BI ir kā acis: tas palīdz orientēties nenoteiktībā.</i>"
+     "h":"Biznesa inteliģences definīcija"
+    ,"p": "Biznesa inteliģence (BI) ir IT rīku un paņēmienu kopums, ko var izmantot dažādiem mērķiem – lai uzraudzītu biznesa procesus un KPI, sniegtu plašāku ieskatu, salīdzinātu faktisko stāvokli ar prognozem un pat sniegtu ieteikumus biznesa darbībām. Kad BI infrastruktūra ir izveidota, tā kalpo <i>daudzus gadus</i>, palīdzot pieņemt pārdomātus lēmumus, veidot ilgtermiņa stratēģiju, samazināt liekos izdevumus, palielināt pārvaldības efektivitāti."
   }
   ,"Slogans": {
-    "h":"Kam tas paredzēts?"
-    ,"hAnalyticsTypes":"The flavours of Analytics​"
-   ,"pSuccess": "Analizējiet savu ceļu uz panākumiem"
-   ,"pTeam": "Apvienojiet savu komandu"
-   ,"pInvestors": "Pārlieciniet savus investorus"
-   ,"pSimple": "Padariet to vienkāršu"
-   ,"altEscalator": "Analītiskās Vērtības Eskalators. BI sastāv no 4 posmiem.<br>Aprakstošā analīze — kas notika?<br>Diagnostiskā analīze — kāpēc tas notika?<br>Paredzošā analīze — kas notiks?<br>Preskriptīvā analīze — kā to panākt? Katru nākošo posmu ir grūtāk īstenot, taču tas sniedz lielāku vērtību."
+    "h":"Analītikas posmi"
+    ,"pAnalyticalType1": "<b>Aprakstošā analīze</b> tiek izmantota, lai analizētu pagātnes datu kopas, mēklejot regularitātes un tendences. Tā palīdz uzņēmumiem atbildēt uz tādiem jautājumiem kā, piemēram, cik daudz viņi pārdeva un vai tie sasniedz konkrētus mērķus."
+    ,"pAnalyticalType2": "<b>Diagnostiskā analīze</b> palīdz izskaidrot, kāpēc lietas notika tā, kā tās notika. Šāda veida analītika identificē tendences vai regularitātes pagātnē un pēc tam izskaidro to iemeslus."
+    ,"pAnalyticalType3": "<b>Paredzošas analīzes</b> mērķis ir paredzēt iespējamos rezultātus un veikt drošas prognozes, izmantojot vēsturiskos datus un varbūtības, nevis vienkārši interpretējot esošos faktus."
+    ,"pAnalyticalType4": "<b>Preskriptīvā analīze</b> izmanto datus no dažādiem avotiem, tostarp no statistikas, mašīnmācīšanās un datizraces, lai noteiktu iespējamos turpmākos rezultātus un parādītu labāko risinājumu. Tas sniedz praktiskus ieskatus neapstrādātu datu vietā, ļaujot uzņēmumiem saprast, kāpēc viņiem sanāks noteiktie rezultāti, kā arī ļauj prognozēt turpmāko lēmumu ietekmi."
   }
-  ,"Use": {
-     "h": "Kad uzņēmumi izmanto biznesa informāciju?"
-    ,"p": "Visbiežāk uzņēmumi apzinās nepieciešamību pēc BI, saskaroties ar dažām bieži sastopamām problēmām. BI palīdz identificēt slēptās problēmas, kas slēpjas aiz šādām problēmām, un nodrošina atbilstošu risinājumu kopumu."
-    
-    ,"thIssue": "Bieža problēma"
-    ,"tdICosts": "Kā samazināt mūsu ražošanas izmaksas?"
-    ,"tdISpeed": "Kā paātrināt mūsu biznesa procesu?"
-    ,"tdIReliability": "Vai mēs varam padarīt mūsu biznesa procesu uzticamu?"
-    ,"tdIQuality": "Kā uzlabot mūsu produktu kvalitāti?"
-    ,"tdICoponents": "Kāpēc klienti dod priekšroku mūsu konkurentiem?"
-    ,"tdIGoals": "Kā mēs varam sasniegt savus ilgtermiņa mērķus?"
-    ,"tdISecurity": "Kā uzlabot mūsu datu drošību?"
-
-    ,"thReason": "Potenciālais iemesls"
-    ,"tdRCosts": "Neizsekoti vai nepārprotami izdevumi"
-    ,"tdRSpeed": "Procesu sastrēgumi"
-    ,"tdRReliability": "Ražošanas/piegādes ķēžu pārtraukšana"
-    ,"tdRQuality": "Slikta iekšējā komunikācija"
-    ,"tdRCcompetitors": "Tirgus izpratnes trūkums"
-    ,"tdRGoals": "Nekonsekventa reakcija uz tirgus izmaiņām"
-    ,"tdRSecurity": "Konfliktejošas drošības politikas"
-
-    ,"thSolution": "BI risinājums"
-    ,"tdSCosts": "Daudzdimensiju datu analīze"
-    ,"tdSSpeed": "Gandrīz reāllaika biznesa procesu izsekošana"
-    ,"tdSReliability": "Automatizēta riska noteikšana"
-    ,"tdSQuality": "Vienkārši veidojami interaktīvi vizuālie pārskati"
-    ,"tdSCompetitors": "Vairāku avotu datu integrācija"
-    ,"tdSGoals": "Tendences analīze ar laika izlūkošanas funkcijām"
-    ,"tdSSecurity": "Centralizēta datu glabāšana un piekļuves kontrole"
-  }
+  
   ,"Benefits": {
-    "h": "Kā BI dod labumu uzņēmumiem?"
-    ,"hRevenue": "Kvalifikācijas pieaugums →&nbsp;Ieņēmumu&nbsp;palielināšanā"
-    ,"hPlānošana": "Ātri rādītāji →&nbsp;Laba plānošana"
-    ,"hConsolidation": "Vienkārša kopīgošana →&nbsp;Konsolidācija"
-
-    ,"tRevenue": "<p>Biznesa inteliģences galvenā priekšrocība ir tā, ka jūsu darbinieki uzņēmumam kļūs vērtīgāki. Viņi tērēs mazāk laika apkopojot svarīgos datus no dažādiem avotiem un uztraucoties par kļūdu iespējamību. Tādēļ viņi pavadīs vairāk laika aptverošai analizei un paziņos rezultātus saviem vadītājiem.</p><p>Integrēts datu modelis un intuitīvs, viegli lietojams interfeiss, kam nav vajadzīgas īpašas prasmes, ievērojami atvieglos sarežģīto kopsakarību izpēti jūsu uzņēmuma darbībā, atklājot neefektīvus vai trūkstošus procesus, iespējamo vājo vietu cēloņus, gan jūsu uzņēmuma slēptos riskus, gan potenciālas iespējas. Jūsu darbinieki risinās biznesa jautājumus, nevis tehniskas problemas, kļūstot par prasmīgiem ekspertiem jūsu biznesa nozarē. Un jūsu vadība iegūs pastāvīgo vērtīgo ieskatu plūsmi caur skaidram un jēgpilnam biznesa pārskatem.</p>"
-    ,"tPlanning": "<p>Lielākā daļa uzņēmumu mēra savus galvenos veiktspējas rādītājus, taču lielākā daļa no tiem  tieši tur un apstājas. Lai gan šie rādītāji ir svarīgi, tie bieži tiek mērīti gada vai ceturkšņa beigās un pēc būtības ir reaģējoši.</p><p>Pretēji šim biznesa informācijas rīki ļauj pārraudzīt jūsu situāciju reāllaikā, apkopojot datus no dažādiem avotiem un nodrošinot augstas izšķirtspējas skatījumu uz katru atsevišķu biznesa procesu, izmantojot vairākus intuitīvus vizuālos komponentus. Savlaicga izmaiņu izsekošana ļaus jūsu uzņēmumam dinamiski reaģēt uz mainīgo vidi.</p><p>Tajā pašā laikā, pateicoties jūsu datu modeļa iebūvētajām attiecībām, jūs varēsiet ātri iegūt jaunus rādītājus. Intuitīvais velc-un-met interfeiss neprasa ne īpašas prasmes, ne papildu tehnisko atbalstu.Kad BI infrastruktūra ir izveidota, jūs vienmēr varat tikt no “mums jāizmēra X” līdz gatavam pārskatam ar dažiem klikšķiem. Tas uzlabos jūsu biznesa iespējas pēc pirmajām pazīmēm atklāt aktuālas tendences savā uzņēmējdarbības jomā.</p>"
-    ,"tConsolidation": "<p>Efektīva komunikācija ir būtiska jebkura uzņēmuma ilgtermiņa izdzīvošanai. Neatkarīgi no tā, vai apmaināties ar informāciju ar kolēģiem no blakus esošajiem departamentiem vai atbildat padomei un investoriem par savām vajadzībām un iespējam, BI rīki ļaus jums izveidot ātru pārskatu, izceļot galvenos punktus, atblastot to ar konkretiem cipariem.</p><p>Starpplatformu risinājums ļaus piekļūt vajādzīgai informācijai jebkurā laikā no jebkuras ierīces, tostarp no mobilā tālruņa. Izsmalcināti veiktspējas uzlabošanas paņēmieni nodrošinā BI instrumentiem atsaucīgo interaktīvo interfeisu, pat ja jūsu dati sniedz milzīgo apjomu. Tajā pašā laikā centralizēta datu glabāšana atvieglos vienotas drošības politikas ieviešanu.</p><p>Bieži vien pretrunīgas ieinteresēto pušu cerības, kā arī slikta komunikācija ir pamatcēloņi daudzām problēmām, kas rodas projektā. Izteiksmīgi un viegli izveidojami BI pārskates var kļūt par kopīgu pamatu savstarpējai izpratnei, paātrinot ideju apmaiņu.</p>"
-  }
+    "h":"Biznesa inteliģences priekšrocības"
+    ,"hBenefit1": "Uz datiem balstīti biznesa lēmumi"
+    ,"pBenefit1": "Ar drošo BI stratēģiju biznesa lietotāji ātrāk saņems precīzus datus, kas palīdzēs pieņemt labākus biznesa lēmumus."
+    ,"hBenefit2": "Ātrāka analīze un intuitīvi informācijas paneļi"
+    ,"pBenefit2": "BI uzlabo pārskatu sniegšanas efektivitāti, apkopojot pārskatus informācijas paneļos, kurus ir viegli analizēt pat nesagatavotam cilvēkam."
+    ,"hBenefit3": "Palielināta konkurences priekšrocība"
+    ,"pBenefit3": "Droša BI stratēģija var palīdzēt uzņēmumiem pārraudzīt tirgus izmaiņas un paredzēt klientu vajadzības."
+    ,"hBenefit4": "Uzlabota klientu pieredze"
+    ,"pBenefit4": "Gatava piekļuve datiem var palīdzēt tiem, kas ir atbildīgi par klientu apmierinātību, uzlabot pakalpojuma kvalitāti."
+    ,"hBenefit5": "Uzlabota darbinieku apmierinātība"
+    ,"pBenefit5": "Nodrošinot biznesa lietotājiem piekļuvi datiem, nesazinoties ar analītiķiem vai IT, var samazināt konfliktu skaitu, palielināt produktivitāti un veicināt ātrākus rezultātus."
+    ,"hBenefit6": "Uzticami un pārvaldīti dati"
+    ,"pBenefit6": "Mūsdienu BI platformas var apvienot iekšējās datu bāzes ar ārējiem datu avotiem vienā datu noliktavā, ļaujot piekļūt tiem pašiem datiem vienlaikus."
+    }
   ,"Services": {
     "h":"Mūsu pakalpojumi"
     ,"p": "Ja jūs meklējiet personalizēto BI risinājumu, pārbaudiet mūsu pakalpojumus"
+    ,"wDemos": "Demonstrācijas"
     ,"hDevelopement": "Attīstība"
     ,"pDevelopement": "Izveidojiet jauno vai uzlabojiet<br>to, kas jums ir"
     ,"hConsultancy": "Konsultācijas"
     ,"pConsultancy": "Pastāstiet mums,<br>ko vēlaties uzzināt"
-    ,"hReporting": "Reporting"
+    ,"hReporting": "Pārskati"
     ,"pReporting": "Automatizējiet<br>pārskata izveidi"
     ,"hCleaning": "Datu tīrīšana"
     ,"pCleaning": "Sagatavojiet savus datus<br>izmantošanai"
     ,"hAnalysis": "Datu analīze"
-    ,"pAnalysis": "Iegūstiet noderīgus ieskatus<br>no saviem datiem"
+    ,"pAnalysis": "Iegūstiet biznesa idejas<br>no saviem datiem"
     ,"hVisualization": "Vizualizācija"
-    ,"pVisualization": "Ļaujiet jūsu datiem<br>sarunāties ar jums"
+    ,"pVisualization": "Skaidra grafika<br>ir tiešā saskarsme"
   }
   ,"Customers": {
-     "h":"Kurš mums uzticas?"
+     "h":"Mūsu klienti"
   }
   ,"About": {
-     "h":"Kas mēs esam?"
-    ,"p": "TopSail Group ir mazs konsultāciju uzņēmums ar iespaidīgo pieredzi BI jomā. Mūsu klienti ir lielie starptautiskie uzņēmumi, kas galvenokārt darbojas Eiropas tirgū. Mēs radam biznesa inteliģences risinājumus, kas maksimāli izmanto klientu biznesa potenciālu. Mums ir prasmīgu, sertificētu un augsti motivētu profesionāļu komanda ar \"varam visu\" attieksmi. Mūsu galvenais mērķis ir palīdzēt mūsu klientiem pastāvīgi gūt panākumus."
+     "h":"Kas mēs esam"
+    ,"p": "TopSail Group ir mazs konsultāciju uzņēmums ar lielu pieredzi un atbildīgo attieksmi. Mūsu klienti ir lielie starptautiskie uzņēmumi, kas darbojas galvenokārt Eiropas tirgū. Mēs radam biznesa inteliģences risinājumus, kas maksimāli izmanto klientu biznesa potenciālu. Mums ir prasmīgu, sertificētu un augsti motivētu profesionāļu komanda ar \"varam visu\" attieksmi. Mūsu galvenais mērķis ir palīdzēt mūsu klientiem pastāvīgi sasniegt panākumus."
   }
   ,"Approach": {
-     "h":"Kā mēs strādājam?"
-    ,"p": "Biznesa inteliģencē komunikācija ir tikpat svarīga, ka ražošana. Tāpēc mēs ne tikai piegādājam BI risinājumus. Mēs precizējam. Mēs parbaudam. Mēs daram prototipus. Mēs nodrošinām kvalitāti un augstus standartus"
+     "h":"Kā mēs strādājam"
+    ,"p": "Biznesa inteliģences jomā komunikācija ir tikpat svarīga, ka ražošana. Tāpēc mēs vienmēr lūdzam savus klientus izvērtēt gan prasības, gan gala risinājumu, lai pārliecinātos, ka tas sniedz dziļāku ieskatu un labākus rezultātus."
   }
   ,"NameMeaning": {
-     "h":"Kāpēc TopSail?"
-    ,"p": "Vienmēr ir bijis svarīgi izmantot katru impulsu, lai nodrošinātu, ka varat braukt ātrāk un būt priekšā. \"topsail\" ir maza bura masta augšpusē, kas palīdz pat lielākajiem kuģiem iegūt papildu ātrumu."
+     "h":"Interesants fakts"
+    ,"p": "Vienmēr ir bijis svarīgi izmantot katru impulsu, lai nodrošinātu, ka varat braukt ātrāk un būt priekšā. \"Topbura\" (topsail) ir maza bura masta augšpusē, kas palīdz pat lielākajiem kuģiem iegūt papildu ātrumu."
   }
   ,"Contacts": {
      "h":"Sazināties"
     ,"p": "Nevilcinieties sazināties ar mums"
-    ,"pAddress": "60-318 Dārzciema iela, Rīga,&nbsp;LV-1073,&nbsp;Latvija"
+    ,"pAddress": "60 Dārzciema iela, Rīga,&nbsp;LV-1073,&nbsp;Latvija"
   }
   ,"Footer": {
      "hTopSail": "TopSail Group"
-    ,"pTopSail": "Mēs esam mazs BI konsultāciju uzņēmums ar lielu attieksmi. Mūsu mērķis ir radīt biznesa inteliģences risinājumus, kas maksimāli izmanto klientu biznesa potenciālu."
+    ,"pTopSail": "Mēs esam mazs BI konsultāciju uzņēmums ar lielu pieredzi un atbildīgo attieksmi. Mūsu mērķis ir radīt biznesa inteliģences risinājumus, kas maksimāli izmanto klientu potenciālu."
     ,"hLinks": "Svarīgas saites"
-    ,"wFPA": "Mūsu biznesa partneri", "lFPA": "FPA"
-    ,"wJobs": "Apskatiet mūsu", "lJobs": "Darba iespējas"
-    ,"wTerms": "Izlasiet mūsu", "lTerms": "Noteikumi un nosacījumi", "lPrivacy": "Privātuma politika"
+    ,"wFPA": "Mūsu partneri", "lFPA": "FPA"
+    ,"wJobs": "Apskatiet mūsu", "lJobs": "Vakances"
+    ,"wTerms": "Izlasiet mūsu", "lTerms": "Noteikumus un nosacījumus","lPrivacy": "Privātuma politiku"
     ,"hMedia": "Sociālie mēdiji"
     ,"wCopyright": "Autortiesības"
   }
@@ -137,31 +128,31 @@
     "Contact": "Lūdzu, nosūtiet savu CV uz",
     "jobs": {
       "job1": {
-        "Title": "Senior BI Izstrādātājs/Analītiķi ",
-        "Desc": "Strādājot ar analītiskām lietojumprogrammām, piemēram, SSRS, SSA, Power BI, Oracle BI, JŪS esat pieredzējis, augsti kvalificēts profesionālis ar labu fonu. Jūs spējat izprast un ieviest sarežģītus analītiskos risinājumus — tas ietver spēju izprast uzņēmuma līmeņa arhitektūras dizainu, domāt par iespējamo tās paplašināšanu un spēt noteikt iespējamos uzlabošanas punktus. Jūsu tehnisko prasmju līmenis ļauj redzēt aiz datu līnijām. Tev ir griba mācīties, būt radošam un augt - to mēs gaidām.",
+        "Title": "Senior BI Izstrādātājs/Analītiķis ",
+        "Desc": "Strādājot ar analītiskām lietojumprogrammām, piemēram, SSRS, SSA, Power BI, Oracle BI, Jūs esat pieredzējis, augsti kvalificēts profesionālis ar labam prasmem. Jūs spējat izprast un ieviest sarežģītus analītiskos risinājumus — tas ietver spēju izprast uzņēmuma līmeņa arhitektūras dizainu, domāt par iespējamo tās paplašināšanu un spēt noteikt iespējamos uzlabošanas punktus. Jūsu tehnisko prasmju līmenis ļauj lasīt datus starp rindām. Tev ir griba mācīties, būt radošam un augt - to mēs gaidām.",
         "More": {
           "Expirience": {
             "Title": "Nepieciešamā pieredze/prasmes:",
-            "List": "<li class = \"oblig\">5 vai vairāk gadu pieredze BI Industry</li><li class = \"oblig\">Papildu SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Laba pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par TO izstrādes procesiem un metodiku</li><li class = \"oblig\">Zināšanas par Microsoft Azure</li><li class = \"oblig\">Uz klientu orientētas, analītiskas prasmes, enerģiskas un uz rezultātiem orientētas</li><li class = \"oblig\">Komunikācija par labu līmeni vai nu angļu, krievu vai latviešu</li><li class = \"nonoblig\">Zināšanas par statistisko analīzi un modelēšanu ir pluss</li><li class = \"nonoblig\">SQL veiktspējas regulēšanas pieredze ir pluss</li><li class = \"nonoblig\">Fons programmēšanā ir liels pluss</li><li class = \"nonoblig\">Team lead experience is a plus, but not required</li>"
+            "List": "<li class = \"oblig\">5 vai vairāk gadu pieredze BI jomā</li><li class = \"oblig\">Augsts SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Laba pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par TO izstrādes procesiem un metodiku</li><li class = \"oblig\">Zināšanas par Microsoft Azure</li><li class = \"oblig\">Orientācija uz klientu, analītiskas prasmes, enerģētiskums un merķtiecība</li><li class = \"oblig\">Komunikācija labā līmenī latviešu, angļu vai krievu valodā.</li><li class = \"nonoblig\">Zināšanas par statistisko analīzi un modelēšanu ir pluss</li><li class = \"nonoblig\">SQL veiktspējas regulēšanas pieredze ir pluss</li><li class = \"nonoblig\">Programmēšanas pieredze ir liels pluss</li><li class = \"nonoblig\">Komandas vadības pieredze ir pluss, bet nav obligāta</li>"
           },
           "Mission": {
             "Title": "Jūsu misija:",
             "Subtitle": "(ja izvēlaties to pieņemt)",
-            "Text": "Piedalīties uz biznesa informāciju orientētu DWHs izstrādē lieliem, labi zināmiem ES uzņēmumiem, kas darbojas ar vairākām filiālēm Eiropas tirgū. Jūs sastaptos ar izkaisīto datu bīstamību, apšaubītu prasības un izpētītu mantoto risinājumu dziļumu, ko neviens neatceras. <br> Jūsu primārais mērķis būtu jauns vai ievērojami uzlabots, augstas kvalitātes datu glabātava, kas nodrošinātu lieliskas analīzes iespējas un skaidrus, tomēr svarīgus KPI un pasākumus gala lietotājiem."
+            "Text": "Piedalīties uz biznesa informāciju orientētu DWH izstrādē lieliem, labi zināmiem ES uzņēmumiem, kas darbojas ar vairākām filiālēm Eiropas tirgū. Jums būs jāsastop izkaisītie dati, jāapšaub prasības un jāizpēta dziļumā mantotie risinājumi, kurus neviens neatceras.<br>Jūsu primārais mērķis būs jauna vai ievērojami uzlabota, augstas kvalitātes datu noliktava, kas nodrošinātu gala lietotājiem lieliskas analīzes iespējas un skaidrus, tomēr svarīgus veiktspējas rādītājus."
           },
           "Offer": {
             "Title": "Mēs piedāvājam:",
-            "List": "<li>Alga sākot no 2500€ brutto</li><li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Challenging projects</li><li>Patīkamas prēmijas</li><li>Cienīt (dažiem cilvēkiem, kas ir svarīgāki ©)</li>"
+            "List": "<li>Alga sākot no 2500€ brutto</li><li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Izaicinoši projekti</li><li>Patīkamas prēmijas</li><li>Cieņa (dažiem cilvēkiem tā ir pat svarīgāka ©)</li>"
           }
         }
       },
       "job2": {
-        "Title": "Middle BI izstrādātājs/analizētāji",
-        "Desc": "BI izstrādātāja galvenais uzdevums ir pieņemt projektu un tehniskās specifikācijas un izstrādāt efektīvus un kvalitatīvus tehniskos risinājumus, kas atbilst uzņēmējdarbības prasībām. BI izstrādātāja tehniskā joma ietver loģisko un fizisko datu modelēšanu, datu piegādes paraugpraksi, rīkus un tehnoloģijas, drošību datu sniegšanas vidē, datu piegādes (lietojumprogrammu) izstrādi, veiktspējas regulēšanu un administrēšanu.",
+        "Title": "Middle BI Izstrādātājs/Analītiķis",
+        "Desc": "BI izstrādātāja galvenais uzdevums ir pieņemt projektu un tehnisko specifikāciju un izstrādāt efektīvus un kvalitatīvus tehniskos risinājumus, kas atbilst uzņēmējdarbības prasībām. BI izstrādātāja tehniskā joma ietver loģisko un fizisko datu modelēšanu, datu piegādes paraugpraksi, rīkus un tehnoloģijas, datu sniegšanas drošību, datu piegādes (lietojumprogrammu) izstrādi, veiktspējas regulēšanu un administrēšanu.",
         "More": {
           "Expirience": {
             "Title": "Nepieciešamā pieredze/prasmes:",
-            "List": "<li class = \"oblig\">3 vai vairāk gadu pieredze BI Industry</li><li class = \"oblig\">Labs SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par informācijas tehnoloģiju izstrādes procesiem un metodēm</li><li class = \"oblig\">Komunikācija par labu līmeni vai nu angļu, krievu vai latviešu</li><li class= \"oblig\">Radošs un analītisks domātājs ar spēcīgām problēmu risināšanas prasmēm.</li><li class= \"oblig\">Vēlme apgūt, izpētīt un apgūt jaunās prasmes</li>"
+            "List": "<li class = \"oblig\">3 vai vairāk gadu pieredze BI jomā</li><li class = \"oblig\">Labs SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par informācijas tehnoloģiju izstrādes procesiem un metodēm</li><li class = \"oblig\">Komunikācija labā līmenī latviešu, angļu vai krievu valodā.</li><li class= \"oblig\">Radošs un analītisks domātājs ar spēcīgām problēmu risināšanas prasmēm.</li><li class= \"oblig\">Vēlme izpētīt un apgūt jaunās prasmes</li>"
           },
           "Offer": {
               "Title": "Mēs piedāvājam:",
@@ -181,7 +172,7 @@
           },
           "Offer": {
               "Title": "Mēs piedāvājam:",
-              "List": "<li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Challenging projects</li><li>Patīkamas prēmijas</li><li>Cienīt (dažiem cilvēkiem, kas ir svarīgāki ©)</li>"
+              "List": "<li>Laba darba vide</li><li>Draudzīgi kolēģi</li><li>Challenging projects</li><li>Patīkamas prēmijas</li><li>Cieņa (dažiem cilvēkiem tā ir pat svarīgāka ©)</li>"
           }
         }
       }
@@ -210,7 +201,7 @@
         "Text1":"TopSail Group arī automātiski apkopo un saņem noteiktu informāciju no datora vai mobilās ierīces, ieskaitot darbības, ko veicat mūsu tīmekļa vietnē, platformās un lietotnēs, izmantotās aparatūras un programmatūras veidu (piemēram, operētājsistēma vai pārlūkprogramma), kā arī informāciju, kas iegūta no sīkfailiem. Piemēram, ikreiz, apmeklējot vietni vai citādi izmantojot pakalpojumus, mēs automātiski apkopojam jūsu IP adresi, pārlūka un ierīces tipu, piekļuves laikus, Web lapu, no kuras esat ieradies, reģionus, no kuriem pārvietojaties, un tīmekļa lapu (- as), kurai piekļūstat (ja nepieciešams)."
       },"topic2":{
         "Title":"Noteikumi",
-        "Text":"Nekādā gadījumā TopSail Grupa nav atbildīga par tiešiem, netiešiem, īpašiem, nejaušiem vai izrietošiem kaitējumiem, tostarp, bet ne tikai, par datu vai peļņas zaudējumiem, kas rodas no materiālu izmantošanas vai lietošanas nespējas šajā objektā, pat ja TopSail grupai vai pilnvarotam pārstāvim ir paziņots par šādu zaudējumu iespējamību. Ja, izmantojot materiālus no šīs vietas, rodas vajadzība pēc aprīkojuma vai datu apkopes, remonta vai labošanas, jūs uzņematies jebkādas izmaksas."
+        "Text":"Nekādā gadījumā TopSail Grupa nav atbildīga par tiešiem, netiešiem, īpašiem, nejaušiem vai izrietošiem kaitējumiem, tostarp, bet ne tikai, par datu vai peļņas zaudējumiem, kas rodas no materiālu izmantošanas vai lietošanas nespējas šajā vietnē, pat ja TopSail grupai vai pilnvarotam pārstāvim ir paziņots par šādu zaudējumu iespējamību. Ja, izmantojot materiālus no šīs vietnes, rodas vajadzība pēc aprīkojuma vai datu apkopes, remonta vai labošanas, jūs uzņematies jebkādas izmaksas."
       },"topic3":{
         "Title":"Dizainera dalība un lietošanas veids",
         "Text":"Izmantojot jebkuru no šiem pakalpojumiem vai iesniedzot vai vācot personisku informāciju, izmantojot pakalpojumus, jūs piekrītat savas personas informācijas apkopošanai, pārsūtīšanai, izpaušanai un lietošanai tādā veidā, kā norādīts šajā konfidencialitātes politikā. Ja nepiekrītat personas informācijas izmantošanai šādos veidos, pārtrauciet pakalpojumu izmantošanu."
@@ -218,5 +209,73 @@
     }
   }
 
+
+  ,"Visualization": {
+    "h":"Visualizācija"
+   ,"p": "BI rīki, kurus mēs pašlaik izmantojam, nodrošina gandrīz 500 sertificētu pielāgojamu diagrammu, lai attēlotu jūsu datus viegli saprotamā veidā. Katra diagramma ir interaktīva, kas ļauj ar vienu klikšķi sadalīt datus pēc gada / produkta veida / nodaļas / jebkuras citas pazīmes."
+   ,"hChart1":"Lietošana"
+   ,"hChart2":"Dizains"
+  }
+
+  ,"Scripts": {
+    "h":"Skriptu piemēri"
+   ,"hTab1":"Mazumtirgotāju preču parsēšana, izmantojot python"
+   ,"hTab2":"Scripts 2"
+  }
+
+ ,"Report": {
+  "h":"Pārskatu piemēri"
+ ,"p1": "Dažādu analitikas veižu demonstratīvais pārskats"
+ ,"p2": "Klientu nodiluma analīze"
+ ,"p3": "Tabulārā modeļa analīze"
+}
+
+,"Analysis": {
+  "h":"Datu analīze"
+ ,"pAnalyticalReporting": "Analītiskais pārskats ir uzņēmējdarbības pārskata veids, kurā tiek izmantoti kvalitatīvi un kvantitatīvi uzņēmuma dati, lai analizētu un novērtētu biznesa stratēģiju vai procesu, vienlaikus dodot darbiniekiem iespēju pieņemt lēmumus, balstītus uz datiem un analīzi. Kaut arī analītiskais pārskats ir balstīts uz statistiku, vēsturiskiem datiem un var iekļaut prognozes uz nākotni, daudzās nozarēs tas arī tiek izmantots pašreizēja stāvokļa attelošanai."
+ ,"pQuantitativeNQualitative": "Ar mūsu datu zinātniekiem jūs varāt saņemt gan kvantitatīvo, gan kvalitatīvo datu analīzi, lai sniegtu vērtīgu ieskatu jūsu komandai, kad un kad tas ir nepieciešams."
+ ,"pWePerform": "Mēs veicam:"
+ ,"wStatistical": "Statistiskā analīze"
+ ,"wDiagnostic": "Diagnostiskā analīze"
+ ,"wPredictive": "Paredzošā analīze"
+ ,"wPrescriptive": "Preskriptīvā analīze"
+}
+
+,"Solutions": {
+  "h": "Tehniskie risinājumi"
+ ,"p": "Mēs veidojam, pārvaldām un/vai atbalstām"
+ ,"wWarehouse":"Datu noliktava (DWH)"
+ ,"wDataManagement": "Galvenā datu pārvaldība (MDM)"
+ ,"wPipelines":"ETL/ELT konveijeri (datu izvilkšana, pārveidošana, ielāde)"
+ ,"wIntegration":"Datu integrācija"
+ ,"p1": "Google Analītika"
+ ,"p2": "SSIS konveijeris"
+ ,"p3": "ETL: \"Infromatica\" platformas kartēšana"
+}
+
+,"Cleaning": {
+  "h": "Datu tīrīšana"
+ ,"p": "Datu kvalitāte ir būtiska, lai risināt uzņēmējdarbības jautājumus ar mašīnmācīšanās metodem. Tomēr analītika ne tikai izvirza  prasības datu kvalitāti, bet arī dod risinājumus. Izmantojot datu zinātni mēs varam ievērojami uzlabot datu kvalitāti. Trūkstošās vērtības aprēķins un sarežģītu noviržu noteikšana, iespējams, ir divas vislabāk zināmās datu kvalitātes uzlabošanas metodes, taču tās nebūt nav vienīgās."
+}
+
+,"Architecture": {
+  "h": "Arhitektūra"
+ ,"hFigure1": "Azure datu noliktava "
+ ,"hFigure2": "Power BI arhitektūra"
+ ,"hFigure3": "Uz Sinapsa balstīts dizains"
+ ,"hDWH": "Datu noliktavas (DWH)"
+ ,"pDWH": "DWH tehnoloģijas galvenais mērķis ir vākt, integrēt, tīrīt un uzglabāt datus konsekventā veidā."
+}
+
+,"Consultancy": {
+  "h":"Konsultācijas"
+ ,"pStayInvolved": "Jūsu vajadzību noteikšana ir pirmais solis uz biznesa inteliģenci. Mēs mudinām savus klientus iesaistīties risinājumu izstrādē, un mēs uzturam aktīvu saziņu visa izstrādes procesa laikā, lai saglabātu atbilstību jūsu individuālajām prasībām."
+ ,"pWeWillGuideYou": "Tomēr, ja jums ir grūtības definēt sava uzņēmuma vajadzības, mūsu ekspertu komanda ir gatava vadīt jūs biznesa analīzes procesā. Tas sniegs jums vispārīgu priekšstatu, lai izlemt, kā rīkoties tālāk."
+ ,"pContactUs": "Varat sazināties ar mums, lai saņemt pirmo bezmaksas konsultāciju."
+}
+
+,"Skills": {
+  "h":"Mūsu prasmes"
+}
 
 }

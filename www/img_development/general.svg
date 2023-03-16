@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="279.27844mm"
-   height="160.6503mm"
-   viewBox="0 0 279.27844 160.6503"
+   width="286.09494mm"
+   height="150.99039mm"
+   viewBox="0 0 286.09493 150.99038"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="general.svg"
-   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group-test.github.io\www\img\escalator\escalator-large-en.png"
+   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
    inkscape:export-xdpi="195.77299"
    inkscape:export-ydpi="195.77299"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.7395237"
-     inkscape:cx="267.7399"
-     inkscape:cy="874.21133"
+     inkscape:zoom="0.52292222"
+     inkscape:cx="965.7268"
+     inkscape:cy="52.589083"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -38,6 +38,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <rect
+       x="-294.49887"
+       y="-208.444"
+       width="623.41968"
+       height="606.20868"
+       id="rect54896" />
+    <rect
+       x="887.05743"
+       y="1373.8573"
+       width="1003.2791"
+       height="388.46249"
+       id="rect22725" />
     <marker
        style="overflow:visible"
        id="marker45661"
@@ -54,10 +66,10 @@
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 53.369806 : 1"
-       inkscape:vp_y="0 : 999.99994 : 0"
-       inkscape:vp_z="580.08419 : 53.369806 : 1"
-       inkscape:persp3d-origin="290.04208 : 17.609637 : 1"
+       inkscape:vp_x="0 : 43.709896 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="580.08415 : 43.709896 : 1"
+       inkscape:persp3d-origin="290.04208 : 7.9497258 : 1"
        id="perspective41128" />
     <marker
        style="overflow:visible"
@@ -253,12 +265,82 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path45659-7-5" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-7-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1110-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-7-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1110-6-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1110-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker45661-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path45659-75" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker45661-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path45659-7-9" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-483.90748,-223.45857)">
+     transform="translate(-489.16732,-223.45857)">
     <rect
        style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.662359;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect71903"
@@ -364,19 +446,19 @@
        y="0"><tspan
          x="-206.30762"
          y="604.49907"
-         id="tspan1533"><tspan
+         id="tspan56781"><tspan
            style="fill:#ffffff"
-           id="tspan1531">Extract, </tspan></tspan><tspan
+           id="tspan56779">Extract, </tspan></tspan><tspan
          x="-280.40918"
          y="654.49907"
-         id="tspan1537"><tspan
+         id="tspan56785"><tspan
            style="fill:#ffffff"
-           id="tspan1535">Transform, and </tspan></tspan><tspan
+           id="tspan56783">Transform, and </tspan></tspan><tspan
          x="-252.22559"
          y="704.49907"
-         id="tspan1541"><tspan
+         id="tspan56789"><tspan
            style="fill:#ffffff"
-           id="tspan1539">Loadprocess</tspan></tspan></text>
+           id="tspan56787">Loadprocess</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m -102.88125,109.02842 49.692549,34.47398"
@@ -615,11 +697,11 @@
        id="g63189"
        transform="translate(-1.7888766,-5.3666299)">
       <rect
-         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.755655;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350"
-         width="48.19841"
+         width="59.1991"
          height="25.044271"
-         x="515.70886"
+         x="510.20853"
          y="290.26492"
          ry="6.5332842" />
       <text
@@ -629,15 +711,15 @@
          y="274.16507"
          id="text2615"><tspan
            sodipodi:role="line"
-           id="tspan2613"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="540.33142"
-           y="274.16507">What</tspan><tspan
+           y="274.16507"
+           id="tspan2617">Что</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="540.33142"
            y="282.10257"
-           id="tspan2617">happened?</tspan></text>
+           id="tspan2191">произолшло?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -648,23 +730,22 @@
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="539.6181"
            y="300.918"
-           id="tspan2617-4"
-           rotate="0 0 0 0 0 0 0 0 0">Descriptive</tspan><tspan
+           id="tspan4403">Описательная</tspan><tspan
            sodipodi:role="line"
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="539.6181"
            y="309.73746"
-           id="tspan4403">Analytics</tspan></text>
+           id="tspan2699">аналитика</tspan></text>
     </g>
     <g
        id="g63198"
-       transform="translate(-17.530991,-1.073326)">
+       transform="translate(-14.311013,-1.073326)">
       <rect
-         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.792161;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3"
-         width="48.19841"
+         width="65.057159"
          height="25.044271"
-         x="591.99634"
+         x="583.56696"
          y="273.34811"
          ry="6.5332842" />
       <text
@@ -674,15 +755,15 @@
          y="256.27267"
          id="text2615-54"><tspan
            sodipodi:role="line"
-           id="tspan2613-8"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="616.89532"
-           y="256.27267">Why did it</tspan><tspan
+           y="256.27267"
+           id="tspan2617-0">Почему это</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="616.89532"
            y="264.21017"
-           id="tspan2617-0">happen?</tspan></text>
+           id="tspan3291">произошло?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -693,22 +774,22 @@
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="616.53979"
            y="283.74118"
-           id="tspan2617-4-5">Diagnostic</tspan><tspan
+           id="tspan4403-8">Диагностическая</tspan><tspan
            sodipodi:role="line"
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="616.53979"
            y="292.56064"
-           id="tspan4403-8">Analytics</tspan></text>
+           id="tspan7283">аналитика</tspan></text>
     </g>
     <g
        id="g63207"
-       transform="translate(-36.850859,3.5777533)">
+       transform="translate(-26.117599,4.293304)">
       <rect
-         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.789716;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3-0"
-         width="48.19841"
+         width="64.656075"
          height="25.044271"
-         x="670.70685"
+         x="662.47803"
          y="257.24823"
          ry="6.5332842" />
       <text
@@ -718,15 +799,15 @@
          y="239.81503"
          id="text2615-54-7"><tspan
            sodipodi:role="line"
-           id="tspan2613-8-9"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="695.24811"
-           y="239.81503">What will</tspan><tspan
+           y="239.81503"
+           id="tspan2617-0-0">Что</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="695.24811"
            y="247.75253"
-           id="tspan2617-0-0">happen?</tspan></text>
+           id="tspan3901">произойдёт?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -737,12 +818,12 @@
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="694.89258"
            y="267.6413"
-           id="tspan2617-4-5-8">Predictive</tspan><tspan
+           id="tspan9045">Предиктивная</tspan><tspan
            sodipodi:role="line"
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="694.89258"
            y="276.46075"
-           id="tspan4403-8-2">Analytics</tspan></text>
+           id="tspan29818">аналитика</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -755,7 +836,7 @@
          id="tspan11587"
          style="font-size:7.05556px;stroke-width:0.264583"
          x="-304.94583"
-         y="494.40387">VALUE</tspan></text>
+         y="494.40387">ПОЛЬЗА</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -766,16 +847,16 @@
          id="tspan12493"
          style="font-size:7.05556px;stroke-width:0.264583"
          x="611.00543"
-         y="374.34216">DIFFICULTY</tspan></text>
+         y="374.34216">СЛОЖНОСТЬ</tspan></text>
     <g
        id="g63216"
-       transform="translate(-60.106256,8.2288321)">
+       transform="translate(-38.639737,7.1555061)">
       <rect
-         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.830278;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3-0-7"
-         width="48.19841"
+         width="71.468452"
          height="25.044271"
-         x="754.06854"
+         x="742.43353"
          y="242.93727"
          ry="6.5332842" />
       <text
@@ -788,12 +869,12 @@
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="778.96753"
            y="224.79207"
-           id="tspan20369">How can we</tspan><tspan
+           id="tspan11114">Что следует</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="778.96753"
            y="232.72957"
-           id="tspan20405">make it happen?</tspan></text>
+           id="tspan37732">делать?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -804,12 +885,12 @@
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="778.612"
            y="252.26056"
-           id="tspan20373">Prescriptive</tspan><tspan
+           id="tspan20375">Предписывающая</tspan><tspan
            sodipodi:role="line"
            style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
            x="778.612"
            y="261.08002"
-           id="tspan20375">Analytics</tspan></text>
+           id="tspan10771">аналитика</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -822,7 +903,7 @@
          id="tspan26960"
          style="font-size:6.35px;stroke-width:0.264583"
          x="450.85385"
-         y="436.7417">Hindsight</tspan></text>
+         y="436.7417">Взгляд в прошлое</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -834,7 +915,12 @@
          id="tspan26960-8"
          style="font-size:6.35px;stroke-width:0.264583"
          x="565.46826"
-         y="426.15613">Insight</tspan></text>
+         y="426.15613">Понимание</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="565.46826"
+         y="434.09363"
+         id="tspan24972">настоящего</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -846,7 +932,12 @@
          id="tspan26960-8-9"
          style="font-size:6.35px;stroke-width:0.264583"
          x="653.45978"
-         y="425.76129">Foresight</tspan></text>
+         y="425.76129">Взгляд в</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="653.45978"
+         y="433.69879"
+         id="tspan24016">будущее</tspan></text>
     <g
        id="g20179"
        transform="rotate(-2.5331494,530.95986,1108.3278)">
@@ -872,7 +963,7 @@
          id="tspan29794"
          style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="615.96985"
-         y="439.90134">Optimization</tspan></text>
+         y="439.90134">Оптимизация</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -884,7 +975,7 @@
          id="tspan30392"
          style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          x="445.70694"
-         y="431.89453">Information</tspan></text>
+         y="431.89453">Информация</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661)"
        d="m 497.59059,228.72762 v -2.99636"
@@ -893,6 +984,342 @@
        style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-6)"
        d="m 757.91687,365.27136 h 2.99636"
        id="path45657-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1107.7405,362.4061 H 844.41785 V 222.15817"
+       id="path966-1"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
+    <g
+       id="g63189-1"
+       transform="translate(345.03838,-8.2318886)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.755655;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1350-7"
+         width="59.1991"
+         height="25.044271"
+         x="510.20853"
+         y="290.26492"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="540.33142"
+         y="274.16507"
+         id="text2615-9"><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="540.33142"
+           y="274.16507"
+           id="tspan2191-3">Kas notika</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="540.33142"
+           y="282.10257"
+           id="tspan24794">pagātnē?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="539.6181"
+         y="300.918"
+         id="text2615-5-2"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="539.6181"
+           y="300.918"
+           id="tspan2699-1">Aprakstošā </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="539.6181"
+           y="309.73746"
+           id="tspan36880">analīze</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="539.6181"
+           y="318.55688"
+           id="tspan36882" /></text>
+    </g>
+    <g
+       id="g63198-1"
+       transform="translate(332.51625,-3.9385847)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.792161;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1350-3-1"
+         width="65.057159"
+         height="25.044271"
+         x="583.56696"
+         y="273.34811"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="616.89532"
+         y="256.27267"
+         id="text2615-54-1"><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="616.89532"
+           y="256.27267"
+           id="tspan3291-8">Kāpēc tas </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="616.89532"
+           y="264.21017"
+           id="tspan27404">notika?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="616.53979"
+         y="283.74118"
+         id="text2615-5-8-5"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="616.53979"
+           y="283.74118"
+           id="tspan7283-5">Diagnostiskā </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="616.53979"
+           y="292.56064"
+           id="tspan40216">analīze</tspan></text>
+    </g>
+    <g
+       id="g63207-6"
+       transform="translate(320.70966,1.4280453)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.789716;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1350-3-0-5"
+         width="64.656075"
+         height="25.044271"
+         x="662.47803"
+         y="257.24823"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="695.24811"
+         y="239.81503"
+         id="text2615-54-7-9"><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="695.24811"
+           y="239.81503"
+           id="tspan30058">Kas notiks </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="695.24811"
+           y="247.75253"
+           id="tspan19302">tālāk?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="694.89258"
+         y="267.6413"
+         id="text2615-5-8-0-8"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="694.89258"
+           y="267.6413"
+           id="tspan29818-9">Prediktīvā </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="694.89258"
+           y="276.46075"
+           id="tspan42848">analīze</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-302.08057"
+       y="841.23114"
+       id="text11589-4"
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         id="tspan11587-1"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="-302.08057"
+         y="841.23114">IEGUVUMS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="957.8327"
+       y="371.4769"
+       id="text12495-9"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         id="tspan12493-9"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="957.8327"
+         y="371.4769">SAREŽĢĪTĪBA</tspan></text>
+    <g
+       id="g63216-4"
+       transform="translate(308.18752,4.2902474)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.830278;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1350-3-0-7-3"
+         width="71.468452"
+         height="25.044271"
+         x="742.43353"
+         y="242.93727"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="779.97949"
+         y="229.85178"
+         id="text20371-4"><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="779.97949"
+           y="229.85178"
+           id="tspan32666">Kas</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="779.97949"
+           y="237.78928"
+           id="tspan40686">jāldarīt?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="778.612"
+         y="252.26056"
+         id="text20377-3"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="778.612"
+           y="252.26056"
+           id="tspan10771-2">Preskritīvā </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="778.612"
+           y="261.08002"
+           id="tspan45563">analīze</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="790.09656"
+       y="498.80457"
+       id="text26962-8"
+       transform="rotate(-10.327587)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         id="tspan26960-1"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="790.09656"
+         y="498.80457">Ieskats pagātnē</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="877.19727"
+       y="513.28021"
+       id="text26962-9-8"
+       transform="rotate(-11.277556)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="877.19727"
+         y="513.28021"
+         id="tspan80423">Saprašana tāgadnē</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="967.1413"
+       y="531.77942"
+       id="text26962-9-7-3"
+       transform="rotate(-12.328561)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="967.1413"
+         y="531.77942"
+         id="tspan82339">Ieskats nākotnē</tspan></text>
+    <g
+       id="g20179-6"
+       transform="rotate(-2.5331494,639.57648,-6736.5037)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:15.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 549.11022,335.70242 C 777.72866,301.71378 777.72866,301.71378 777.72866,301.71378"
+         id="path13160-5-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:1.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-5)"
+         d="m 549.11022,335.70242 c 6.43996,-1.78886 232.91919,-34.6211 232.91919,-34.6211"
+         id="path13160-5-9-0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="955.89343"
+       y="508.81656"
+       id="text29796-9"
+       transform="rotate(-11.933991)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         id="tspan29794-6"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="955.89343"
+         y="508.81656">Optimizācija</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="786.45117"
+       y="496.63037"
+       id="text30394-0"
+       transform="rotate(-11.230391)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
+         sodipodi:role="line"
+         id="tspan30392-5"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="786.45117"
+         y="496.63037">Informācija</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-1)"
+       d="M 844.41785,225.86236 V 222.866"
+       id="path45657-2"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-6-7)"
+       d="m 1104.7441,362.4061 h 2.9964"
+       id="path45657-9-7"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1115,5 +1542,738 @@
          style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
          x="-146.07486"
          y="456.69806">Information</tspan></text>
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.805705;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-0"
+       width="69.280197"
+       height="24.32872"
+       x="630.49213"
+       y="57.548798"
+       ry="6.3466187" />
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.793946;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-9-59"
+       width="67.272644"
+       height="24.32872"
+       x="630.54968"
+       y="90.384003"
+       ry="6.3466187" />
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.788684;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-9-5-6"
+       width="66.38372"
+       height="24.32872"
+       x="629.92078"
+       y="122.94156"
+       ry="6.3466187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="704.54437"
+       y="132.70164"
+       id="text2615-4-4"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="704.54437"
+         y="132.70164"
+         id="tspan2617-09-5">Что</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="704.54437"
+         y="140.63914"
+         id="tspan33140">произолшло?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="663.60638"
+       y="132.79684"
+       id="text2615-5-1-0"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="663.60638"
+         y="132.79684"
+         id="tspan4403-3-9">Описательная</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="663.60638"
+         y="141.61629"
+         id="tspan43550">аналитика</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="702.86621"
+       y="99.947563"
+       id="text2615-54-6-7"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="702.86621"
+         y="99.947563"
+         id="tspan2617-0-8-3">Почему это</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="702.86621"
+         y="107.88506"
+         id="tspan35404">произошло?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="664.48431"
+       y="100.69696"
+       id="text2615-5-8-7-5"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="664.48431"
+         y="100.69696"
+         id="tspan4403-8-7-8">Диагностическая</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="664.48431"
+         y="109.51641"
+         id="tspan41962">аналитика</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="705.50989"
+       y="67.283943"
+       id="text2615-54-7-4-2"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="705.50989"
+         y="67.283943"
+         id="tspan2617-0-0-9-7">Что</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="705.50989"
+         y="75.221443"
+         id="tspan36710">произойдёт?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="665.1272"
+       y="68.03334"
+       id="text2615-5-8-0-4-5"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="665.1272"
+         y="68.03334"
+         id="tspan4403-8-2-5-4">Предиктивная</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="665.1272"
+         y="76.852791"
+         id="tspan40526">аналитика</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-124.02722"
+       y="603.59186"
+       id="text11589-5-4"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan11587-0-8"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="-124.02722"
+         y="603.59186">Сложность и польза</tspan></text>
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.805843;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect20365-4-1"
+       width="69.303894"
+       height="24.32872"
+       x="630.83807"
+       y="26.064568"
+       ry="6.3466187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="705.16345"
+       y="35.165867"
+       id="text20371-7-7"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="705.16345"
+         y="35.165867"
+         id="tspan38268">Что следует</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="705.16345"
+         y="43.103367"
+         id="tspan51646">делать?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="665.30005"
+       y="35.286522"
+       id="text20377-8-9"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="665.30005"
+         y="35.286522"
+         id="tspan20375-5-3">Предписывающая</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="665.30005"
+         y="44.105972"
+         id="tspan39574">аналитика</tspan></text>
+    <g
+       id="g20179-1-3"
+       transform="matrix(0.15928896,-0.49865997,1.0825989,0.07337068,168.38685,397.10588)">
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:15.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 549.11022,335.70242 C 777.72866,301.71378 777.72866,301.71378 777.72866,301.71378"
+         id="path13160-5-0-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:1.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-4)"
+         d="m 549.11022,335.70242 c 6.43996,-1.78886 232.91919,-34.6211 232.91919,-34.6211"
+         id="path13160-5-9-7-0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-78.309509"
+       y="620.33759"
+       id="text29796-2-3"
+       transform="rotate(-90.064951)"><tspan
+         sodipodi:role="line"
+         id="tspan29794-1-7"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-78.309509"
+         y="620.33759">Оптимизация</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-148.92613"
+       y="620.3374"
+       id="text30394-8-7"
+       transform="rotate(-90.296054)"><tspan
+         sodipodi:role="line"
+         id="tspan30392-8-4"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-148.92613"
+         y="620.3374">Информация</tspan></text>
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.805705;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-0-1"
+       width="69.280197"
+       height="24.32872"
+       x="803.66681"
+       y="53.688271"
+       ry="6.3466187" />
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.793946;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-9-59-8"
+       width="67.272644"
+       height="24.32872"
+       x="803.72437"
+       y="86.523468"
+       ry="6.3466187" />
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.788684;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-9-5-6-2"
+       width="66.38372"
+       height="24.32872"
+       x="803.09546"
+       y="119.08104"
+       ry="6.3466187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="877.71906"
+       y="128.84113"
+       id="text2615-4-4-9"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="877.71906"
+         y="128.84113"
+         id="tspan33140-1">Kas noticis </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="877.71906"
+         y="136.77863"
+         id="tspan10559">pagātnē?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="836.78107"
+       y="128.93633"
+       id="text2615-5-1-0-4"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="836.78107"
+         y="128.93633"
+         id="tspan43550-4">Aprakstošā </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="836.78107"
+         y="137.75577"
+         id="tspan3127">analīze</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="836.78107"
+         y="146.57523"
+         id="tspan1835" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="876.04089"
+       y="96.087029"
+       id="text2615-54-6-7-2"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="876.04089"
+         y="96.087029"
+         id="tspan35404-4">Kāpēc tas </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="876.04089"
+         y="104.02453"
+         id="tspan12357">notika?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="837.659"
+       y="96.836433"
+       id="text2615-5-8-7-5-9"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="837.659"
+         y="96.836433"
+         id="tspan41962-5">Diagnostiskā </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="837.659"
+         y="105.65588"
+         id="tspan7881">analīze</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="878.68457"
+       y="63.423416"
+       id="text2615-54-7-4-2-9"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="878.68457"
+         y="63.423416"
+         id="tspan13585">Kas notiks </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="878.68457"
+         y="71.360916"
+         id="tspan29088">tālāk?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="838.30188"
+       y="64.172813"
+       id="text2615-5-8-0-4-5-7"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="838.30188"
+         y="64.172813"
+         id="tspan40526-6">Prediktīvā </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="838.30188"
+         y="72.992264"
+         id="tspan8483">analīze</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-128.7682"
+       y="776.76654"
+       id="text11589-5-4-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan11587-0-8-0"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="-128.7682"
+         y="776.76654">Sarežģītība un ieguvumi</tspan></text>
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.805843;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect20365-4-1-8"
+       width="69.304001"
+       height="24.32872"
+       x="804.01276"
+       y="22.204044"
+       ry="6.3466187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="878.33813"
+       y="31.305344"
+       id="text20371-7-7-6"><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="878.33813"
+         y="31.305344"
+         id="tspan32242">Kas</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="878.33813"
+         y="39.242844"
+         id="tspan47736">jāldarīt?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+       x="838.47473"
+       y="31.425999"
+       id="text20377-8-9-6"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="838.47473"
+         y="31.425999"
+         id="tspan39574-7">Preskritīvā </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+         x="838.47473"
+         y="40.245449"
+         id="tspan9571">analīze</tspan></text>
+    <g
+       id="g20179-1-3-7"
+       transform="matrix(0.15928896,-0.49865997,1.0825989,0.07337068,341.56149,393.24536)">
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:15.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 549.11022,335.70242 C 777.72866,301.71378 777.72866,301.71378 777.72866,301.71378"
+         id="path13160-5-0-6-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:1.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-7-4-1)"
+         d="m 549.11022,335.70242 c 6.43996,-1.78886 232.91919,-34.6211 232.91919,-34.6211"
+         id="path13160-5-9-7-0-7"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-74.645294"
+       y="793.51648"
+       id="text29796-2-3-2"
+       transform="rotate(-90.064951)"><tspan
+         sodipodi:role="line"
+         id="tspan29794-1-7-6"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-74.645294"
+         y="793.51648">Optimizācija</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-145.96046"
+       y="793.52966"
+       id="text30394-8-7-6"
+       transform="rotate(-90.296054)"><tspan
+         sodipodi:role="line"
+         id="tspan30392-8-4-0"
+         style="font-size:6.35px;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
+         x="-145.96046"
+         y="793.52966">Informācija</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 748.03332,549.88343 H 484.71068 V 409.6355"
+       id="path1085"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g1101"
+       transform="translate(-14.668788,179.24544)">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1087"
+         width="48.19841"
+         height="25.044271"
+         x="515.70886"
+         y="290.26492"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="540.33142"
+         y="274.16507"
+         id="text1093"><tspan
+           sodipodi:role="line"
+           id="tspan1089"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="540.33142"
+           y="274.16507">What</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="540.33142"
+           y="282.10257"
+           id="tspan1091">happened?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="539.6181"
+         y="300.918"
+         id="text1099"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="539.6181"
+           y="300.918"
+           id="tspan1095"
+           rotate="0 0 0 0 0 0 0 0 0">Descriptive</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="539.6181"
+           y="309.73746"
+           id="tspan1097">Analytics</tspan></text>
+    </g>
+    <g
+       id="g1117"
+       transform="translate(-30.410903,183.53874)">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1103"
+         width="48.19841"
+         height="25.044271"
+         x="591.99634"
+         y="273.34811"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="616.89532"
+         y="256.27267"
+         id="text1109"><tspan
+           sodipodi:role="line"
+           id="tspan1105"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="616.89532"
+           y="256.27267">Why did it</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="616.89532"
+           y="264.21017"
+           id="tspan1107">happen?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="616.53979"
+         y="283.74118"
+         id="text1115"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="616.53979"
+           y="283.74118"
+           id="tspan1111">Diagnostic</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="616.53979"
+           y="292.56064"
+           id="tspan1113">Analytics</tspan></text>
+    </g>
+    <g
+       id="g1133"
+       transform="translate(-49.730771,188.18982)">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1119"
+         width="48.19841"
+         height="25.044271"
+         x="670.70685"
+         y="257.24823"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="695.24811"
+         y="239.81503"
+         id="text1125"><tspan
+           sodipodi:role="line"
+           id="tspan1121"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="695.24811"
+           y="239.81503">What will</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="695.24811"
+           y="247.75253"
+           id="tspan1123">happen?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="694.89258"
+         y="267.6413"
+         id="text1131"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="694.89258"
+           y="267.6413"
+           id="tspan1127">Predictive</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="694.89258"
+           y="276.46075"
+           id="tspan1129">Analytics</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-489.55789"
+       y="481.52396"
+       id="text1137"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan1135"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="-489.55789"
+         y="481.52396">VALUE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="598.12555"
+       y="558.95422"
+       id="text1141"><tspan
+         sodipodi:role="line"
+         id="tspan1139"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="598.12555"
+         y="558.95422">DIFFICULTY</tspan></text>
+    <g
+       id="g1157"
+       transform="translate(-72.986168,192.8409)">
+      <rect
+         style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.68184;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1143"
+         width="48.19841"
+         height="25.044271"
+         x="754.06854"
+         y="242.93727"
+         ry="6.5332842" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="778.96753"
+         y="224.79207"
+         id="text1149"><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="778.96753"
+           y="224.79207"
+           id="tspan1145">How can we</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="778.96753"
+           y="232.72957"
+           id="tspan1147">make it happen?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
+         x="778.612"
+         y="252.26056"
+         id="text1155"><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="778.612"
+           y="252.26056"
+           id="tspan1151">Prescriptive</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
+           x="778.612"
+           y="261.08002"
+           id="tspan1153">Analytics</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="406.10696"
+       y="616.31128"
+       id="text1161"
+       transform="rotate(-10.001629)"><tspan
+         sodipodi:role="line"
+         id="tspan1159"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="406.10696"
+         y="616.31128">Hindsight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="523.32062"
+       y="606.35345"
+       id="text1165"
+       transform="rotate(-9.1737322)"><tspan
+         sodipodi:role="line"
+         id="tspan1163"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="523.32062"
+         y="606.35345">Insight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="610.58105"
+       y="605.78607"
+       id="text1169"
+       transform="rotate(-9.4063101)"><tspan
+         sodipodi:role="line"
+         id="tspan1167"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="610.58105"
+         y="605.78607">Foresight</tspan></text>
+    <g
+       id="g1175"
+       transform="rotate(-2.5331494,4699.4688,1491.9093)">
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:15.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 549.11022,335.70242 C 777.72866,301.71378 777.72866,301.71378 777.72866,301.71378"
+         id="path1171"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9ec4ff;stroke-width:1.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+         d="m 549.11022,335.70242 c 6.43996,-1.78886 232.91919,-34.6211 232.91919,-34.6211"
+         id="path1173"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="565.19336"
+       y="617.85992"
+       id="text1179"
+       transform="rotate(-11.933991)"><tspan
+         sodipodi:role="line"
+         id="tspan1177"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="565.19336"
+         y="617.85992">Optimization</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="397.1196"
+       y="610.4632"
+       id="text1183"
+       transform="rotate(-11.230391)"><tspan
+         sodipodi:role="line"
+         id="tspan1181"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         x="397.1196"
+         y="610.4632">Information</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661)"
+       d="m 484.71068,413.33969 v -2.99636"
+       id="path1185" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-6)"
+       d="m 745.03696,549.88343 h 2.99636"
+       id="path1187" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,598.36909,24.17926)"
+       id="text22723"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22725);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="879.68878"
+       y="294.36761"
+       id="text35834"><tspan
+         sodipodi:role="line"
+         id="tspan35832"
+         style="stroke-width:0.264583"
+         x="879.68878"
+         y="294.36761" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,836.00837,220.59331)"
+       id="text54894"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect54896);fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>
