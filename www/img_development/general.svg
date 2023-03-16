@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="140.91789mm"
-   height="123.21853mm"
-   viewBox="0 0 140.91789 123.21852"
+   width="286.09494mm"
+   height="150.99039mm"
+   viewBox="0 0 286.09493 150.99038"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="general.svg"
-   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-small-lv.png"
+   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
    inkscape:export-xdpi="195.77299"
    inkscape:export-ydpi="195.77299"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,16 +28,22 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.52292222"
-     inkscape:cx="55.457578"
-     inkscape:cy="588.04156"
+     inkscape:cx="965.7268"
+     inkscape:cy="52.589083"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="57"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <rect
+       x="-294.49887"
+       y="-208.444"
+       width="623.41968"
+       height="606.20868"
+       id="rect54896" />
     <rect
        x="887.05743"
        y="1373.8573"
@@ -60,10 +66,10 @@
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 15.938036 : 1"
-       inkscape:vp_y="0 : 999.99989 : 0"
-       inkscape:vp_z="580.08413 : 15.938036 : 1"
-       inkscape:persp3d-origin="290.04207 : -19.822131 : 1"
+       inkscape:vp_x="0 : 43.709896 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="580.08415 : 43.709896 : 1"
+       inkscape:persp3d-origin="290.04208 : 7.9497258 : 1"
        id="perspective41128" />
     <marker
        style="overflow:visible"
@@ -334,7 +340,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-770.99256,-20.88738)">
+     transform="translate(-489.16732,-223.45857)">
     <rect
        style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.662359;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect71903"
@@ -440,19 +446,19 @@
        y="0"><tspan
          x="-206.30762"
          y="604.49907"
-         id="tspan84053"><tspan
+         id="tspan56781"><tspan
            style="fill:#ffffff"
-           id="tspan84051">Extract, </tspan></tspan><tspan
+           id="tspan56779">Extract, </tspan></tspan><tspan
          x="-280.40918"
          y="654.49907"
-         id="tspan84057"><tspan
+         id="tspan56785"><tspan
            style="fill:#ffffff"
-           id="tspan84055">Transform, and </tspan></tspan><tspan
+           id="tspan56783">Transform, and </tspan></tspan><tspan
          x="-252.22559"
          y="704.49907"
-         id="tspan84061"><tspan
+         id="tspan56789"><tspan
            style="fill:#ffffff"
-           id="tspan84059">Loadprocess</tspan></tspan></text>
+           id="tspan56787">Loadprocess</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m -102.88125,109.02842 49.692549,34.47398"
@@ -863,12 +869,12 @@
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="778.96753"
            y="224.79207"
-           id="tspan4345">Как лучше</tspan><tspan
+           id="tspan11114">Что следует</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="778.96753"
            y="232.72957"
-           id="tspan11114">действовать?</tspan></text>
+           id="tspan37732">делать?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -982,10 +988,16 @@
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1107.7405,362.4061 H 844.41785 V 222.15817"
        id="path966-1"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <g
        id="g63189-1"
-       transform="translate(345.03838,-8.2318886)">
+       transform="translate(345.03838,-8.2318886)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.755655;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-7"
@@ -1004,7 +1016,7 @@
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="540.33142"
            y="274.16507"
-           id="tspan2191-3">Kas noticis </tspan><tspan
+           id="tspan2191-3">Kas notika</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="540.33142"
@@ -1034,7 +1046,10 @@
     </g>
     <g
        id="g63198-1"
-       transform="translate(332.51625,-3.9385847)">
+       transform="translate(332.51625,-3.9385847)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.792161;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3-1"
@@ -1078,7 +1093,10 @@
     </g>
     <g
        id="g63207-6"
-       transform="translate(320.70966,1.4280453)">
+       transform="translate(320.70966,1.4280453)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.789716;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3-0-5"
@@ -1097,12 +1115,12 @@
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="695.24811"
            y="239.81503"
-           id="tspan3901-4">Kas notiek </tspan><tspan
+           id="tspan30058">Kas notiks </tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="695.24811"
            y="247.75253"
-           id="tspan30058">tālāk?</tspan></text>
+           id="tspan19302">tālāk?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -1126,7 +1144,10 @@
        x="-302.08057"
        y="841.23114"
        id="text11589-4"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan11587-1"
          style="font-size:7.05556px;stroke-width:0.264583"
@@ -1137,7 +1158,10 @@
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="957.8327"
        y="371.4769"
-       id="text12495-9"><tspan
+       id="text12495-9"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan12493-9"
          style="font-size:7.05556px;stroke-width:0.264583"
@@ -1145,7 +1169,10 @@
          y="371.4769">SAREŽĢĪTĪBA</tspan></text>
     <g
        id="g63216-4"
-       transform="translate(308.18752,4.2902474)">
+       transform="translate(308.18752,4.2902474)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.830278;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3-0-7-3"
@@ -1157,19 +1184,19 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="778.96753"
-         y="224.79207"
+         x="779.97949"
+         y="229.85178"
          id="text20371-4"><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="778.96753"
-           y="224.79207"
-           id="tspan11114-9">Kā darīt </tspan><tspan
+           x="779.97949"
+           y="229.85178"
+           id="tspan32666">Kas</tspan><tspan
            sodipodi:role="line"
            style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           x="778.96753"
-           y="232.72957"
-           id="tspan32666">labāk?</tspan></text>
+           x="779.97949"
+           y="237.78928"
+           id="tspan40686">jāldarīt?</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -1190,47 +1217,54 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="792.90796"
-       y="494.15561"
+       x="790.09656"
+       y="498.80457"
        id="text26962-8"
-       transform="rotate(-10.001629)"><tspan
+       transform="rotate(-10.327587)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan26960-1"
          style="font-size:6.35px;stroke-width:0.264583"
-         x="792.90796"
-         y="494.15561">Ieskats pagātnē</tspan></text>
+         x="790.09656"
+         y="498.80457">Ieskats pagātnē</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="908.31616"
-       y="478.6217"
+       x="877.19727"
+       y="513.28021"
        id="text26962-9-8"
-       transform="rotate(-9.1737322)"><tspan
+       transform="rotate(-11.277556)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          style="font-size:6.35px;stroke-width:0.264583"
-         x="908.31616"
-         y="478.6217"
-         id="tspan80423">Saprašana klāt</tspan></text>
+         x="877.19727"
+         y="513.28021"
+         id="tspan80423">Saprašana tāgadnē</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="996.09192"
-       y="479.61813"
+       x="967.1413"
+       y="531.77942"
        id="text26962-9-7-3"
-       transform="rotate(-9.4063101)"><tspan
+       transform="rotate(-12.328561)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          style="font-size:6.35px;stroke-width:0.264583"
-         x="996.09192"
-         y="479.61813"
-         id="tspan24016-8">Skatos iekšā</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:6.35px;stroke-width:0.264583"
-         x="996.09192"
-         y="487.55563"
-         id="tspan82339">nākotnē</tspan></text>
+         x="967.1413"
+         y="531.77942"
+         id="tspan82339">Ieskats nākotnē</tspan></text>
     <g
        id="g20179-6"
-       transform="rotate(-2.5331494,639.57648,-6736.5037)">
+       transform="rotate(-2.5331494,639.57648,-6736.5037)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <path
          style="fill:none;stroke:#9ec4ff;stroke-width:15.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 549.11022,335.70242 C 777.72866,301.71378 777.72866,301.71378 777.72866,301.71378"
@@ -1248,7 +1282,10 @@
        x="955.89343"
        y="508.81656"
        id="text29796-9"
-       transform="rotate(-11.933991)"><tspan
+       transform="rotate(-11.933991)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan29794-6"
          style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -1260,7 +1297,10 @@
        x="786.45117"
        y="496.63037"
        id="text30394-0"
-       transform="rotate(-11.230391)"><tspan
+       transform="rotate(-11.230391)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan30392-5"
          style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -1269,11 +1309,17 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-1)"
        d="M 844.41785,225.86236 V 222.866"
-       id="path45657-2" />
+       id="path45657-2"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-6-7)"
        d="m 1104.7441,362.4061 h 2.9964"
-       id="path45657-9-7" />
+       id="path45657-9-7"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-lv.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1646,12 +1692,12 @@
          style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="705.16345"
          y="35.165867"
-         id="tspan20405-5-6">Как лучше</tspan><tspan
+         id="tspan38268">Что следует</tspan><tspan
          sodipodi:role="line"
          style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="705.16345"
          y="43.103367"
-         id="tspan38268">действовать?</tspan></text>
+         id="tspan51646">делать?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -1809,12 +1855,12 @@
          style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="878.68457"
          y="63.423416"
-         id="tspan36710-2">Kas notiek </tspan><tspan
+         id="tspan13585">Kas notiks </tspan><tspan
          sodipodi:role="line"
          style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="878.68457"
          y="71.360916"
-         id="tspan13585">tālāk?</tspan></text>
+         id="tspan29088">tālāk?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -1861,12 +1907,12 @@
          style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="878.33813"
          y="31.305344"
-         id="tspan38268-7">Kā darīt </tspan><tspan
+         id="tspan32242">Kas</tspan><tspan
          sodipodi:role="line"
          style="font-size:6.35px;text-align:start;text-anchor:start;stroke-width:0.264583"
          x="878.33813"
          y="39.242844"
-         id="tspan17309">labāk?</tspan></text>
+         id="tspan47736">jāldarīt?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
@@ -2223,6 +2269,11 @@
          id="tspan35832"
          style="stroke-width:0.264583"
          x="879.68878"
-         y="294.36761"></tspan></text>
+         y="294.36761" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,836.00837,220.59331)"
+       id="text54894"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect54896);fill:#000000;fill-opacity:1;stroke:none" />
   </g>
 </svg>
