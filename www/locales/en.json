@@ -219,7 +219,7 @@
 
   ,"Scripts": {
     "h":"Script Examples"
-   ,"hTab1":"Parse retailer items with python"
+   ,"hTab1":"Parse retailer items with Python"
    ,"hTab2":"Script 2"
   }
 
@@ -255,7 +255,7 @@
 
 ,"Cleaning": {
   "h":"Data Cleaning"
- ,"p": "Data quality is essential for applying machine learning models to solve business questions and training AI models. However, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
+ ,"p": "Data quality is essential for applying machine learning models to solve business questions. Fortunately, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
 }
 
 ,"Architecture": {
