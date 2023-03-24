@@ -2,6 +2,9 @@ $(function() {
     var url = window.location.href.split('/');
     var language = url[url.length - 2];
     switch (language) {
+        case 'fr':
+            $('#languageSelector').selectpicker('val', "4");
+        break;
         case 'lv':
             $('#languageSelector').selectpicker('val', "3");
           break;
@@ -19,6 +22,14 @@ $(function() {
         }else{
             var url = window.location.href.split('/');
             switch (selectedValue) {
+                case '4':
+                    var page = url.pop();
+                    if(previousValue != 1){
+                      url.pop();
+                    }                    
+                    var new_url = (url.join('/')).concat('/fr/').concat(page);
+                    console.log(new_url);
+                  break;
                 case '3':
                     var page = url.pop();
                     if(previousValue != 1){

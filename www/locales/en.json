@@ -29,7 +29,7 @@
     ,"Report": "Reports"
     ,"Analysis": "Analysis"
     ,"Solutions": "Solutions"
-    ,"Cleaning": "Data Cleaning"
+    ,"Cleaning": "Data&nbsp;Cleaning"
     ,"Consultancy": "Consultancy"
     ,"Architecture": "Architecture"
     ,"Scripts": "Scripts"
@@ -129,11 +129,11 @@
     "Contact": "Please send your CV to",
     "jobs": {
       "job1": {
-        "Title": "Senior BI Developer/Analyst",
+        "Title": "Senior BI Developer<wbr>/Analyst",
         "Desc": "You are experienced, high skilled professional with good background in working with Analytical Applications, such as SSRS, SSAS, Power BI, Oracle BI. You are able to understand and implement complex analytical solutions – this includes ability to understand design of enterprise level architecture, think ahead for the possible extension of it and be able to spot possible points of improvement. Your level of technical skills enables you to see behind the lines of data. You have a will to learn, to be creative and to grow - this is what we expect.",
         "More": {
           "Expirience": {
-            "Title": "Required Experience/Skills:",
+            "Title": "Required Experience<wbr>/Skills:",
             "List": "<li class = \"oblig\">5 or more years of experience in BI Industry</li><li class = \"oblig\">Advanced level of SQL</li><li class = \"oblig\">Knowledge of DWH architecture and ETL process</li><li class = \"oblig\">Good experience with analysis or reporting tools like Power BI, SSRS or Oracle BI</li><li class = \"oblig\">Knowledge of IT development processes and methodologies</li><li class = \"oblig\">Knowledge of Microsoft Azure</li><li class = \"oblig\">Customer focused, analytical skills, energetic and result driven</li><li class = \"oblig\">Communication on good level of either English, Russian or Latvian</li><li class = \"nonoblig\">Knowledge of statistical analysis and modelling is a plus</li><li class = \"nonoblig\">Experience with SQL performance tuning is a plus</li><li class = \"nonoblig\">Background in programming is a big plus</li><li class = \"nonoblig\">Team lead experience is a plus, but not required</li>"
           },
           "Mission": {
@@ -148,11 +148,11 @@
         }
       },
       "job2": {
-        "Title": "Middle BI Developer/Analyst",
+        "Title": "Middle BI Developer<wbr>/Analyst",
         "Desc": "The primary role of the BI developer is to take the design and technical specifications and develop effective and high quality technical solutions that meet the business requirements. The technical domain of the BI Developer includes logical and physical data modeling, data delivery best practices, tools and technologies, security in the data delivery environment, data delivery (application) development, performance tuning, and administration.",
         "More": {
           "Expirience": {
-            "Title": "Required Experience/Skills:",
+            "Title": "Required Experience<wbr>/Skills:",
             "List": "<li class = \"oblig\">3 or more years of experience in BI Industry</li><li class = \"oblig\">Good level of SQL</li><li class = \"oblig\">Knowledge of DWH architecture and ETL process</li><li class = \"oblig\">Experience with analysis or reporting tools like Power BI, SSRS or Oracle BI</li><li class = \"oblig\">Knowledge of IT development processes and methodologies</li><li class = \"oblig\">Communication on good level of either English, Russian or Latvian</li><li class= \"oblig\">Creative and analytical thinker with strong problem-solving skills.</li><li class= \"oblig\">A will to learn, explore and acquire the new skills</li>"
           },
           "Offer": {
@@ -219,7 +219,7 @@
 
   ,"Scripts": {
     "h":"Script Examples"
-   ,"hTab1":"Parse retailer items with python"
+   ,"hTab1":"Parse retailer items with Python"
    ,"hTab2":"Script 2"
   }
 
@@ -255,7 +255,7 @@
 
 ,"Cleaning": {
   "h":"Data Cleaning"
- ,"p": "Data quality is essential for applying machine learning models to solve business questions and training AI models. However, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
+ ,"p": "Data quality is essential for applying machine learning models to solve business questions. Fortunately, analytics and data science do not just make demands on data quality. They can also contribute a lot to improving the quality of your data. Missing value imputation and detection of complex outliers are perhaps the two best-known capabilities of analytics in data quality, but they are by no means the only ones."
 }
 
 ,"Architecture": {

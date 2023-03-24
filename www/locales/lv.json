@@ -23,13 +23,13 @@
     "Home": "Galvenā"
    ,"Benefits": "Ieguvumi"
    ,"Services": "Pakalpojumi"
-   ,"About": "Par mums"
+   ,"About": "Par&nbsp;mums"
    ,"Contacts": "Kontakti"
    ,"Visualization": "Vizualizācija"
    ,"Report": "Pārskati"
    ,"Analysis": "Analīze"
    ,"Solutions": "Risinājumi"
-   ,"Cleaning": "Datu tīrīšana"
+   ,"Cleaning": "Datu&nbsp;tīrīšana"
    ,"Consultancy": "Konsultācijas"
    ,"Architecture": "Arhitektūra"
    ,"Scripts": "Skripti"
@@ -128,11 +128,11 @@
     "Contact": "Lūdzu, nosūtiet savu CV uz",
     "jobs": {
       "job1": {
-        "Title": "Senior BI Izstrādātājs/Analītiķis ",
+        "Title": "Senior BI Izstrādātājs<wbr>/Analītiķis ",
         "Desc": "Strādājot ar analītiskām lietojumprogrammām, piemēram, SSRS, SSA, Power BI, Oracle BI, Jūs esat pieredzējis, augsti kvalificēts profesionālis ar labam prasmem. Jūs spējat izprast un ieviest sarežģītus analītiskos risinājumus — tas ietver spēju izprast uzņēmuma līmeņa arhitektūras dizainu, domāt par iespējamo tās paplašināšanu un spēt noteikt iespējamos uzlabošanas punktus. Jūsu tehnisko prasmju līmenis ļauj lasīt datus starp rindām. Tev ir griba mācīties, būt radošam un augt - to mēs gaidām.",
         "More": {
           "Expirience": {
-            "Title": "Nepieciešamā pieredze/prasmes:",
+            "Title": "Nepieciešamā pieredze<wbr>/prasmes:",
             "List": "<li class = \"oblig\">5 vai vairāk gadu pieredze BI jomā</li><li class = \"oblig\">Augsts SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Laba pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par TO izstrādes procesiem un metodiku</li><li class = \"oblig\">Zināšanas par Microsoft Azure</li><li class = \"oblig\">Orientācija uz klientu, analītiskas prasmes, enerģētiskums un merķtiecība</li><li class = \"oblig\">Komunikācija labā līmenī latviešu, angļu vai krievu valodā.</li><li class = \"nonoblig\">Zināšanas par statistisko analīzi un modelēšanu ir pluss</li><li class = \"nonoblig\">SQL veiktspējas regulēšanas pieredze ir pluss</li><li class = \"nonoblig\">Programmēšanas pieredze ir liels pluss</li><li class = \"nonoblig\">Komandas vadības pieredze ir pluss, bet nav obligāta</li>"
           },
           "Mission": {
@@ -147,11 +147,11 @@
         }
       },
       "job2": {
-        "Title": "Middle BI Izstrādātājs/Analītiķis",
+        "Title": "Middle BI Izstrādātājs<wbr>/Analītiķis",
         "Desc": "BI izstrādātāja galvenais uzdevums ir pieņemt projektu un tehnisko specifikāciju un izstrādāt efektīvus un kvalitatīvus tehniskos risinājumus, kas atbilst uzņēmējdarbības prasībām. BI izstrādātāja tehniskā joma ietver loģisko un fizisko datu modelēšanu, datu piegādes paraugpraksi, rīkus un tehnoloģijas, datu sniegšanas drošību, datu piegādes (lietojumprogrammu) izstrādi, veiktspējas regulēšanu un administrēšanu.",
         "More": {
           "Expirience": {
-            "Title": "Nepieciešamā pieredze/prasmes:",
+            "Title": "Nepieciešamā pieredze<wbr>/prasmes:",
             "List": "<li class = \"oblig\">3 vai vairāk gadu pieredze BI jomā</li><li class = \"oblig\">Labs SQL līmenis</li><li class = \"oblig\">Zināšanas par DWH arhitektūru un ETL procesu</li><li class = \"oblig\">Pieredze ar analīzes vai ziņošanas rīkiem, piemēram, Power BI, SSRS vai Oracle BI</li><li class = \"oblig\">Zināšanas par informācijas tehnoloģiju izstrādes procesiem un metodēm</li><li class = \"oblig\">Komunikācija labā līmenī latviešu, angļu vai krievu valodā.</li><li class= \"oblig\">Radošs un analītisks domātājs ar spēcīgām problēmu risināšanas prasmēm.</li><li class= \"oblig\">Vēlme izpētīt un apgūt jaunās prasmes</li>"
           },
           "Offer": {
