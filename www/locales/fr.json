@@ -129,11 +129,11 @@
     "Contact": "Merci d'envoyer votre CV à",
     "jobs": {
       "job1": {
-        "Title": "Développeur/Analyste Sénior en BI",
+        "Title": "Développeur<wbr>/Analyste Sénior en BI",
         "Desc": "Vous êtes un professionnel expérimenté et hautement qualifié avec une bonne expérience de travail avec les applications analytiques, telles que SSRS, SSAS, Power BI, Oracle BI. Vous êtes capable de comprendre et de mettre en œuvre des solutions analytiques complexes - cela inclut la capacité de comprendre la conception de l'architecture au niveau de l'entreprise, de penser à l'avance pour l'extension possible de celle-ci et d'être capable de repérer les points d'amélioration possibles. Votre niveau de compétences techniques vous permet de lire les données entre les lignes. Vous avez la volonté d'apprendre, d'être créatif et de grandir - c'est ce que nous attendons.",
         "More": {
           "Expirience": {
-            "Title": "Expérience/compétences requises :",
+            "Title": "Expérience<wbr>/compétences requises :",
             "List": "<li class = \"oblig\">5 ans ou plus d'expérience dans l'industrie de la BI</li><li class = \"oblig\">Niveau avancé de SQL</li><li class = \"oblig\">Connaissance de l'architecture d'entrepôt de données et du processus de ETL (extraire, transformer, charger)</li><li class = \"oblig\">Bonne expérience avec des outils d'analyse ou de reporting comme Power BI, SSRS ou Oracle BI</li><li class = \"oblig\">Connaissance des processus et des méthodologies de développement informatique</li><li class = \"oblig\">Connaissance de Microsoft Azure</li><li class = \"oblig\">Concentré sur le client, avec les compétences analytiques, énergique et axé(e) sur les résultats</li><li class = \"oblig\">Communication sur un bon niveau d'anglais, de russe ou de letton</li><li class = \"nonoblig\">La connaissance de l'analyse statistique et de la modélisation est un plus</li><li class = \"nonoblig\">L'expérience avec le réglage des performances du SQL est un plus</li><li class = \"nonoblig\">L'expérience en programmation est un gros plus</li><li class = \"nonoblig\">L'expérience de chef d'équipe est un plus, mais n'est pas obligatoire</li>"
           },
           "Mission": {
@@ -148,11 +148,11 @@
         }
       },
       "job2": {
-        "Title": "Développeur/Analyste Intermédiaire en BI",
+        "Title": "Développeur<wbr>/Analyste Intermédiaire en BI",
         "Desc": "Le rôle principal du développeur BI est de prendre la conception et les spécifications techniques et de développer des solutions techniques efficaces et de haute qualité qui répondent aux exigences de l'entreprise. Le domaine technique du développeur BI comprend la modélisation de données logiques et physiques, les meilleures pratiques de livraison de données, les outils et technologies, la sécurité dans la sphère de livraison de données, le développement de livraison de données (application), le réglage des performances et l'administration.",
         "More": {
           "Expirience": {
-            "Title": "Expérience/compétences requises :",
+            "Title": "Expérience<wbr>/compétences requises :",
             "List": "<li class = \"oblig\">3 ans ou plus d'expérience dans l'industrie de la BI</li><li class = \"oblig\">Bon niveau de SQL</li><li class = \"oblig\" >Connaissance de l'architecture d'entrepôt de données et du processus de ETL (extraire, transformer, charger)</li><li class = \"oblig\">Expérience avec des outils d'analyse ou de l'architecture d'entrepôt de données et du processus de ETL (extraire, transformer, charger) tels que Power BI, SSRS ou Oracle BI</li><li class = \"oblig\"> Connaissance des processus et méthodologies de développement informatique</li><li class = \"oblig\">Communication d'un bon niveau en anglais, russe ou letton</li><li class= \"oblig\">Esprit créatif et analytique avec de solides compétences en résolution de problèmes.</li><li class= \"oblig\">Une volonté d'apprendre, d'explorer et d'acquérir les nouvelles compétences</li>"
           },
           "Offer": {
