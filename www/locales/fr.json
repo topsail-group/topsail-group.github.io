@@ -1,0 +1,281 @@
+{
+  "lang": "fr"
+
+  ,"_comment": {
+     "1": "Prefixes"
+    ,"2": "(h)eader - <h2> content"
+    ,"3": "(p)aragraph - <p> content"
+    ,"4": "(l)ink - <a href> content"
+    ,"5": "(t)ext - several <p>"
+    ,"6": "(w)ords - part of <p> content"
+    ,"7": "alt - value alt attribute"
+  }
+
+  ,"meta": {
+     "index": "Automatisez la création de vos rapports commerciaux et surveillez la croissance de votre entreprise 24h/24 et 7j/7 grâce à la technologie BI moderne."
+    ,"services": "Essayez les rapports de Power BI en ligne et automatisez la gestion de votre entrepôt de données (DWH). Solutions de l'informatique décisionnelle personnalisées."
+    ,"opportunities": "TopSail Group est une petite équipe amicale d'experts en BI, située en Lettonie. Nous avons de nombreuses années d'expérience de travail pour de grands clients européens. Rejoignez-nous, nous avons des cookies ;)"
+    ,"privacy-policy": "Politique de confidentialité - TopSail Group"
+    ,"terms-conditions": "Termes et Conditions - TopSail Group"
+  }
+
+  ,"nav": {
+     "Home": "Accueil"
+    ,"Benefits": "Avantages"
+    ,"Services": "Services"
+    ,"About": "A&nbsp;propos"
+    ,"Contacts": "Contacts"
+    ,"Visualization": "Visualisation"
+    ,"Report": "Rapports"
+    ,"Analysis": "Analyse"
+    ,"Solutions": "Solutions"
+    ,"Cleaning": "Nettoyage&nbsp;de&nbsp;données"
+    ,"Consultancy": "Conseil"
+    ,"Architecture": "Architecture"
+    ,"Scripts": "Scripts"
+  }
+
+  ,"Header": {
+     "h": "<b>TopSail Group</b><br>Les services<br>de l'informatique<br>décisionnelle"
+  }
+
+  ,"BI": {
+     "h": "Définition de l'informatique décisionnelle"
+    ,"p": "L'informatique décisionnelle (en anglais Business Intelligence ou BI) est un ensemble d'outils et de techniques informatiques qui peuvent être utilisés à diverses fins - pour surveiller les processus métier et les indicateurs de performance (KPI), fournir des aperçus, comparer les prévisions et les vrais résultats et même fournir des suggestions d'actions commerciales. Une fois établie, l'infrastructure de BI sert pendant <i>de nombreuses années</i>, aidant à prendre des décisions éclairées, à élaborer une stratégie à long terme, à minimiser les dépenses redondantes et à accroître l'efficacité de la gestion."
+  }
+  ,"Slogans": {
+    "h": "Les types d'analyse"
+    ,"pAnalyticalType1": "L'<b>analyse descriptive</b> est utilisée pour analyser les données sur le passé afin de détecter des régularités et des tendances, aidant les entreprises à répondre à des questions telles que «Сombien on-a vendu?» ou «Avons-nous atteint nos objectifs?»."
+    ,"pAnalyticalType2": "<b>L'analyse diagnostic</b> permet d'expliquer pourquoi les choses se sont passées ainsi et pas autrement. Ce type d'analyse identifie les tendances ou les régularités dans le passé et explique leurs causes."
+    ,"pAnalyticalType3": "<b>L'analyse prédictive</b> vise à prédire les résultats probables et à faire des prévisions éclairées à l'aide de données historiques au lieu de simplement interpréter les faits existants."
+    ,"pAnalyticalType4": "<b>L'analyse prescriptive</b> utilise des données provenant de diverses sources, y compris des statistiques, l'apprentissage automatique et l'exploration de données, pour identifier les résultats futurs probables et montrer la meilleure stratégie. Elle fournit des informations exploitables au lieu de données brutes, permettant aux entreprises de comprendre pourquoi certains résultats se produiront et de prédire l'effet des décisions futures."
+  }
+
+  ,"Benefits": {
+    "h": "Les avantages de l'informatique décisionnelle"
+    ,"hBenefit1": "Décisions commerciales basées sur les données"
+    ,"pBenefit1": "Une solide stratégie de BI peut fournir plus rapidement des données précises aux utilisateurs professionnels pour les aider à prendre de meilleures décisions commerciales."
+    ,"hBenefit2": "Analyse rapide et tableaux de bord intuitifs"
+    ,"pBenefit2": "La BI améliore l'efficacité des rapports en condensant les rapports dans des tableaux de bord faciles à analyser pour les utilisateurs non techniques."
+    ,"hBenefit3": "Avantage concurrentiel"
+    ,"pBenefit3": "Une solide stratégie de BI peut aider les entreprises à surveiller l'évolution de leur marché et à anticiper les besoins des clients."
+    ,"hBenefit4": "Amélioration de l'expérience client"
+    ,"pBenefit4": "L'accès rapide aux données peut aider les responsables de la satisfaction client à améliorer la qualité du service."
+    ,"hBenefit5": "Amélioration de la satisfaction des employés"
+    ,"pBenefit5": "L'accès aux données sans necessitée à contacter les analystes ou le service informatique peut aider à réduire les frictions, augmenter la productivité et faciliter des résultats plus rapides."
+    ,"hBenefit6": "Données fiables et gouvernées"
+    ,"pBenefit6": "Les plates-formes de BI modernes peuvent combiner des bases de données internes avec des sources de données externes dans un seul entrepôt de données, permettant d'accéder aux mêmes données en même temps."
+    
+   
+    }
+  ,"Services": {
+    "h": "Nos services"
+    ,"p": "Si vous avez besoin d'une solution BI conçue spécialement pour votre entreprise, consultez nos services"
+    ,"wDemos": "Voir les démos"
+    ,"hDevelopement": "Développement"
+    ,"pDevelopement": "Créez ou améliorez<br>ce que vous avez"
+    ,"hConsultancy": "Conseil"
+    ,"pConsultancy": "Dites-nous ce que<br>vous voulez savoir"
+    ,"hReporting": "Rapports"
+    ,"pReporting": "Automatisez la création<br>de vos rapports"
+    ,"hCleaning": "Nettoyage des données"
+    ,"pCleaning": "Rendez vos données<br>prêtes à l'emploi"
+    ,"hAnalysis": "Analyse des données"
+    ,"pAnalysis": "Obtenez l'aperçu<br>à partir de vos données"
+    ,"hVisualization": "Visualisation"
+    ,"pVisualization": "Laissez vos données<br>vous parler"
+  }
+  ,"Customers": {
+     "h": "Nos clients"
+  }
+  ,"About": {
+     "h": "Qui sommes nous"
+    ,"p": "TopSail Group est une petite société avec une grande experience de conseil en BI. Nos clients sont de grandes entreprises internationales, qui opèrent principalement sur le marché européen. Notre objectif est de créer des solutions de Business Intelligence qui maximisent l'utilisation du potentiel commercial des clients. Nous avons une équipe de professionnels qualifiés, certifiés et très motivés, avec une attitude \"pouvons tout\". Notre objectif principal est d'aider nos clients dans leur succès constant."
+  }
+  ,"Approach": {
+     "h": "Notre façon de travailler"
+    ,"p": "La rétroaction est vitale pour la qualité de l'informatique décisionnelle. C'est pourquois nous demandons toujours à nos clients d'évaluer à la fois les exigences et la solution finale pour nous assurer qu'elle fournit des aperçus plus approfonds et de meilleurs résultats."
+  }
+  ,"NameMeaning": {
+     "h": "Fait intéressant"
+    ,"p": "Il a toujours été important d'utiliser chaque élan pour vous assurer d'aller plus vite et de garder une longueur d'avance. Le hunier (<i>topsail</i> en anglais) est une petite voile sur le dessus du mât, qui aide même les plus gros navires à gagner en vitesse."
+  }
+  ,"Contacts": {
+     "h":"Contactez-nous"
+    ,"p": "N'hésitez pas à nous écrire"
+    ,"pAddress": "Darzciema 60, Riga, LV-1073,&nbsp;Lettonie"
+  }
+  ,"Footer": {
+     "hTopSail": "TopSail Group"
+    ,"pTopSail": "Nous sommes une petite société avec une grande experience de conseil en BI. Notre objectif est de créer des solutions de Business Intelligence qui maximisent l'utilisation du potentiel commercial des clients."
+    ,"hLinks": "Liens importants"
+    ,"wFPA": "Nos partenaires commerciaux", "lFPA": "FPA"
+    ,"wJobs": "Découvrez nos", "lJobs": "Opportunités d'emploi"
+    ,"wTerms": "Lisez nos", "lTerms": "Conditions d'utilisation", "lPrivacy": "Politique de confidentialité"
+    ,"hMedia": "Médias sociaux"
+    ,"wCopyright": "Droit d'auteur"
+  }
+  ,"btn": {
+    "Discover": "DÉCOUVRIR",
+    "More": "PLUS",
+    "More2": "SAVOIR PLUS"
+  }
+  ,"Opportunities": {
+    "breadcrumbs": {
+      "home": "Page d'accueil",
+      "cur": "Opportunités d'emploi"
+    },
+    "Title": "Opportunités d'emploi",
+    "Contact": "Merci d'envoyer votre CV à",
+    "jobs": {
+      "job1": {
+        "Title": "Développeur<wbr>/Analyste Sénior en BI",
+        "Desc": "Vous êtes un professionnel expérimenté et hautement qualifié avec une bonne expérience de travail avec les applications analytiques, telles que SSRS, SSAS, Power BI, Oracle BI. Vous êtes capable de comprendre et de mettre en œuvre des solutions analytiques complexes - cela inclut la capacité de comprendre la conception de l'architecture au niveau de l'entreprise, de penser à l'avance pour l'extension possible de celle-ci et d'être capable de repérer les points d'amélioration possibles. Votre niveau de compétences techniques vous permet de lire les données entre les lignes. Vous avez la volonté d'apprendre, d'être créatif et de grandir - c'est ce que nous attendons.",
+        "More": {
+          "Expirience": {
+            "Title": "Expérience<wbr>/compétences requises :",
+            "List": "<li class = \"oblig\">5 ans ou plus d'expérience dans l'industrie de la BI</li><li class = \"oblig\">Niveau avancé de SQL</li><li class = \"oblig\">Connaissance de l'architecture d'entrepôt de données et du processus de ETL (extraire, transformer, charger)</li><li class = \"oblig\">Bonne expérience avec des outils d'analyse ou de reporting comme Power BI, SSRS ou Oracle BI</li><li class = \"oblig\">Connaissance des processus et des méthodologies de développement informatique</li><li class = \"oblig\">Connaissance de Microsoft Azure</li><li class = \"oblig\">Concentré sur le client, avec les compétences analytiques, énergique et axé(e) sur les résultats</li><li class = \"oblig\">Communication sur un bon niveau d'anglais, de russe ou de letton</li><li class = \"nonoblig\">La connaissance de l'analyse statistique et de la modélisation est un plus</li><li class = \"nonoblig\">L'expérience avec le réglage des performances du SQL est un plus</li><li class = \"nonoblig\">L'expérience en programmation est un gros plus</li><li class = \"nonoblig\">L'expérience de chef d'équipe est un plus, mais n'est pas obligatoire</li>"
+          },
+          "Mission": {
+            "Title": "Vos mission :",
+            "Subtitle": "(si vous choisissez de l'accepter)",
+            "Text": "Participer au développement d'entrepôts de données orientés sur l'informatique décisionnelle pour de grandes entreprises européennes bien connues, opérant avec plusieurs succursales sur le marché européen. Vous feriez face aux dangers des données dispersées, remettrez en question les exigences et explorerez les profondeurs des solutions héritées dont personne ne peut se souvenir.<br>Votre cible principale serait un entrepôt de données de haute qualité, nouveau ou considérablement amélioré, qui offrirait de grandes possibilités d'analyse et des indicateur de performance clairs mais importants pour les utilisateurs finaux."
+          },
+          "Offer": {
+            "Title": "Nous offrons :",
+            "List": "<li>Salaire à partir de 2500 € brut</li><li>Environnement de travail agréable</li><li>Collaborateurs sympathiques</li><li>Projets stimulants</li><li>Belles primes</li><li>Respect (pour certaines personnes c'est même plus important © )</li>"
+          }
+        }
+      },
+      "job2": {
+        "Title": "Développeur<wbr>/Analyste Intermédiaire en BI",
+        "Desc": "Le rôle principal du développeur BI est de prendre la conception et les spécifications techniques et de développer des solutions techniques efficaces et de haute qualité qui répondent aux exigences de l'entreprise. Le domaine technique du développeur BI comprend la modélisation de données logiques et physiques, les meilleures pratiques de livraison de données, les outils et technologies, la sécurité dans la sphère de livraison de données, le développement de livraison de données (application), le réglage des performances et l'administration.",
+        "More": {
+          "Expirience": {
+            "Title": "Expérience<wbr>/compétences requises :",
+            "List": "<li class = \"oblig\">3 ans ou plus d'expérience dans l'industrie de la BI</li><li class = \"oblig\">Bon niveau de SQL</li><li class = \"oblig\" >Connaissance de l'architecture d'entrepôt de données et du processus de ETL (extraire, transformer, charger)</li><li class = \"oblig\">Expérience avec des outils d'analyse ou de l'architecture d'entrepôt de données et du processus de ETL (extraire, transformer, charger) tels que Power BI, SSRS ou Oracle BI</li><li class = \"oblig\"> Connaissance des processus et méthodologies de développement informatique</li><li class = \"oblig\">Communication d'un bon niveau en anglais, russe ou letton</li><li class= \"oblig\">Esprit créatif et analytique avec de solides compétences en résolution de problèmes.</li><li class= \"oblig\">Une volonté d'apprendre, d'explorer et d'acquérir les nouvelles compétences</li>"
+          },
+          "Offer": {
+            "Title": "Nous offrons :",
+            "List": "<li>Salaire à partir de 2000 € brut</li> <li>Environnement de travail agréable</li> <li>Collaborateurs sympathiques</li> <li>Projets stimulants</li> <li>Belles primes</li> <li>Respect (pour certaines personnes c'est même plus important ©)</li>"
+          }
+        }
+      },
+      "job3": {
+        "Title": "Stagiaire en BI",
+        "Desc": "Souhaitez-vous devenir Développeur de l'informatique décisionnelle? Il y a une opportunité pour vous chez TopSail Group ! Apprenez et acquérez des compétences qui vous offriraient d'énormes opportunités de carrière dans le monde moderne. L'intelligence d'affaires, la science des données, l'apprentissage automatique et de nombreuses technologies intéressantes sont très demandées ces jours-ci, et nous vous invitons à rejoindre ce club respecté.",
+        "More": {
+          "Expirience": {
+            "Title": "Pour commencer",
+            "Intro": "Ce serait formidable si vous aviez les compétences suivantes :",
+            "List": "<li class = \"oblig\">La maîtrise de l'informatique raisonnable</li><li class = \"oblig\">La compréhension de base des routines de développement logiciel</li><li class = \"oblig\">Connaissance de base du SQL</li><li class = \"oblig\">Certaines capacités d'analyse et de résolution de problèmes</li><li class = \"oblig\">Bonne communication en anglais, russe ou letton< /li><li class = \"oblig\">Une volonté d'apprendre, d'explorer et d'acquérir de nouvelles compétences</li><li class= \"oblig\">Le sens de l'humour ;)</li>",
+            "Outro": "On disait autrefois - Un voyage de mille lieues commence par un premier pas. Chez TopSail Group, nous aimerions vous offrir nos conseils et notre expérience tout au long de ce voyage. Dès que vous aurez reçu une formation de base, vous rejoindrez notre équipe dans des projets sympas.<br><br>Vous sentez-vous prêt pour cette aventure professionnelle ?"
+          },
+          "Offer": {
+            "Title": "Nous offrons :",
+            "List": "<li>Environnement de travail agréable</li> <li>Collaborateurs sympathiques</li> <li>Projets stimulants</li> <li>Belles primes</li> <li>Respect (pour certaines personnes c'est même plus important ©)</li>"
+          }
+        }
+      }
+    }
+  },
+  "Privacy":{
+    "Title": "Politique de confidentialité",
+    "breadcrumbs": {
+      "home": "Page d'accueil",
+      "cur": "Politique de confidentialité"
+    },
+    "Content":{
+      "Title": "Données privées que nous recevons et collectons",
+      "Text": "TopSail Group collecte et reçoit également automatiquement certaines informations de votre ordinateur ou appareil mobile, y compris les activités que vous effectuez sur notre site Web, les plates-formes et les applications, le type de matériel et de logiciel que vous utilisez (par exemple, votre système d'exploitation ou votre navigateur ), et les informations obtenues à partir des cookies. Par exemple, chaque fois que vous visitez le site Web ou utilisez les services d'une autre manière, nous collectons automatiquement votre adresse IP, le type de navigateur et d'appareil, les temps d'accès, la page Web d'où vous venez, les régions à partir desquelles vous naviguez sur la page Web et les pages Web auxquelles vous accédez (le cas échéant)."
+    }
+  },
+  "Terms":{
+    "Title": "Conditions d'utilisation",
+    "breadcrumbs": {
+      "home": "Page d'accueil",
+      "cur": "Conditions d'utilisation"
+    },
+    "Content":{
+      "topic1":{
+        "Title": "Limitations de responsabilité",
+        "Text1": "TopSail Group collecte et reçoit également automatiquement certaines informations de votre ordinateur ou appareil mobile, y compris les activités que vous effectuez sur notre site Web, les plates-formes et les applications, le type de matériel et de logiciel que vous utilisez (par exemple, votre système d'exploitation ou votre navigateur ), et les informations obtenues à partir des cookies. Par exemple, chaque fois que vous visitez le site Web ou utilisez les services d'une autre manière, nous collectons automatiquement votre adresse IP, le type de navigateur et d'appareil, les temps d'accès, la page Web d'où vous venez, les régions à partir desquelles vous naviguez sur la page Web et les pages Web auxquelles vous accédez (le cas échéant)."
+      },"topic2":{
+        "Title": "Termes et conditions",
+        "Text": "En aucun cas TopSail Group ne pourra être tenu responsable des dommages directs, indirects, spéciaux, accidentels ou consécutifs, y compris, mais sans s'y limiter, la perte de données ou de profit, résultant de l'utilisation ou de l'impossibilité d'utiliser les éléments de ce site, même si TopSail Group ou un représentant autorisé a été informé de la possibilité de tels dommages. Si votre utilisation du matériel de ce site entraîne la nécessité d'un entretien, d'une réparation ou d'une correction de l'équipement ou des données, vous en assumez tous les coûts."
+      },"topic3":{
+        "Title": "Adhésion Designer et comment elle s'applique",
+        "Text": "En utilisant l'un des Services, ou en soumettant ou en collectant des Informations personnelles via les Services, vous consentez à la collecte, au transfert, au stockage, à la divulgation et à l'utilisation de vos Informations personnelles de la manière indiquée dans la présente Politique de confidentialité. Si vous ne consentez pas à l'utilisation de vos informations personnelles de cette manière, veuillez cesser d'utiliser les Services."
+      }
+    }
+  }
+
+  ,"Visualization": {
+    "h": "Visualisation"
+    ,"p": "Les outils de BI que nous utilisons actuellement fournissent près de 500 graphiques certifiés et personnalisables pour représenter vos données de manière simple à comprendre. Chaque vue est interactive et vous permet de découper vos données par année / type de produit / département / tout ce que vous voulez en un seul clic."
+    ,"hChart1": "Utilisation"
+    ,"hChart2": "Conception"
+  }
+
+  ,"Scripts": {
+    "h": "Exemples de scripts"
+   ,"hTab1": "Le script à parser les éléments du détaillant avec Python"
+   ,"hTab2": "Script 2"
+  }
+
+ ,"Report": {
+  "h": "Démos des rapports"
+ ,"p1": "Démonstration de différents types de rapports Analytics"
+ ,"p2": "Analyse de désabonnement"
+ ,"p3": "Analyse du modèle tabulaire"
+}
+
+,"Analysis": {
+  "h": "Analyse des données"
+ ,"pAnalyticalReporting": "Un rapport analytique est un type de rapport d'activité qui utilise des données qualitatives et quantitatives de l'entreprise pour analyser et évaluer une stratégie ou un processus d'entreprise, tout en permettant aux employés de prendre des décisions basées sur des preuves et d'analyses. Malgré que le reporting analytique utilise la statistique et des données historiques et peut fournir pronostics pour des problèmes spécifiques, dans un large éventail d'industries on l'utilise également pour visualiser et analyser des données actuelles."
+ ,"pQuantitativeNQualitative": "Avec nos scientifiques des données à bord, vous avez accès à la fois à des analyses de données quantitatives et qualitatives pour apporter des idées précieuses à votre équipe au bon moment."
+ ,"pWePerform": "Nous effectuons :"
+ ,"wStatistical": "Analyse statistique "
+ ,"wDiagnostic": "Analyse diagnostique "
+ ,"wPredictive": "Analyse prédictive "
+ ,"wPrescriptive": "Analyse prescriptive"
+}
+
+,"Solutions": {
+  "h": "Solutions techniques"
+ ,"p": "Nous créons, gérons et/ou soutenons"
+ ,"wWarehouse": "Entrepôt de données (DWH)"
+ ,"wDataManagement": "Gestion de base de données (MDM)"
+ ,"wPipelines": "Piplines ETL/ELT (Extraire, Transformer, Charger des données)"
+ ,"wIntegration": "Intégration de données"
+ ,"p1": "Google Analytics"
+ ,"p2": "Piplines SSIS"
+ ,"p3": "ETL : mappage Informatica"
+}
+
+,"Cleaning": {
+  "h": "Nettoyage des données"
+ ,"p": "La qualité des données est essentielle pour appliquer des modèles d'apprentissage automatique et résoudre des questions commerciales. Heureusement, l'analyse et la science des données pas seulement exigent la qualité des données. Eux-mêmes elles peuvent également contribuer à améliorer la qualité de vos données. L'imputation des valeurs manquantes et la détection des valeurs aberrantes complexes sont peut-être les deux capacités les plus connues de l'analyse de la qualité des données, mais ce ne sont en aucun cas les seules."
+}
+
+,"Architecture": {
+  "h": "Architecture"
+ ,"hFigure1": "Entrepôt de données Azure"
+ ,"hFigure2": "Architecture Power BI"
+ ,"hFigure3": "Conception basée sur Synapse"
+ ,"hDWH": "Entrepôts de données (DWH)"
+ ,"pDWH": "L'objectif principal de la technologie DWH est de collecter, intégrer, nettoyer et stocker les données de manière cohérente."
+}
+
+,"Consultancy": {
+  "h": "Conseil"
+ ,"pStayInvolved": "Définir vos besoins est la première étape vers la Business Intelligence. Nous encourageons nos clients à s'impliquer dans les travaux de conception et nous maintenons une communication active tout au long du processus de développement pour rester alignés sur vos besoins individuels."
+ ,"pWeWillGuideYou": "Néanmoins, si vous avez de la difficulté à définir les besoins de votre entreprise, notre équipe d'experts est prête à vous guider tout au long du processus d'analyse commerciale. Cela vous apportera une vue d'ensemble pour choisir vos prochaines actions."
+ ,"pContactUs": "Vous pouvez nous contacter pour obtenir votre première consultation gratuite."
+}
+
+,"Skills": {
+  "h": "Nos compétences"
+}
+
+}
