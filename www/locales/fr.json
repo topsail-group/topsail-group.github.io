@@ -45,7 +45,7 @@
   }
   ,"Slogans": {
     "h": "Les types d'analyse"
-    ,"pAnalyticalType1": "L'<b>analyse descriptive</b> est utilisée pour analyser les données sur le passé afin de détecter des régularités et des tendances, aidant les entreprises à répondre à des questions telles que « Combien on-a vendu ? » ou « Avons-nous atteint nos objectifs ? »"
+    ,"pAnalyticalType1": "<b>L'analyse descriptive</b> est utilisée pour analyser les données sur le passé afin de détecter des régularités et des tendances, aidant les entreprises à répondre à des questions telles que « Combien on-a vendu ? » ou « Avons-nous atteint nos objectifs ? »"
     ,"pAnalyticalType2": "<b>L'analyse diagnostic</b> permet d'expliquer pourquoi les choses se sont passées ainsi et pas autrement. Ce type d'analyse identifie les tendances ou les régularités dans le passé et explique leurs causes."
     ,"pAnalyticalType3": "<b>L'analyse prédictive</b> vise à prédire les résultats probables et à faire des prévisions éclairées à l'aide de données historiques au lieu de simplement interpréter les faits existants."
     ,"pAnalyticalType4": "<b>L'analyse prescriptive</b> utilise des données provenant de diverses sources, y compris des statistiques, l'apprentissage automatique et l'exploration de données, pour identifier les résultats futurs probables et montrer la meilleure stratégie. Elle fournit des informations exploitables au lieu de données brutes, permettant aux entreprises de comprendre pourquoi certains résultats se produiront et de prédire l'effet des décisions futures."
