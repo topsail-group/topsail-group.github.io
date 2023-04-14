@@ -6,7 +6,7 @@
     }
 }
 
-@media (max-width: 400px) or ( (min-width: 992px) and (max-width: 1270px) ) {
+@media (max-width: 400px) or ( (min-width: 992px) and (max-width: 1350px) ) {
   #logo-right-services {
       display: none;
   }
