@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="286.09494mm"
-   height="150.99039mm"
-   viewBox="0 0 286.09493 150.99038"
+   width="149.69511mm"
+   height="123.21853mm"
+   viewBox="0 0 149.69511 123.21852"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="general.svg"
-   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+   inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-small-ru.png"
    inkscape:export-xdpi="195.77299"
    inkscape:export-ydpi="195.77299"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.52292222"
-     inkscape:cx="965.7268"
-     inkscape:cy="52.589083"
+     inkscape:cx="553.61962"
+     inkscape:cy="651.14846"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -66,10 +66,10 @@
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 43.709896 : 1"
-       inkscape:vp_y="0 : 999.99996 : 0"
-       inkscape:vp_z="580.08415 : 43.709896 : 1"
-       inkscape:persp3d-origin="290.04208 : 7.9497258 : 1"
+       inkscape:vp_x="0 : 15.938037 : 1"
+       inkscape:vp_y="0 : 999.99989 : 0"
+       inkscape:vp_z="580.08417 : 15.938037 : 1"
+       inkscape:persp3d-origin="290.04209 : -19.822131 : 1"
        id="perspective41128" />
     <marker
        style="overflow:visible"
@@ -340,7 +340,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-489.16732,-223.45857)">
+     transform="translate(-598.36909,-24.7479)">
+    <rect
+       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.805705;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect71903-0"
+       width="69.280197"
+       height="24.32872"
+       x="630.49213"
+       y="57.548798"
+       ry="6.3466187" />
     <rect
        style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.662359;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect71903"
@@ -446,19 +454,19 @@
        y="0"><tspan
          x="-206.30762"
          y="604.49907"
-         id="tspan56781"><tspan
+         id="tspan5855"><tspan
            style="fill:#ffffff"
-           id="tspan56779">Extract, </tspan></tspan><tspan
+           id="tspan5853">Extract, </tspan></tspan><tspan
          x="-280.40918"
          y="654.49907"
-         id="tspan56785"><tspan
+         id="tspan5859"><tspan
            style="fill:#ffffff"
-           id="tspan56783">Transform, and </tspan></tspan><tspan
+           id="tspan5857">Transform, and </tspan></tspan><tspan
          x="-252.22559"
          y="704.49907"
-         id="tspan56789"><tspan
+         id="tspan5863"><tspan
            style="fill:#ffffff"
-           id="tspan56787">Loadprocess</tspan></tspan></text>
+           id="tspan5861">Loadprocess</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m -102.88125,109.02842 49.692549,34.47398"
@@ -692,10 +700,16 @@
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 760.91323,365.27136 H 497.59059 V 225.02343"
        id="path966"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <g
        id="g63189"
-       transform="translate(-1.7888766,-5.3666299)">
+       transform="translate(-1.7888766,-5.3666299)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.755655;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350"
@@ -739,7 +753,10 @@
     </g>
     <g
        id="g63198"
-       transform="translate(-14.311013,-1.073326)">
+       transform="translate(-14.311013,-1.073326)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.792161;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3"
@@ -810,20 +827,58 @@
            id="tspan3901">произойдёт?</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
-         x="694.89258"
-         y="267.6413"
-         id="text2615-5-8-0"><tspan
+         style="font-style:normal;font-weight:normal;font-size:6.88239px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.258088"
+         x="763.9444"
+         y="243.41489"
+         id="text2615-5-8-0"
+         transform="scale(0.90994643,1.0989658)"><tspan
            sodipodi:role="line"
-           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
-           x="694.89258"
-           y="267.6413"
-           id="tspan9045">Предиктивная</tspan><tspan
+           style="font-size:6.88239px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.258088"
+           x="763.9444"
+           y="243.41489"
+           id="tspan9045">Предсказывающая</tspan><tspan
            sodipodi:role="line"
-           style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
-           x="694.89258"
-           y="276.46075"
-           id="tspan29818">аналитика</tspan></text>
+           style="font-size:6.88239px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.258088"
+           x="763.9444"
+           y="252.01787"
+           id="tspan29818"
+           rotate="0 0 0 0 0 0 0">аналитика</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.88239px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.258088"
+         x="747.52576"
+         y="166.72977"
+         id="text2615-5-8-0-2"
+         transform="scale(0.90994643,1.0989658)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.88239px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.258088"
+           x="747.52576"
+           y="166.72977"
+           id="tspan9045-6">Предсказывающая</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.88239px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.258088"
+           x="747.52576"
+           y="175.33275"
+           id="tspan29818-90"
+           rotate="0 0 0 0 0 0 0">аналитика</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.88239px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.258088"
+         x="760.31482"
+         y="57.153088"
+         id="text2615-5-8-0-3"
+         transform="scale(0.90994643,1.0989658)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.88239px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.258088"
+           x="760.31482"
+           y="57.153088"
+           id="tspan9045-4">Предсказывающая</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.88239px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.258088"
+           x="760.31482"
+           y="65.756073"
+           id="tspan29818-3"
+           rotate="0 0 0 0 0 0 0">аналитика</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -831,7 +886,10 @@
        x="-304.94583"
        y="494.40387"
        id="text11589"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan11587"
          style="font-size:7.05556px;stroke-width:0.264583"
@@ -842,7 +900,10 @@
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="611.00543"
        y="374.34216"
-       id="text12495"><tspan
+       id="text12495"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan12493"
          style="font-size:7.05556px;stroke-width:0.264583"
@@ -850,7 +911,10 @@
          y="374.34216">СЛОЖНОСТЬ</tspan></text>
     <g
        id="g63216"
-       transform="translate(-38.639737,7.1555061)">
+       transform="translate(-38.639737,7.1555061)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <rect
          style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.830278;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect1350-3-0-7"
@@ -898,7 +962,10 @@
        x="450.85385"
        y="436.7417"
        id="text26962"
-       transform="rotate(-10.001629)"><tspan
+       transform="rotate(-10.001629)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan26960"
          style="font-size:6.35px;stroke-width:0.264583"
@@ -910,7 +977,10 @@
        x="565.46826"
        y="426.15613"
        id="text26962-9"
-       transform="rotate(-9.1737322)"><tspan
+       transform="rotate(-9.1737322)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan26960-8"
          style="font-size:6.35px;stroke-width:0.264583"
@@ -927,7 +997,10 @@
        x="653.45978"
        y="425.76129"
        id="text26962-9-7"
-       transform="rotate(-9.4063101)"><tspan
+       transform="rotate(-9.4063101)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan26960-8-9"
          style="font-size:6.35px;stroke-width:0.264583"
@@ -940,7 +1013,10 @@
          id="tspan24016">будущее</tspan></text>
     <g
        id="g20179"
-       transform="rotate(-2.5331494,530.95986,1108.3278)">
+       transform="rotate(-2.5331494,530.95986,1108.3278)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299">
       <path
          style="fill:none;stroke:#9ec4ff;stroke-width:15.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 549.11022,335.70242 C 777.72866,301.71378 777.72866,301.71378 777.72866,301.71378"
@@ -958,7 +1034,10 @@
        x="615.96985"
        y="439.90134"
        id="text29796"
-       transform="rotate(-11.933991)"><tspan
+       transform="rotate(-11.933991)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan29794"
          style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -970,7 +1049,10 @@
        x="445.70694"
        y="431.89453"
        id="text30394"
-       transform="rotate(-11.230391)"><tspan
+       transform="rotate(-11.230391)"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299"><tspan
          sodipodi:role="line"
          id="tspan30392"
          style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -979,11 +1061,17 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661)"
        d="m 497.59059,228.72762 v -2.99636"
-       id="path45657" />
+       id="path45657"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker45661-6)"
        d="m 757.91687,365.27136 h 2.99636"
-       id="path45657-9" />
+       id="path45657-9"
+       inkscape:export-filename="C:\Users\AleksejsAnufrijevs\Projects\tsg\topsail-group.github.io\www\img\escalator\escalator-large-ru.png"
+       inkscape:export-xdpi="195.77299"
+       inkscape:export-ydpi="195.77299" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 1107.7405,362.4061 H 844.41785 V 222.15817"
@@ -1543,14 +1631,6 @@
          x="-146.07486"
          y="456.69806">Information</tspan></text>
     <rect
-       style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.805705;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect71903-0"
-       width="69.280197"
-       height="24.32872"
-       x="630.49213"
-       y="57.548798"
-       ry="6.3466187" />
-    <rect
        style="fill:#4889e8;fill-opacity:1;stroke:none;stroke-width:0.793946;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect71903-9-59"
        width="67.272644"
@@ -1646,22 +1726,6 @@
          x="705.50989"
          y="75.221443"
          id="tspan36710">произойдёт?</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264582"
-       x="665.1272"
-       y="68.03334"
-       id="text2615-5-8-0-4-5"><tspan
-         sodipodi:role="line"
-         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
-         x="665.1272"
-         y="68.03334"
-         id="tspan4403-8-2-5-4">Предиктивная</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264582"
-         x="665.1272"
-         y="76.852791"
-         id="tspan40526">аналитика</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
