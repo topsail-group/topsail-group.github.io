@@ -6,7 +6,7 @@
     }
 }
 
-@media (max-width: 400px) or ( (min-width: 992px) and (max-width: 1350px) ) {
+@media (max-width: 400px) or ( (min-width: 992px) and (max-width: 1170px) ) {
   #logo-right-services {
       display: none;
   }
@@ -181,7 +181,7 @@ h6 {
   height: 100%;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .bg-dark-blue-shadow-right{
     left: 30%;
     width: 70%;
@@ -189,7 +189,7 @@ h6 {
   .right-shadow-content {
     margin-left: 35%;
   }
-}
+} */
 
 
 .h-fit {
