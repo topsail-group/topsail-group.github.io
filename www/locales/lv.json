@@ -247,7 +247,7 @@
  ,"p": "Mēs veidojam, pārvaldām un/vai atbalstām"
  ,"wWarehouse":"Datu noliktava (DWH)"
  ,"wDataManagement": "Galvenā datu pārvaldība (MDM)"
- ,"wPipelines":"ETL/ELT konveijeri (datu izvilkšana, pārveidošana, ielāde)"
+ ,"wPipelines":"ETL/ELT (datu izvilkšana, pārveidošana, ielāde)"
  ,"wIntegration":"Datu integrācija"
  ,"p1": "Google Analītika"
  ,"p2": "SSIS konveijeris"
