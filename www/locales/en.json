@@ -247,7 +247,7 @@
  ,"p": "We Create, Manage and/or Support"
  ,"wWarehouse":"Data warehouse (DWH)"
  ,"wDataManagement":"Master data management (MDM)"
- ,"wPipelines":"ETL/ELT (Extract, Transform, Load data) piplines"
+ ,"wPipelines":"ETL/ELT (Extract, Transform, Load data)"
  ,"wIntegration":"Data integration"
  ,"p1": "Google Analytics"
  ,"p2": "SSIS pipeline"

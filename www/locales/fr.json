@@ -247,7 +247,7 @@
  ,"p": "Nous créons, gérons et/ou soutenons"
  ,"wWarehouse": "Entrepôt de données (DWH)"
  ,"wDataManagement": "Gestion de base de données (MDM)"
- ,"wPipelines": "Piplines ETL/ELT (Extraire, Transformer, Charger des données)"
+ ,"wPipelines": "ETL/ELT (Extraire, Transformer, Charger des données)"
  ,"wIntegration": "Intégration de données"
  ,"p1": "Google Analytics"
  ,"p2": "Piplines SSIS"
