@@ -6,13 +6,24 @@
     }
 }
 
+#logo-full-services {
+  display: block;
+}
+#logo-left-services {
+display: none;
+}
+
+
 @media (max-width: 400px) or ( (min-width: 992px) and (max-width: 1170px) ) {
-  #logo-right-services {
+  #logo-full-services {
       display: none;
+  }
+  #logo-left-services {
+    display: block;
   }
 }
 
-@media (max-width: 155px) {
+@media (max-width: 180px) {
   #logo-left, #logo-left-services {
       display: none;
   }
